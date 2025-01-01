@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/link-node/dinh-duong-cua-qua-tao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:22:41.711+07:00","updated":"2025-01-01T22:25:28.864+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/link-node/dinh-duong-cua-qua-tao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:22:41.711+07:00","updated":"2025-01-01T22:36:35.710+07:00"}
 ---
 
 # Dinh Dưỡng Của Quả Táo
@@ -11,6 +11,6 @@ Quả táo rất giàu chất xơ, vitamin C và chất chống oxy hóa, là m�
 - Giàu chất chống oxy hóa như quercetin.
 
 ## Chủ đề liên quan
-- [[Táo Và Sức Khỏe\|Táo Và Sức Khỏe]]
-- [[Các Giống Táo\|Các Giống Táo]]
-**
+- [[LinkNode/Táo Và Sức Khỏe\|Táo Và Sức Khỏe]]
+- [[LinkNode/Các Giống Táo\|Các Giống Táo]]
+
