@@ -1,5 +1,5 @@
 ---
-{"title":null,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương24","dg-publish":true,"dg-home":false,"permalink":"/tung-ly/1-projects/books/how-to-develop-a-super-power-memory/chapter-24-remembering-anniversaries-birthdays-and-other-important-dates/","dgPassFrontmatter":true}
+{"title":null,"date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương24","dg-publish":true,"dg-home":false,"permalink":"/tung-ly/1-projects/books/how-to-develop-a-super-power-memory/chapter-24-remembering-anniversaries-birthdays-and-other-important-dates/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-29T15:27:22.689+07:00","updated":"2025-01-01T18:40:03.689+07:00"}
 ---
 
 ### Techniques for Important Dates

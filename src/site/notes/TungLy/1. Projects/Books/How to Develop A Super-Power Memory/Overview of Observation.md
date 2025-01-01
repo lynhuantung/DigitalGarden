@@ -1,5 +1,5 @@
 ---
-{"title":"Overview of Observation","date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương1","dg-publish":true,"dg-home":false,"permalink":"/tung-ly/1-projects/books/how-to-develop-a-super-power-memory/overview-of-observation/","dgPassFrontmatter":true}
+{"title":"Overview of Observation","date":"2024-08-31","tags":["#book","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương1","dg-publish":true,"dg-home":false,"permalink":"/tung-ly/1-projects/books/how-to-develop-a-super-power-memory/overview-of-observation/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-29T15:27:22.696+07:00","updated":"2025-01-01T18:40:41.548+07:00"}
 ---
 
 ### Overview of Observation
