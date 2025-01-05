@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/node-link/qua-tao/tao-va-suc-khoe/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:24:24.725+07:00","updated":"2025-01-01T22:37:33.053+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Quả táo/Táo Và Sức Khỏe.md","permalink":"/qua-tao/tao-va-suc-khoe/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:24:24.725+07:00","updated":"2025-01-01T22:37:33.053+07:00"}
 ---
 
 # Táo Và Sức Khỏe
