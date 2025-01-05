@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/publish/ghi-chu-mang-luoi/infranodus-vi-du/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.912+07:00","updated":"2025-01-01T22:50:51.750+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus ví dụ.md","permalink":"/ghi-chu-mang-luoi/infranodus-vi-du/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.912+07:00","updated":"2025-01-01T22:50:51.750+07:00"}
 ---
 
 Dĩ nhiên! Để thực hiện phân tích đoạn văn và thể hiện từ khóa liên kết theo cách mà InfraNodus làm, sau đó thể hiện lại trong dạng ghi chú Obsidian, chúng ta sẽ thực hiện các bước sau đây:

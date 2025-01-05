@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/publish/nao-bo-tong-quan/nam-thuy-nao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.288+07:00","updated":"2025-01-05T09:08:43.901+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Nam_thuy_nao.md","permalink":"/nao-bo-tong-quan/nam-thuy-nao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.288+07:00","updated":"2025-01-05T09:08:43.901+07:00"}
 ---
 
 # Năm Thuỳ Não
