@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/node-link/khoa-hoc-than-kinh/khoa-hoc-than-kinh-index/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.086+07:00","updated":"2025-01-01T22:50:23.045+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"khoa học thần kinh/Khoa-hoc-than-kinh-index.md","permalink":"/khoa-hoc-than-kinh/khoa-hoc-than-kinh-index/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.086+07:00","updated":"2025-01-01T22:50:23.045+07:00"}
 ---
 
 # Mục Lục Khoa Học Thần Kinh

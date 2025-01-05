@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/node-link/nao-bo-tong-quan/synapse/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.367+07:00","updated":"2025-01-01T22:49:34.185+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Synapse.md","permalink":"/nao-bo-tong-quan/synapse/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.367+07:00","updated":"2025-01-01T22:49:34.185+07:00"}
 ---
 
 # Synapse (Khớp thần kinh)

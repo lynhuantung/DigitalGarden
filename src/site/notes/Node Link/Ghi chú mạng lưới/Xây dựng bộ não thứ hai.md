@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/node-link/ghi-chu-mang-luoi/xay-dung-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.133+07:00","updated":"2025-01-01T22:51:32.517+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md","permalink":"/ghi-chu-mang-luoi/xay-dung-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.133+07:00","updated":"2025-01-01T22:51:32.517+07:00"}
 ---
 
 ### 10 Phương Pháp Xây Dựng Bộ Não Thứ Hai

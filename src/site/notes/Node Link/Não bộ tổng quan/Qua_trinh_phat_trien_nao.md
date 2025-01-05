@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/node-link/nao-bo-tong-quan/qua-trinh-phat-trien-nao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.351+07:00","updated":"2025-01-01T22:49:30.737+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Qua_trinh_phat_trien_nao.md","permalink":"/nao-bo-tong-quan/qua-trinh-phat-trien-nao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.351+07:00","updated":"2025-01-01T22:49:30.737+07:00"}
 ---
 
 # Quá Trình Phát Triển Não

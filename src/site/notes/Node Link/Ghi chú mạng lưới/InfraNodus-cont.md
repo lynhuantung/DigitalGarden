@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/node-link/ghi-chu-mang-luoi/infra-nodus-cont/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.870+07:00","updated":"2025-01-01T22:50:45.078+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/InfraNodus-cont.md","permalink":"/ghi-chu-mang-luoi/infra-nodus-cont/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.870+07:00","updated":"2025-01-01T22:50:45.078+07:00"}
 ---
 
 

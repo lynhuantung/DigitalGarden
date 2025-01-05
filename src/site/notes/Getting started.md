@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:05:24.985+07:00","updated":"2025-01-05T08:37:19.302+07:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:05:24.985+07:00","updated":"2025-01-05T08:45:39.329+07:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 
 
-The initial setup takes a couple of minutes, but when you're done you'll have a digital garden in which you are in control of every part of it, and can customize it as you see fit. Which is what makes digital gardens so delightful..
+The initial setup takes a couple of minutes, but when you're done you'll have a digital garden in which you are in control of every part of it, and can customize it as you see fit. Which is what makes digital gardens so delightful.
 
 1. Download and install the community plugin [Digital Garden](obsidian://show-plugin?id=digitalgarden) in Obsidian.
 

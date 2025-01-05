@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/node-link/nao-bo-tong-quan/nao-bo-tong-quan/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.307+07:00","updated":"2025-01-01T22:49:22.584+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Nao_Bo_Tong_Quan.md","permalink":"/nao-bo-tong-quan/nao-bo-tong-quan/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.307+07:00","updated":"2025-01-01T22:49:22.584+07:00"}
 ---
 
 # Não Bộ Tổng Quan
