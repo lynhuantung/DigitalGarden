@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranidus ví dụ.md","permalink":"/ghi-chu-mang-luoi/infranidus-vi-du/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.831+07:00","updated":"2025-01-01T22:50:34.047+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranidus ví dụ.md","permalink":"/ghi-chu-mang-luoi/infranidus-vi-du/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-01T22:50:34.047+07:00"}
 ---
 
 
