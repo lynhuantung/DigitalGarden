@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/InfraNodus-cont.md","permalink":"/ghi-chu-mang-luoi/infra-nodus-cont/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.870+07:00","updated":"2025-01-01T22:50:45.078+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/InfraNodus-cont.md","permalink":"/ghi-chu-mang-luoi/infra-nodus-cont/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.870+07:00","updated":"2025-01-12T09:24:55.822+07:00"}
 ---
-
-
 
 
 5. Trực quan hóa:
@@ -98,3 +96,6 @@ Tóm lại, InfraNodus hoạt động bằng cách:
 
 Nếu bạn cần thêm thông tin hoặc muốn biết cụ thể hơn về cách áp dụng InfraNodus cho một trường hợp nhất định, hãy cho tôi biết để tôi có thể hỗ trợ bạn tốt hơn.
 
+
+# Liên kết
+[[Publish/Ghi chú mạng lưới/InfraNodus\|InfraNodus]]

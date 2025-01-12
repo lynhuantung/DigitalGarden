@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Khoa hoc than kinh/Hình-thành-nơron.md","permalink":"/khoa-hoc-than-kinh/hinh-thanh-noron/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.064+07:00","updated":"2025-01-01T22:50:18.696+07:00"}
+{"dg-publish":true,"dg-home":false,"Liên kết":["[[Noron]]"],"dg-path":"Khoa hoc than kinh/Hình-thành-nơron.md","permalink":"/khoa-hoc-than-kinh/hinh-thanh-noron/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.064+07:00","updated":"2025-01-12T09:30:31.607+07:00"}
 ---
 
 # Hình Thành Nơron

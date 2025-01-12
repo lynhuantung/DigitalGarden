@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Não bộ thiên tài.md","permalink":"/ghi-chu-mang-luoi/nao-bo-thien-tai/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.023+07:00","updated":"2025-01-01T22:51:03.086+07:00"}
+{"dg-publish":true,"dg-home":false,"Liên kết":["[[Xây dựng bộ não thứ hai]]","[[Infranodus và graph view]]"],"dg-path":"Ghi chú mạng lưới/Não bộ thiên tài.md","permalink":"/ghi-chu-mang-luoi/nao-bo-thien-tai/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.023+07:00","updated":"2025-01-12T09:31:29.919+07:00"}
 ---
 
 **Mối liên hệ giữa não bộ thiên tài, thuyết lan truyền kích hoạt, và tài liệu về phát triển trí nhớ:**
@@ -26,3 +26,5 @@ Trong tài liệu này, Harry Lorayne trình bày nhiều phương pháp và k�
 3. **Sử dụng các kỹ thuật ghi nhớ cụ thể**: Thực hành các phương pháp như Link Method và Peg System có thể giúp não bộ của bạn quen với việc tạo ra các liên kết mới, nhanh chóng truy xuất thông tin từ bộ nhớ, và duy trì sự dẻo dai của não.
 
 Tóm lại, mối liên hệ giữa não bộ thiên tài, thuyết lan truyền kích hoạt, và các kỹ thuật từ tài liệu “How to Develop A Super-Power Memory” cho thấy rằng sự kết hợp của quan sát tinh tế, liên kết sáng tạo và luyện tập có thể giúp não bộ trở nên mạnh mẽ hơn, cải thiện trí nhớ và khả năng tư duy tổng thể.
+
+

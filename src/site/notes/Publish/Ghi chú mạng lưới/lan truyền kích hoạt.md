@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/lan truyền kích hoạt.md","permalink":"/ghi-chu-mang-luoi/lan-truyen-kich-hoat/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.093+07:00","updated":"2025-01-01T22:51:23.458+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/lan truyền kích hoạt.md","permalink":"/ghi-chu-mang-luoi/lan-truyen-kich-hoat/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.093+07:00","updated":"2025-01-12T09:23:24.032+07:00"}
 ---
 
 Thuyết Lan Truyền Kích Hoạt (Spread Activation Theory) là một lý thuyết trong lĩnh vực tâm lý học nhận thức, được đề xuất để giải thích cách thức bộ não con ngưeời xử lý thông tin và tổ chức các khái niệm trong bộ nhớ dài hạn. Theo lý thuyết này, bộ nhớ của chúng ta được cấu trúc dưới dạng một mạng lưới các khái niệm (nodes) liên kết với nhau bằng các đường dẫn (links).
@@ -13,7 +13,7 @@ Thuyết Lan Truyền Kích Hoạt (Spread Activation Theory) là một lý thuy
    - Khi một khái niệm trong mạng lưới được kích hoạt (ví dụ như bạn nhìn thấy hoặc nghe thấy một từ cụ thể), sự kích hoạt này sẽ lan truyền đến các khái niệm liên quan khác trong mạng lưới.
    - Cường độ của sự lan truyền phụ thuộc vào mức độ liên kết giữa các khái niệm. Khái niệm nào có liên kết mạnh hơn với khái niệm được kích hoạt ban đầu sẽ nhận được nhiều kích hoạt hơn và ngược lại.
 
-3. **Ngưỡng kích hoạt (Activation Threshold)**:
+3. ** [[Publish/Ghi chú mạng lưới/Ngưỡng kích hoạt\|Ngưỡng kích hoạt (Activation Threshold)]] **:
    - Mỗi khái niệm có một mức ngưỡng cần đạt để được kích hoạt. Nếu một khái niệm nhận đủ lượng kích hoạt từ các khái niệm khác trong mạng lưới, nó sẽ được kích hoạt và trở nên có ý nghĩa trong quá trình xử lý thông tin.
    - Những khái niệm không đủ kích hoạt sẽ không được nhận diện hoặc đưa ra trong trí nhớ hiện tại.
 
