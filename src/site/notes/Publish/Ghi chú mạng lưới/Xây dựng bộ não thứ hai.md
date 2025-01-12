@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Liên kết":["[[Ứng dụng secondbrain vào obsidian]]","[[Não bộ thiên tài]]","[[Spread activation theory]]"],"dg-path":"Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md","permalink":"/ghi-chu-mang-luoi/xay-dung-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.133+07:00","updated":"2025-01-12T09:29:18.240+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md","permalink":"/ghi-chu-mang-luoi/xay-dung-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.133+07:00","updated":"2025-01-12T09:42:39.670+07:00"}
 ---
 
 ### 10 Phương Pháp Xây Dựng Bộ Não Thứ Hai
@@ -19,3 +19,8 @@
 Video cung cấp các phương pháp xây dựng bộ não thứ hai để cải thiện khả năng ghi nhớ, sáng tạo và hoàn thành công việc. Các phương pháp này dễ hiểu và có thể áp dụng ngay vào cuộc sống.
 
 Bạn muốn tìm hiểu chi tiết thêm về phương pháp nào trong số này không?
+
+# Liên kết:
+[[Publish/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian\|Ứng dụng secondbrain vào obsidian]]
+[[Publish/Ghi chú mạng lưới/Não bộ thiên tài\|Não bộ thiên tài]]
+[[Publish/Ghi chú mạng lưới/Spread activation theory\|Spread activation theory]]

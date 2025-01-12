@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Liên kết":["[[Noron]]"],"dg-path":"Khoa hoc than kinh/Độ-Dẻo-synapse.md","permalink":"/khoa-hoc-than-kinh/do-deo-synapse/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.110+07:00","updated":"2025-01-12T09:28:13.222+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Khoa hoc than kinh/Độ-Dẻo-synapse.md","permalink":"/khoa-hoc-than-kinh/do-deo-synapse/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.110+07:00","updated":"2025-01-12T09:43:26.673+07:00"}
 ---
 
 ## Độ Dẻo Synapse
@@ -19,3 +19,6 @@
   - [Hình Thành Nơron](./Hình_Thành_Nơron.md)
 - **Trải Nghiệm Lặp Lại**
   - [Củng Cố Nơron](./Củng_Cố_Nơron.md)
+
+# Liên kết
+[[Publish/Não bộ tổng quan/Noron\|Noron]]

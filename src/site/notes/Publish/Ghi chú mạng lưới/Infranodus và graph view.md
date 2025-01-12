@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Liên kết":["[[Ứng dụng secondbrain vào obsidian]]"],"dg-path":"Ghi chú mạng lưới/Infranodus và graph view.md","permalink":"/ghi-chu-mang-luoi/infranodus-va-graph-view/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.892+07:00","updated":"2025-01-12T09:30:04.221+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus và graph view.md","permalink":"/ghi-chu-mang-luoi/infranodus-va-graph-view/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.892+07:00","updated":"2025-01-12T09:40:51.889+07:00"}
 ---
 
 Infranodus và Obsidian đều là những công cụ mạnh mẽ để trực quan hóa mối liên kết giữa các ghi chú, nhưng chúng có những cách tiếp cận và đặc điểm khác nhau về mặt ứng dụng. Dưới đây là sự so sánh giữa Infranodus và Obsidian Graph View dựa trên các yếu tố quan trọng:
@@ -62,3 +62,6 @@ Nếu bạn tập trung vào việc quản lý ghi chú cá nhân và cần mộ
 
 Tùy vào nhu cầu của bạn mà mỗi công cụ có thể mang lại giá trị khác nhau.
 
+
+# Liên kết:
+[[Publish/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian\|Ứng dụng secondbrain vào obsidian]]
