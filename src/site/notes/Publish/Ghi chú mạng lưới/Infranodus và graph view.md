@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus và graph view.md","permalink":"/ghi-chu-mang-luoi/infranodus-va-graph-view/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-01T22:50:48.511+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus và graph view.md","permalink":"/ghi-chu-mang-luoi/infranodus-va-graph-view/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.892+07:00","updated":"2025-01-01T22:50:48.511+07:00"}
 ---
 
 Infranodus và Obsidian đều là những công cụ mạnh mẽ để trực quan hóa mối liên kết giữa các ghi chú, nhưng chúng có những cách tiếp cận và đặc điểm khác nhau về mặt ứng dụng. Dưới đây là sự so sánh giữa Infranodus và Obsidian Graph View dựa trên các yếu tố quan trọng:

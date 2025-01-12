@@ -1,7 +1,59 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-05T09:08:26.095+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:05:24.985+07:00","updated":"2025-01-12T07:40:04.030+07:00"}
 ---
 
+| File                                                                                                  | Tên File                          |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [[Publish/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá\|0. Hệ sinh thái ao cá]]                        | 0. Hệ sinh thái ao cá             |
+| [[Publish/Quả Táo/1.Quả Táo\|1.Quả Táo]]                                                           | 1.Quả Táo                         |
+| [[Publish/Não bộ tổng quan/AFRC\|AFRC]]                                                            | AFRC                              |
+| [[Publish/Hệ sinh thái ao cá/Ánh sáng mặt trời\|Ánh sáng mặt trời]]                                | Ánh sáng mặt trời                 |
+| [[Publish/Hệ sinh thái ao cá/Cá trong ao\|Cá trong ao]]                                            | Cá trong ao                       |
+| [[Publish/Quả Táo/Các Giống Táo\|Các Giống Táo]]                                                   | Các Giống Táo                     |
+| [[Publish/Hệ sinh thái ao cá/Cây cỏ trong ao\|Cây cỏ trong ao]]                                    | Cây cỏ trong ao                   |
+| [[Publish/Hệ sinh thái ao cá/Côn trùng\|Côn trùng]]                                                | Côn trùng                         |
+| [[Publish/Quả Táo/Công Thức Món Ăn Từ Táo\|Công Thức Món Ăn Từ Táo]]                               | Công Thức Món Ăn Từ Táo           |
+| [[Publish/Khoa hoc than kinh/Củng-cố-nơron\|Củng-cố-nơron]]                                        | Củng-cố-nơron                     |
+| [[Publish/Quả Táo/Dinh Dưỡng Của Quả Táo\|Dinh Dưỡng Của Quả Táo]]                                 | Dinh Dưỡng Của Quả Táo            |
+| [[Publish/Khoa hoc than kinh/Độ-Dẻo-synapse\|Độ-Dẻo-synapse]]                                      | Độ-Dẻo-synapse                    |
+| [[Publish/Getting started\|Getting started]]                                                       | Getting started                   |
+| [[Publish/Khoa hoc than kinh/Hình-thành-nơron\|Hình-thành-nơron]]                                  | Hình-thành-nơron                  |
+| [[Publish/Ghi chú mạng lưới/Infranidus ví dụ\|Infranidus ví dụ]]                                   | Infranidus ví dụ                  |
+| [[Publish/Ghi chú mạng lưới/InfraNodus\|InfraNodus]]                                               | InfraNodus                        |
+| [[Publish/Ghi chú mạng lưới/Infranodus - cơ chế\|Infranodus - cơ chế]]                             | Infranodus - cơ chế               |
+| [[Publish/Ghi chú mạng lưới/Infranodus và graph view\|Infranodus và graph view]]                   | Infranodus và graph view          |
+| [[Publish/Ghi chú mạng lưới/Infranodus ví dụ\|Infranodus ví dụ]]                                   | Infranodus ví dụ                  |
+| [[Publish/Ghi chú mạng lưới/Infranodus-13102024\|Infranodus-13102024]]                             | Infranodus-13102024               |
+| [[Publish/Ghi chú mạng lưới/InfraNodus-cont\|InfraNodus-cont]]                                     | InfraNodus-cont                   |
+| [[Publish/Khoa hoc than kinh/Khoa-hoc-than-kinh-index\|Khoa-hoc-than-kinh-index]]                  | Khoa-hoc-than-kinh-index          |
+| [[Publish/Ghi chú mạng lưới/lan truyền kích hoạt\|lan truyền kích hoạt]]                           | lan truyền kích hoạt              |
+| [[Publish/Ghi chú mạng lưới/lemmatization\|lemmatization]]                                         | lemmatization                     |
+| [[Publish/Não bộ tổng quan/Năm Thùy Não\|Năm Thùy Não]]                                            | Năm Thùy Não                      |
+| [[Publish/Ghi chú mạng lưới/Não bộ thiên tài\|Não bộ thiên tài]]                                   | Não bộ thiên tài                  |
+| [[Publish/Não bộ tổng quan/Não bộ tổng quan\|Não bộ tổng quan]]                                    | Não bộ tổng quan                  |
+| [[Publish/Ghi chú mạng lưới/Ngưỡng kích hoạt\|Ngưỡng kích hoạt]]                                   | Ngưỡng kích hoạt                  |
+| [[Publish/Não bộ tổng quan/Noron\|Noron]]                                                          | Noron                             |
+| [[Publish/Notes\|Notes]]                                                                           | Notes                             |
+| [[Publish/Hệ sinh thái ao cá/Nước\|Nước]]                                                          | Nước                              |
+| [[Publish/Não bộ tổng quan/Quá trình phát triển não\|Quá trình phát triển não]]                    | Quá trình phát triển não          |
+| [[Publish/Ghi chú mạng lưới/Spread activation theory\|Spread activation theory]]                   | Spread activation theory          |
+| [[Publish/Não bộ tổng quan/Synapse\|Synapse]]                                                      | Synapse                           |
+| [[Publish/Ghi chú mạng lưới/Tái tạo văn bản infranodus\|Tái tạo văn bản infranodus]]               | Tái tạo văn bản infranodus        |
+| [[Publish/Quả Táo/Táo Trong Công Nghệ\|Táo Trong Công Nghệ]]                                       | Táo Trong Công Nghệ               |
+| [[Publish/Quả Táo/Táo Trong Thần Thoại\|Táo Trong Thần Thoại]]                                     | Táo Trong Thần Thoại              |
+| [[Publish/Quả Táo/Táo Và Sức Khỏe\|Táo Và Sức Khỏe]]                                               | Táo Và Sức Khỏe                   |
+| [[Publish/Não bộ tổng quan/Tfrc\|Tfrc]]                                                            | Tfrc                              |
+| [[Publish/Não bộ tổng quan/Thể chai\|Thể chai]]                                                    | Thể chai                          |
+| [[Publish/Não bộ tổng quan/Thùy chẩm\|Thùy chẩm]]                                                  | Thùy chẩm                         |
+| [[Publish/Não bộ tổng quan/Thùy Đỉnh\|Thùy Đỉnh]]                                                  | Thùy Đỉnh                         |
+| [[Publish/Não bộ tổng quan/Thùy thái dương\|Thùy thái dương]]                                      | Thùy thái dương                   |
+| [[Publish/Não bộ tổng quan/Thùy trán\|Thùy trán]]                                                  | Thùy trán                         |
+| [[Publish/Não bộ tổng quan/Thùy Trước Trán\|Thùy Trước Trán]]                                      | Thùy Trước Trán                   |
+| [[Publish/Ghi chú mạng lưới/Thuyet lan truyền kích hoạt\|Thuyet lan truyền kích hoạt]]             | Thuyet lan truyền kích hoạt       |
+| [[Publish/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian\|Ứng dụng secondbrain vào obsidian]] | Ứng dụng secondbrain vào obsidian |
+| [[Publish/Ghi chú mạng lưới/Xây dựng bộ não thứ hai\|Xây dựng bộ não thứ hai]]                     | Xây dựng bộ não thứ hai           |
+
+{ .block-language-dataview}
 
 
 # 01 Getting started

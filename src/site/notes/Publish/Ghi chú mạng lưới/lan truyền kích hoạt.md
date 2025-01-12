@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/lan truyền kích hoạt.md","permalink":"/ghi-chu-mang-luoi/lan-truyen-kich-hoat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-01T22:51:23.458+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/lan truyền kích hoạt.md","permalink":"/ghi-chu-mang-luoi/lan-truyen-kich-hoat/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.093+07:00","updated":"2025-01-01T22:51:23.458+07:00"}
 ---
 
 Thuyết Lan Truyền Kích Hoạt (Spread Activation Theory) là một lý thuyết trong lĩnh vực tâm lý học nhận thức, được đề xuất để giải thích cách thức bộ não con ngưeời xử lý thông tin và tổ chức các khái niệm trong bộ nhớ dài hạn. Theo lý thuyết này, bộ nhớ của chúng ta được cấu trúc dưới dạng một mạng lưới các khái niệm (nodes) liên kết với nhau bằng các đường dẫn (links).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Quả Táo/Dinh Dưỡng Của Quả Táo.md","permalink":"/qua-tao/dinh-duong-cua-qua-tao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-01T22:36:35.710+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Quả Táo/Dinh Dưỡng Của Quả Táo.md","permalink":"/qua-tao/dinh-duong-cua-qua-tao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:22:41.711+07:00","updated":"2025-01-01T22:36:35.710+07:00"}
 ---
 
 # Dinh Dưỡng Của Quả Táo

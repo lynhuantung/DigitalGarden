@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Spread activation theory.md","permalink":"/ghi-chu-mang-luoi/spread-activation-theory/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-01T22:51:11.105+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Spread activation theory.md","permalink":"/ghi-chu-mang-luoi/spread-activation-theory/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.053+07:00","updated":"2025-01-01T22:51:11.105+07:00"}
 ---
 
 Spread activation theory là một lý thuyết trong tâm lý học nhận thức, đặc biệt là trong lĩnh vực liên quan đến bộ nhớ và xử lý thông tin. Thuyết này mô tả cách mà thông tin được lưu trữ trong trí nhớ và cách mà các mảnh thông tin liên kết với nhau trong tâm trí. Ý tưởng cơ bản của lý thuyết là khi một khái niệm cụ thể trong trí nhớ được kích hoạt, nó sẽ kích hoạt các khái niệm liên quan khác theo một cách "lan tỏa" (spread activation).

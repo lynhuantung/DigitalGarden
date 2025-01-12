@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Tái tạo văn bản infranodus.md","permalink":"/ghi-chu-mang-luoi/tai-tao-van-ban-infranodus/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-01T22:51:14.310+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Tái tạo văn bản infranodus.md","permalink":"/ghi-chu-mang-luoi/tai-tao-van-ban-infranodus/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.112+07:00","updated":"2025-01-01T22:51:14.310+07:00"}
 ---
 
 Sau khi đã xây dựng mạng lưới từ khóa từ một đoạn văn bằng công cụ như InfraNodus hoặc Obsidian, bước tiếp theo là tái tạo hoặc tóm tắt đoạn văn dựa trên các từ khóa và mối liên kết đã xác định. Dưới đây là cách thực hiện:
