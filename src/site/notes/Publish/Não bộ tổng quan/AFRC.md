@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/AFRC.md","permalink":"/nao-bo-tong-quan/afrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-05T09:08:43.571+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/AFRC.md","permalink":"/nao-bo-tong-quan/afrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T07:24:20.312+07:00"}
 ---
 
 # AFRC (Absolute Fingerprint Ridge Count)
@@ -14,4 +14,4 @@
 - [[Publish/Não bộ tổng quan/Tfrc\|Tfrc]]
 - [[Học hỏi/Não bộ tổng quan/Noron\|Noron]]
 - [[Publish/Não bộ tổng quan/Synapse\|Synapse]]
-- Phát triển qua các giai đoạn: xem [[Publish/Não bộ tổng quan/Qua_trinh_phat_trien_nao\|Qua_trinh_phat_trien_nao]]
+- Phát triển qua các giai đoạn: xem [[Publish/Não bộ tổng quan/Quá trình phát triển não\|Quá trình phát triển não]]

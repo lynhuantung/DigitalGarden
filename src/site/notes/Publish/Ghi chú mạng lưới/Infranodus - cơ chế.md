@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus - cơ chế.md","permalink":"/ghi-chu-mang-luoi/infranodus-co-che/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-01T22:50:41.409+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus - cơ chế.md","permalink":"/ghi-chu-mang-luoi/infranodus-co-che/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-05T10:51:48.250+07:00"}
 ---
 
 
@@ -81,3 +81,10 @@ Tóm lại, cơ chế hoạt động của InfraNodus bao gồm các bước ch�
 
 InfraNodus đặc biệt phù hợp với những người làm nghiên cứu, viết lách, và những ai cần khám phá các mối quan hệ phức tạp trong dữ liệu văn bản.
 
+
+# Liên kết
+[[Publish/Ghi chú mạng lưới/InfraNodus\|InfraNodus]]
+[[Publish/Ghi chú mạng lưới/Infranidus ví dụ\|Infranidus ví dụ]]
+[[Publish/Ghi chú mạng lưới/Infranodus ví dụ\|Infranodus ví dụ]]
+[[Publish/Ghi chú mạng lưới/Infranodus và graph view\|Infranodus và graph view]]
+[[Publish/Ghi chú mạng lưới/Tái tạo văn bản infranodus\|Tái tạo văn bản infranodus]]

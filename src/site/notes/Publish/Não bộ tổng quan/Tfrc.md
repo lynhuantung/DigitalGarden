@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Tfrc.md","permalink":"/nao-bo-tong-quan/tfrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-05T09:08:44.390+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Tfrc.md","permalink":"/nao-bo-tong-quan/tfrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T07:24:20.656+07:00"}
 ---
 
 # TFRC (Total Fingerprint Ridge Count)
@@ -13,4 +13,4 @@
 **Liên kết:**
 - Liên hệ với [[Publish/Não bộ tổng quan/AFRC\|AFRC]]
 - Có liên quan tới sự dồi dào của [[Daily/Noron\|Daily/Noron]]
-- Vai trò quan trọng trong các giai đoạn phát triển não: xem [[Publish/Não bộ tổng quan/Qua_trinh_phat_trien_nao\|Qua_trinh_phat_trien_nao]]
+- Vai trò quan trọng trong các giai đoạn phát triển não: xem [[Publish/Não bộ tổng quan/Quá trình phát triển não\|Quá trình phát triển não]]
