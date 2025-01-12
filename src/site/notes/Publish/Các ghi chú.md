@@ -17,6 +17,7 @@
 | Ghi chú mạng lưới  | InfraNodus-cont                   |
 | Ghi chú mạng lưới  | lan truyền kích hoạt              |
 | Ghi chú mạng lưới  | lemmatization                     |
+| Ghi chú mạng lưới  | Leonardo da Vinci                 |
 | Ghi chú mạng lưới  | Não bộ thiên tài                  |
 | Ghi chú mạng lưới  | Ngưỡng kích hoạt                  |
 | Ghi chú mạng lưới  | Spread activation theory          |
