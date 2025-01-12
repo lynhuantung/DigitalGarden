@@ -13,8 +13,8 @@
 | Ghi chú mạng lưới  | Infranodus - cơ chế               |
 | Ghi chú mạng lưới  | Infranodus và graph view          |
 | Ghi chú mạng lưới  | Infranodus ví dụ                  |
-| Ghi chú mạng lưới  | Infranodus-13102024               |
 | Ghi chú mạng lưới  | InfraNodus-cont                   |
+| Ghi chú mạng lưới  | Infranodus-cont2                  |
 | Ghi chú mạng lưới  | lan truyền kích hoạt              |
 | Ghi chú mạng lưới  | lemmatization                     |
 | Ghi chú mạng lưới  | Leonardo da Vinci                 |
