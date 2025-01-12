@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Synapse.md","permalink":"/nao-bo-tong-quan/synapse/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.367+07:00","updated":"2025-01-12T07:24:20.607+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Synapse.md","permalink":"/nao-bo-tong-quan/synapse/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.367+07:00","updated":"2025-01-12T07:59:01.696+07:00"}
 ---
 
-# Synapse (Khớp thần kinh)
+Synapse (Khớp thần kinh)
 
 Synapse là nơi hai nơ-ron tiếp xúc, truyền tín hiệu hóa - điện. Đây là cầu nối quan trọng cho khả năng học hỏi, nhớ và tư duy.
 

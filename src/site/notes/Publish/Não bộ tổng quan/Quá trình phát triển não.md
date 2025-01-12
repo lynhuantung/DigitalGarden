@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Quá trình phát triển não.md","permalink":"/nao-bo-tong-quan/qua-trinh-phat-trien-nao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.351+07:00","updated":"2025-01-12T07:24:58.554+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Quá trình phát triển não.md","permalink":"/nao-bo-tong-quan/qua-trinh-phat-trien-nao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.351+07:00","updated":"2025-01-12T07:58:29.979+07:00"}
 ---
-
-# Quá Trình Phát Triển Não
 
 Não phát triển qua nhiều giai đoạn:  
 - Thai nhi: Hình thành nền móng [[Publish/Não bộ tổng quan/Noron\|Noron]].

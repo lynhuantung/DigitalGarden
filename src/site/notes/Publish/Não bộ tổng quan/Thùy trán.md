@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Thùy trán.md","permalink":"/nao-bo-tong-quan/thuy-tran/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.475+07:00","updated":"2025-01-12T07:24:58.750+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Thùy trán.md","permalink":"/nao-bo-tong-quan/thuy-tran/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.475+07:00","updated":"2025-01-12T07:59:26.045+07:00"}
 ---
 
-# Thuỳ Trán (Frontal Lobe)
+Thuỳ Trán (Frontal Lobe)
 
 Phụ trách vận động chủ ý, phối hợp hành vi, ngôn ngữ (vùng Broca) và một phần nhận thức cấp cao.
 
