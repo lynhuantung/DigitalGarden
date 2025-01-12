@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Liên kết":["[[Noron]]"],"dg-path":"Khoa hoc than kinh/Hình-thành-nơron.md","permalink":"/khoa-hoc-than-kinh/hinh-thanh-noron/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.064+07:00","updated":"2025-01-12T09:30:31.607+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Khoa hoc than kinh/Hình-thành-nơron.md","permalink":"/khoa-hoc-than-kinh/hinh-thanh-noron/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.064+07:00","updated":"2025-01-12T09:46:24.095+07:00"}
 ---
 
 # Hình Thành Nơron
@@ -14,7 +14,7 @@
 ## Tạo Liên Kết Mới
 
 - **Kích Hoạt Nơron**: Các nơron trong các vùng này sẽ kích hoạt và bắt đầu tạo ra các liên kết synapse mới.
-  - Ví dụ: Nơron trong vỏ não vị giác liên kết với nơron trong vùng vỏ não thùy đảo để xử lý vị giác.
+  - Ví dụ: [[Publish/Não bộ tổng quan/Noron\|Nơron]] trong vỏ não vị giác liên kết với nơron trong vùng vỏ não thùy đảo để xử lý vị giác.
 
 ## Liên Kết Với Ký Ức và Cảm Xúc
 
