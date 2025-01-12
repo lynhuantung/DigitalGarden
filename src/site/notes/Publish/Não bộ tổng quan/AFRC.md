@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/AFRC.md","permalink":"/nao-bo-tong-quan/afrc/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.265+07:00","updated":"2025-01-12T09:50:10.788+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/AFRC.md","permalink":"/nao-bo-tong-quan/afrc/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.265+07:00","updated":"2025-01-12T15:19:15.283+07:00"}
 ---
 
-
 # AFRC (Absolute Fingerprint Ridge Count)
+---
+
 
 **AFRC** là ẩn dụ chỉ "nhịp điệu" hay khả năng phối hợp và kết nối giữa các [[Publish/Não bộ tổng quan/Noron\|Noron]]. AFRC thể hiện độ uyển chuyển, logic và khả năng ứng dụng thông tin.
 

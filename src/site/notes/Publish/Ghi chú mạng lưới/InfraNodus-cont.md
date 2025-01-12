@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/InfraNodus-cont.md","permalink":"/ghi-chu-mang-luoi/infra-nodus-cont/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.870+07:00","updated":"2025-01-12T09:24:55.822+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/InfraNodus-cont.md","permalink":"/ghi-chu-mang-luoi/infra-nodus-cont/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.870+07:00","updated":"2025-01-12T15:15:05.284+07:00"}
 ---
 
+# InfraNodus-cont
+---
 
 5. Trực quan hóa:
 

@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Năm Thùy Não.md","permalink":"/nao-bo-tong-quan/nam-thuy-nao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.288+07:00","updated":"2025-01-12T09:49:38.438+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Năm Thùy Não.md","permalink":"/nao-bo-tong-quan/nam-thuy-nao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.288+07:00","updated":"2025-01-12T15:19:28.020+07:00"}
+---
+
+# Năm Thùy Não
 ---
 
 Vỏ não người chia làm 5 thuỳ chính, mỗi thuỳ đảm nhận chức năng riêng:

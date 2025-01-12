@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Khoa hoc than kinh/Củng-cố-nơron.md","permalink":"/khoa-hoc-than-kinh/cung-co-noron/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.046+07:00","updated":"2025-01-01T22:50:10.854+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Khoa hoc than kinh/Củng-cố-nơron.md","permalink":"/khoa-hoc-than-kinh/cung-co-noron/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.046+07:00","updated":"2025-01-12T15:18:34.145+07:00"}
 ---
 
 # Củng Cố Nơron
+---
 
 ## Trải Nghiệm Lặp Lại
 

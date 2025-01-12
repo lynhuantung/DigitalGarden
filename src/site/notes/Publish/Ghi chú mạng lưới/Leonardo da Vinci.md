@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Leonardo da Vinci.md","permalink":"/ghi-chu-mang-luoi/leonardo-da-vinci/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-29T15:27:22.704+07:00","updated":"2025-01-12T09:41:28.112+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Leonardo da Vinci.md","permalink":"/ghi-chu-mang-luoi/leonardo-da-vinci/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-29T15:27:22.704+07:00","updated":"2025-01-12T15:16:00.631+07:00"}
+---
+
+# Leonardo da Vinci
 ---
 
 Dưới đây là tóm tắt của nội dung "Giải Mã Công Thức Học Tập Đột Phá Để Trở Thành Thiên Tài" trong 5 điểm chính:

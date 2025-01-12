@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus - cơ chế.md","permalink":"/ghi-chu-mang-luoi/infranodus-co-che/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.850+07:00","updated":"2025-01-05T10:51:48.250+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus - cơ chế.md","permalink":"/ghi-chu-mang-luoi/infranodus-co-che/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.850+07:00","updated":"2025-01-12T15:14:21.110+07:00"}
 ---
 
+# Infranodus - cơ chế
+---
 
 Sau khi có dữ liệu văn bản, InfrInfraNodus là một công cụ phân tích mạng lưới văn bản, giúp người dùng khám phá các mẫu và mối liên hệ tiềm ẩn trong dữ liệu văn bản. Cơ chế hoạt động của InfraNodus dựa trên việc sử dụng lý thuyết mạng (graph theory) để biểu diễn các từ và khái niệm trong văn bản dưới dạng một mạng lưới. Dưới đây là mô tả chi tiết về cơ chế hoạt động của InfraNodus:
 

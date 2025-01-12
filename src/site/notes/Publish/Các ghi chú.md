@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Các ghi chú.md","permalink":"/cac-ghi-chu/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-12T07:51:50.918+07:00","updated":"2025-01-12T08:20:19.292+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Các ghi chú.md","permalink":"/cac-ghi-chu/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-12T07:51:50.918+07:00","updated":"2025-01-12T15:22:14.118+07:00"}
 ---
 
-# Danh sách các ghi chú
+# Các ghi chú
+---
+
+## Danh sách các ghi chú
 | Thư Mục            | Tên File                          |
 | ------------------ | --------------------------------- |
 | Publish            | Các ghi chú                       |

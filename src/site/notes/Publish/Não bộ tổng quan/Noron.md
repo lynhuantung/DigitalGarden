@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Noron.md","permalink":"/nao-bo-tong-quan/noron/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.329+07:00","updated":"2025-01-12T09:49:00.155+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Noron.md","permalink":"/nao-bo-tong-quan/noron/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.329+07:00","updated":"2025-01-12T15:19:46.391+07:00"}
+---
+
+# Noron
 ---
 
 Nơ-ron là tế bào thần kinh, đơn vị cơ bản của não bộ. Khoảng 100 tỷ nơ-ron tạo thành "đội ngũ" nhạc công trong "dàn nhạc" não.

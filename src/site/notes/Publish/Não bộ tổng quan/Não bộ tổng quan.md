@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Não bộ tổng quan.md","permalink":"/nao-bo-tong-quan/nao-bo-tong-quan/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.307+07:00","updated":"2025-01-12T07:58:20.742+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Não bộ tổng quan.md","permalink":"/nao-bo-tong-quan/nao-bo-tong-quan/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.307+07:00","updated":"2025-01-12T15:19:36.568+07:00"}
+---
+
+# Não bộ tổng quan
 ---
 
 Não bộ con người là một "vũ trụ" phức tạp với khoảng [[Daily/Noron\|100 tỷ nơ-ron]] kết nối qua hàng ngàn tỷ [[Publish/Não bộ tổng quan/Synapse\|khớp thần kinh]]. Sự phát triển và chức năng của não gắn liền với nhiều khái niệm, từ các chỉ số ẩn dụ như [[Publish/Não bộ tổng quan/Tfrc\|Tfrc]] và [[Publish/Não bộ tổng quan/AFRC\|AFRC]] đến các cấu trúc giải phẫu như [[Publish/Não bộ tổng quan/Năm Thùy Não\|năm thuỳ não]] và [[Publish/Não bộ tổng quan/Thể chai\|thể chai]].

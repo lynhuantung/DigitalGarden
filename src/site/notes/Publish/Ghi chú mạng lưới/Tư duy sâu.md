@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Tư duy sâu.md","permalink":"/ghi-chu-mang-luoi/tu-duy-sau/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-12T10:12:08.622+07:00","updated":"2025-01-12T10:14:07.385+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Tư duy sâu.md","permalink":"/ghi-chu-mang-luoi/tu-duy-sau/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-12T10:12:08.622+07:00","updated":"2025-01-12T15:16:54.665+07:00"}
+---
+
+# Tư duy sâu
 ---
 
 #### **1. Câu hỏi ban đầu:**
