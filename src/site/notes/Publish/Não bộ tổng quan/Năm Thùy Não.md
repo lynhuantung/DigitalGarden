@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Năm Thùy Não.md","permalink":"/nao-bo-tong-quan/nam-thuy-nao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.288+07:00","updated":"2025-01-12T07:58:16.466+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Năm Thùy Não.md","permalink":"/nao-bo-tong-quan/nam-thuy-nao/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.288+07:00","updated":"2025-01-12T09:49:38.438+07:00"}
 ---
 
 Vỏ não người chia làm 5 thuỳ chính, mỗi thuỳ đảm nhận chức năng riêng:
@@ -12,8 +12,3 @@ Vỏ não người chia làm 5 thuỳ chính, mỗi thuỳ đảm nhận chức 
 
 Sự phối hợp nhịp nhàng giữa các thuỳ não góp phần nâng cao [[Publish/Não bộ tổng quan/AFRC\|AFRC]].
 
-**Liên kết:**
-- [[Publish/Não bộ tổng quan/Tfrc\|Tfrc]]
-- [[Publish/Não bộ tổng quan/AFRC\|AFRC]]
-- [[Publish/Não bộ tổng quan/Thể chai\|Thể chai]] (kết nối hai bán cầu não)
-- [[Publish/Não bộ tổng quan/Quá trình phát triển não\|Quá trình phát triển não]]
