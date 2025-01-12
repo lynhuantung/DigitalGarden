@@ -22,6 +22,7 @@
 | Ghi chú mạng lưới  | Ngưỡng kích hoạt                  |
 | Ghi chú mạng lưới  | Spread activation theory          |
 | Ghi chú mạng lưới  | Tái tạo văn bản infranodus        |
+| Ghi chú mạng lưới  | Tư duy sâu                        |
 | Ghi chú mạng lưới  | Ứng dụng secondbrain vào obsidian |
 | Ghi chú mạng lưới  | Xây dựng bộ não thứ hai           |
 | Hệ sinh thái ao cá | 0. Hệ sinh thái ao cá             |
