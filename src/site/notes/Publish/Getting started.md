@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:05:24.985+07:00","updated":"2025-01-12T22:28:18.881+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:05:24.985+07:00","updated":"2025-01-14T06:50:31.290+07:00"}
 ---
 
 # Getting started
 ---
-
+- [Node Link](https://nodelink.netlify.app/)
+- [Node Link Mobile](https://m-nodelink.netlify.app/)
 ## 01 Bắt đầu
 
 - [[Publish/Các ghi chú\|Danh sách các ghi chú]] 
