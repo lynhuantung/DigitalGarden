@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:05:24.985+07:00","updated":"2025-01-14T06:50:58.032+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:05:24.985+07:00","updated":"2025-01-14T21:38:14.699+07:00"}
 ---
 
 # Getting started
@@ -11,7 +11,7 @@
 
 Việc thiết lập ban đầu chỉ mất vài phút, nhưng sau khi hoàn tất, bạn sẽ có một "digital garden" (vườn kỹ thuật số) mà bạn hoàn toàn kiểm soát và có thể tùy chỉnh theo ý muốn. Đây là điều làm cho digital garden trở nên thú vị.
 
-1. Tải xuống và cài đặt plugin cộng đồng [Digital Garden](obsidian://show-plugin?id=digitalgarden) trong Obsidian.
+1. Tải xuống và cài đặt plugin cộng đồng [Digital Garden](obsidian://show-plugin?id=digitalgarden) trong Obsidian!
 
 ---
 
