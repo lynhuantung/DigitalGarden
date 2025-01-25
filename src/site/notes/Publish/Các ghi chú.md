@@ -8,6 +8,7 @@
 ## Danh sách các ghi chú
 | Thư Mục            | Tên File                          |
 | ------------------ | --------------------------------- |
+| Publish            | AllFeature                        |
 | Publish            | Các ghi chú                       |
 | Publish            | Getting started                   |
 | Publish            | Notes                             |
@@ -29,6 +30,8 @@
 | Ghi chú mạng lưới  | Tư duy sâu                        |
 | Ghi chú mạng lưới  | Ứng dụng secondbrain vào obsidian |
 | Ghi chú mạng lưới  | Xây dựng bộ não thứ hai           |
+| Giáo Dục           | Bài tập về nhà                    |
+| Giáo Dục           | Bài tập về nhà 1                  |
 | Hệ sinh thái ao cá | 0. Hệ sinh thái ao cá             |
 | Hệ sinh thái ao cá | Ánh sáng mặt trời                 |
 | Hệ sinh thái ao cá | Cá trong ao                       |
