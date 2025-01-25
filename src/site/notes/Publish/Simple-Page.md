@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":false,"dg-link-preview":false,"dg-show-tags":false,"dg-pass-frontmatter":false,"dg-path":"Simple-Page.md","permalink":"/simple-page/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-25T07:24:58.012+07:00"}
+{"dg-publish":true,"dg-home":"false","dg-show-local-graph":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-path":"Simple-Page.md","permalink":"/simple-page/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","noteIcon":"","updated":"2025-01-25T07:35:00.113+07:00"}
 ---
 
 
