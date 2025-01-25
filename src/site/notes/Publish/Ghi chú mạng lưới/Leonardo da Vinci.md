@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Leonardo da Vinci.md","permalink":"/ghi-chu-mang-luoi/leonardo-da-vinci/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-29T15:27:22.704+07:00","updated":"2025-01-12T15:16:00.631+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Leonardo da Vinci.md","permalink":"/ghi-chu-mang-luoi/leonardo-da-vinci/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:16:00.631+07:00"}
 ---
 
 # Leonardo da Vinci

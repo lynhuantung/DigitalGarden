@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus-cont2.md","permalink":"/ghi-chu-mang-luoi/infranodus-cont2/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.935+07:00","updated":"2025-01-12T15:15:17.804+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus-cont2.md","permalink":"/ghi-chu-mang-luoi/infranodus-cont2/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:15:17.804+07:00"}
 ---
 
 # Infranodus-cont2

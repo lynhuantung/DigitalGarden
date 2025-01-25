@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/lemmatization.md","permalink":"/ghi-chu-mang-luoi/lemmatization/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.981+07:00","updated":"2025-01-12T15:15:46.539+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/lemmatization.md","permalink":"/ghi-chu-mang-luoi/lemmatization/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:15:46.539+07:00"}
 ---
 
 # Lemmatization

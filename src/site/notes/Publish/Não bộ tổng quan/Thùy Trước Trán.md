@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Thùy Trước Trán.md","permalink":"/nao-bo-tong-quan/thuy-truoc-tran/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:47:22.493+07:00","updated":"2025-01-12T15:21:03.885+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Thùy Trước Trán.md","permalink":"/nao-bo-tong-quan/thuy-truoc-tran/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:21:03.885+07:00"}
 ---
 
 # Thuỳ Trước Trán (Prefrontal Lobe)

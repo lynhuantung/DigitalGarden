@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Khoa hoc than kinh/Độ-Dẻo-synapse.md","permalink":"/khoa-hoc-than-kinh/do-deo-synapse/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:48:55.110+07:00","updated":"2025-01-12T15:18:46.902+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Khoa hoc than kinh/Độ-Dẻo-synapse.md","permalink":"/khoa-hoc-than-kinh/do-deo-synapse/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:18:46.902+07:00"}
 ---
 
 # Độ Dẻo Synapse

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Các ghi chú.md","permalink":"/cac-ghi-chu/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-12T07:51:50.918+07:00","updated":"2025-01-12T15:22:14.118+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Các ghi chú.md","permalink":"/cac-ghi-chu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:22:14.118+07:00"}
 ---
 
 # Các ghi chú
@@ -11,6 +11,7 @@
 | Publish            | Các ghi chú                       |
 | Publish            | Getting started                   |
 | Publish            | Notes                             |
+| Publish            | Simple-Page                       |
 | Ghi chú mạng lưới  | Infranidus ví dụ                  |
 | Ghi chú mạng lưới  | InfraNodus                        |
 | Ghi chú mạng lưới  | Infranodus - cơ chế               |

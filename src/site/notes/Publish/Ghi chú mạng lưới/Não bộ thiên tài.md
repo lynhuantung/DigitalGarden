@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Não bộ thiên tài.md","permalink":"/ghi-chu-mang-luoi/nao-bo-thien-tai/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.023+07:00","updated":"2025-01-12T15:16:13.687+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Não bộ thiên tài.md","permalink":"/ghi-chu-mang-luoi/nao-bo-thien-tai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:16:13.687+07:00"}
 ---
 
 # Não bộ thiên tài

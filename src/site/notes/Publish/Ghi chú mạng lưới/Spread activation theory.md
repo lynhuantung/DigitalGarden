@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"Link":"https://www.facebook.com/share/v/SMyCaqCtkyd52Ecr/?mibextid=jmPrMh","dg-path":"Ghi chú mạng lưới/Spread activation theory.md","permalink":"/ghi-chu-mang-luoi/spread-activation-theory/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:57.053+07:00","updated":"2025-01-12T15:16:32.832+07:00"}
+{"dg-publish":true,"dg-home":false,"Link":"https://www.facebook.com/share/v/SMyCaqCtkyd52Ecr/?mibextid=jmPrMh","dg-path":"Ghi chú mạng lưới/Spread activation theory.md","permalink":"/ghi-chu-mang-luoi/spread-activation-theory/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:16:32.832+07:00"}
 ---
 
 # Spread activation theory

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus và graph view.md","permalink":"/ghi-chu-mang-luoi/infranodus-va-graph-view/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-01T22:46:56.892+07:00","updated":"2025-01-12T15:14:35.862+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus và graph view.md","permalink":"/ghi-chu-mang-luoi/infranodus-va-graph-view/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:14:35.862+07:00"}
 ---
 
 # Infranodus và graph view
