@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Kỹ Năng Quan Sát","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#quan-sat"],"dg-path":"Books/Tư duy như Sherlock Holmes/Kỹ Năng Quan Sát.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/ky-nang-quan-sat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:26:29.456+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kỹ Năng Quan Sát","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#quan-sat"],"dg-path":"Books/Tư duy như Sherlock Holmes/Kỹ Năng Quan Sát.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/ky-nang-quan-sat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T18:20:04.546+07:00"}
 ---
 
 # 👁 Kỹ Năng Quan Sát
@@ -24,3 +24,5 @@
 > 	Một số hành động có ý nghĩa khác nhau tại các khu vực khác nhau
 > 
 
+# Liên kết
+[[Publish/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation\|Chapter 1 - How Keen Is Your Observation]]
