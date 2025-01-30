@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương19","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 19 - Remembering Telephone Numbers.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-19-remembering-telephone-numbers/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T19:02:30.557+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kỹ thuật nhớ số điện thoại","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương19","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 19 - Remembering Telephone Numbers.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-19-remembering-telephone-numbers/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T00:15:34.178+07:00"}
 ---
 
-# Techniques for Remembering Phone Numbers
+# Kỹ thuật nhớ số điện thoại
+---
 ## Tóm tắt:
 Sử dụng hệ thống Peg để ghi nhớ số điện thoại. Gán mỗi chữ số với một từ hoặc hình ảnh và tạo câu chuyện từ đó.
 

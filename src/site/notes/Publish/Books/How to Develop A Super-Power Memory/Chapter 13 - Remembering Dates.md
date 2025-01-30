@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương13","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 13 - Remembering Dates.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-13-remembering-dates/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T18:50:01.110+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kỹ thuật nhớ ngày tháng","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương13","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 13 - Remembering Dates.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-13-remembering-dates/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T00:07:38.316+07:00"}
 ---
 
-# Techniques for Remembering Dates
+# Kỹ thuật nhớ ngày tháng
+---
 ## Tóm tắt
 Kỹ thuật ghi nhớ ngày tháng quan trọng như sinh nhật, kỷ niệm, hoặc ngày lịch sử. Sử dụng hệ thống Peg kết hợp với các phương pháp liên kết để ghi nhớ.
 

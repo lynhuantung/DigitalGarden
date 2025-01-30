@@ -52,12 +52,7 @@
 | Books/How to Develop A Super-Power Memory | Overview of Observation                                                      |
 | Books/How to Develop A Super-Power Memory | Peg System                                                                   |
 | Books/How to Develop A Super-Power Memory | Practical Exercises in Observation                                           |
-| Books/How to Develop A Super-Power Memory | Remembering Scripts and Anecdotes                                            |
 | Books/How to Develop A Super-Power Memory | Summary Groups                                                               |
-| Books/How to Develop A Super-Power Memory | Techniques for Remembering Abstract Information                              |
-| Books/How to Develop A Super-Power Memory | Techniques for Remembering Faces                                             |
-| Books/How to Develop A Super-Power Memory | Techniques for Remembering Names                                             |
-| Books/How to Develop A Super-Power Memory | Techniques for Remembering Vocabulary                                        |
 | Books/Thông Tin Sách                      | 0.Thông tin sách                                                             |
 | Books/Thông Tin Sách                      | 1. Người dịch                                                                |
 | Books/Thông Tin Sách                      | 2.Nhà xuất bản                                                               |

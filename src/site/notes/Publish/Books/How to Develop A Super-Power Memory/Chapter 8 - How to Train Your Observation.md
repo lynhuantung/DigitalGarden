@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Overview of Observation","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương8","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 8 - How to Train Your Observation.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-8-how-to-train-your-observation/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T18:46:31.900+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Cải thiện khả năng quan sát","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương8","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 8 - How to Train Your Observation.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-8-how-to-train-your-observation/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T23:58:35.537+07:00"}
 ---
 
-# Techniques to Improve Observation
+# Cải thiện khả năng quan sát
 ## Tóm tắt:
 Các kỹ thuật cụ thể để rèn luyện và nâng cao khả năng quan sát, như quan sát chi tiết và nhớ lại thông tin sau một khoảng thời gian nhất định.
 

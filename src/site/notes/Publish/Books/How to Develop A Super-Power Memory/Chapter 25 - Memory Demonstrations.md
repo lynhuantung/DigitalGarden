@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương25","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 25 - Memory Demonstrations.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-25-memory-demonstrations/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T18:59:33.951+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Biểu diễn trí nhớ","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương25","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 25 - Memory Demonstrations.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-25-memory-demonstrations/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T00:23:25.682+07:00"}
 ---
 
-# Techniques for Memory Demonstrations
+# Biểu diễn trí nhớ
+---
 ## Tóm tắt:
 Hướng dẫn cách thực hiện các buổi biểu diễn trí nhớ để gây ấn tượng với người khác, bao gồm việc ghi nhớ các danh sách dài, chuỗi số phức tạp, hoặc các thông tin trừu tượng.
 

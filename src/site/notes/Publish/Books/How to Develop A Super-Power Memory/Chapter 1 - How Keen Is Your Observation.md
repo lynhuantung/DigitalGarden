@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Overview of Observation","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương1","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-1-how-keen-is-your-observation/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T18:17:45.854+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Khả năng quan sát của bạn nhạy bén đến mức nào","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương1","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-1-how-keen-is-your-observation/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T23:53:40.679+07:00"}
 ---
 
-### Tổng quan về chương
+### Tổng quan về "Khả năng quan sát của bạn nhạy bén đến mức nào"
 
 Chương 1 đặt nền tảng cho việc cải thiện trí nhớ bằng cách nhấn mạnh vào tầm quan trọng của “sự quan sát” (observation). Theo Lorayne, một trong những trở ngại khiến chúng ta khó nhớ là do ta thường “nhìn” nhưng không thật sự “thấy.” Nhiều người có thói quen nhìn lướt sự vật, sự việc thay vì quan sát kỹ, nên thông tin đi vào não không được ghi nhận đầy đủ. Ở chương này, tác giả muốn chúng ta nhận thức rằng, chỉ khi ta rèn luyện khả năng tập trung và chú ý, ta mới có thể “nhớ những gì mình đã quan sát.”
 

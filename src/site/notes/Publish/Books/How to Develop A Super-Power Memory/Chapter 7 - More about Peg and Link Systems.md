@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương7","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 7 - More about Peg and Link Systems.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-7-more-about-peg-and-link-systems/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T18:44:39.988+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kết hợp Peg System và Link Method","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương7","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 7 - More about Peg and Link Systems.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-7-more-about-peg-and-link-systems/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T23:56:56.809+07:00"}
 ---
 
-# Combining Peg and Link Systems
+# Kết hợp Peg System và Link Method
 
 ## **Tóm tắt**:
 Hướng dẫn cách kết hợp Peg System và Link Method để ghi nhớ thông tin phức tạp hơn, chẳng hạn như danh sách số và từ.
