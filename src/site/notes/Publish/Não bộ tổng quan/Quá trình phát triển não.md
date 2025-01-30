@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Quá trình phát triển não.md","permalink":"/nao-bo-tong-quan/qua-trinh-phat-trien-nao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:19:56.726+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/publish/nao-bo-tong-quan/qua-trinh-phat-trien-nao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:19:56.726+07:00"}
 ---
 
 # Quá trình phát triển não

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Thùy chẩm.md","permalink":"/nao-bo-tong-quan/thuy-cham/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:20:38.481+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/publish/nao-bo-tong-quan/thuy-cham/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:20:38.481+07:00"}
 ---
 
 # Thuỳ Chẩm (Occipital Lobe)

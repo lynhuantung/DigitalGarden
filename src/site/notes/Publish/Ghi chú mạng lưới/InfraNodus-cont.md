@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/InfraNodus-cont.md","permalink":"/ghi-chu-mang-luoi/infra-nodus-cont/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:15:05.284+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/publish/ghi-chu-mang-luoi/infra-nodus-cont/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:15:05.284+07:00"}
 ---
 
 # InfraNodus-cont

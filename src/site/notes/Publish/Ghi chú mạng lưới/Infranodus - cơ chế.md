@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus - cơ chế.md","permalink":"/ghi-chu-mang-luoi/infranodus-co-che/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:14:21.110+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/publish/ghi-chu-mang-luoi/infranodus-co-che/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:14:21.110+07:00"}
 ---
 
 # Infranodus - cơ chế

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/AFRC.md","permalink":"/nao-bo-tong-quan/afrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:19:15.283+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/publish/nao-bo-tong-quan/afrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:19:15.283+07:00"}
 ---
 
 # AFRC (Absolute Fingerprint Ridge Count)

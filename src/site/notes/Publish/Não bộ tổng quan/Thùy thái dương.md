@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Thùy thái dương.md","permalink":"/nao-bo-tong-quan/thuy-thai-duong/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:20:51.537+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/publish/nao-bo-tong-quan/thuy-thai-duong/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:20:51.537+07:00"}
 ---
 
 # Thuỳ Thái Dương (Temporal Lobe)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md","permalink":"/ghi-chu-mang-luoi/xay-dung-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:17:18.479+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/publish/ghi-chu-mang-luoi/xay-dung-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:17:18.479+07:00"}
 ---
 
 # Xây dựng bộ não thứ hai

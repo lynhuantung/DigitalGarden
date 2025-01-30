@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Quả Táo/Các Giống Táo.md","permalink":"/qua-tao/cac-giong-tao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:21:21.605+07:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/publish/qua-tao/cac-giong-tao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:21:21.605+07:00"}
 ---
 
 # Các Giống Táo
