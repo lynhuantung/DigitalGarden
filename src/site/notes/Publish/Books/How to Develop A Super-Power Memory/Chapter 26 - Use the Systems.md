@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương26","permalink":"/publish/books/how-to-develop-a-super-power-memory/chapter-26-use-the-systems/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:26:20.326+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương26","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 26 - Use the Systems.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-26-use-the-systems/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:26:20.326+07:00"}
 ---
 
 ### Practical Application of Memory Systems

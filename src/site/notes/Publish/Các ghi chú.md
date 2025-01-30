@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/publish/cac-ghi-chu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:22:14.118+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Các ghi chú.md","permalink":"/cac-ghi-chu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:22:14.118+07:00"}
 ---
 
 # Các ghi chú

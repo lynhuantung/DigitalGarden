@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương13","permalink":"/publish/books/how-to-develop-a-super-power-memory/chapter-13-remembering-dates/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:25:42.215+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương13","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 13 - Remembering Dates.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-13-remembering-dates/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:25:42.215+07:00"}
 ---
 
 ### Techniques for Remembering Dates

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Rút ra kết luận","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#tom-tat"],"permalink":"/publish/books/tu-duy-nhu-sherlock-holmes/rut-ra-ket-luan/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T08:03:08.992+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Rút ra kết luận","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#tom-tat"],"dg-path":"Books/Tư duy như Sherlock Holmes/Rút ra kết luận.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/rut-ra-ket-luan/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T08:03:08.992+07:00"}
 ---
 
 

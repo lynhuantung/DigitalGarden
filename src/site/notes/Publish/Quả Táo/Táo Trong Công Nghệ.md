@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/publish/qua-tao/tao-trong-cong-nghe/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:21:36.242+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Quả Táo/Táo Trong Công Nghệ.md","permalink":"/qua-tao/tao-trong-cong-nghe/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:21:36.242+07:00"}
 ---
 
 # Táo Trong Công Nghệ

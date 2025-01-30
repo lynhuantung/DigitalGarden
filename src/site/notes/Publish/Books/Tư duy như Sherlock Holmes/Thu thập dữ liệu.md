@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Thu thập dữ liệu","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"permalink":"/publish/books/tu-duy-nhu-sherlock-holmes/thu-thap-du-lieu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T07:38:18.441+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Thu thập dữ liệu","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"dg-path":"Books/Tư duy như Sherlock Holmes/Thu thập dữ liệu.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/thu-thap-du-lieu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T07:38:18.441+07:00"}
 ---
 
 # Thu thập dữ liệu 

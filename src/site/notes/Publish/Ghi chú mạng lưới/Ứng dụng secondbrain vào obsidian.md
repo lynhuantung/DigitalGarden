@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/publish/ghi-chu-mang-luoi/ung-dung-secondbrain-vao-obsidian/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:17:05.777+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md","permalink":"/ghi-chu-mang-luoi/ung-dung-secondbrain-vao-obsidian/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:17:05.777+07:00"}
 ---
 
 # Ứng dụng secondbrain vào obsidian

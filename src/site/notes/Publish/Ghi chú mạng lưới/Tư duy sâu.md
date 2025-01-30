@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/publish/ghi-chu-mang-luoi/tu-duy-sau/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:16:54.665+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Tư duy sâu.md","permalink":"/ghi-chu-mang-luoi/tu-duy-sau/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:16:54.665+07:00"}
 ---
 
 # Tư duy sâu

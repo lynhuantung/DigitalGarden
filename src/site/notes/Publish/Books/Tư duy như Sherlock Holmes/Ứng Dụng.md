@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Ứng Dụng - Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#ung-dung"],"permalink":"/publish/books/tu-duy-nhu-sherlock-holmes/ung-dung/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T07:38:28.222+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Ứng Dụng - Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#ung-dung"],"dg-path":"Books/Tư duy như Sherlock Holmes/Ứng Dụng.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/ung-dung/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T07:38:28.222+07:00"}
 ---
 
 # 🎯 Ứng Dụng - Tư Duy Như Sherlock Holmes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/publish/qua-tao/tao-trong-than-thoai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:21:41.850+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Quả Táo/Táo Trong Thần Thoại.md","permalink":"/qua-tao/tao-trong-than-thoai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:21:41.850+07:00"}
 ---
 
 # Táo Trong Thần Thoại

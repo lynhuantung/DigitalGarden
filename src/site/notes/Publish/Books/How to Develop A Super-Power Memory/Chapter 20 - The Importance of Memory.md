@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương20","permalink":"/publish/books/how-to-develop-a-super-power-memory/chapter-20-the-importance-of-memory/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:26:02.412+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương20","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 20 - The Importance of Memory.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-20-the-importance-of-memory/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:26:02.412+07:00"}
 ---
 
 ### Memory and Success

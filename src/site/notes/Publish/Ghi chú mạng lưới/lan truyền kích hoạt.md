@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/publish/ghi-chu-mang-luoi/lan-truyen-kich-hoat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:15:32.708+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/lan truyền kích hoạt.md","permalink":"/ghi-chu-mang-luoi/lan-truyen-kich-hoat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:15:32.708+07:00"}
 ---
 
 # Lan truyền kích hoạt

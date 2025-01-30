@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/publish/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:39:13.192+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:39:13.192+07:00"}
 ---
 
 # Getting started

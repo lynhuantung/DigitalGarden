@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Group":"Group4","permalink":"/publish/books/how-to-develop-a-super-power-memory/nhom-4-ghi-nho-thong-tin-ca-nhan-va-cac-moi-quan-he/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:26:47.472+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Group":"Group4","dg-path":"Books/How to Develop A Super-Power Memory/Nhóm 4 - Ghi nhớ thông tin cá nhân và các mối quan hệ.md","permalink":"/books/how-to-develop-a-super-power-memory/nhom-4-ghi-nho-thong-tin-ca-nhan-va-cac-moi-quan-he/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:26:47.472+07:00"}
 ---
 
 [[Publish/Books/How to Develop A Super-Power Memory/Chapter 16 - What's in a Name\|Chapter 16 - What's in a Name]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/publish/nao-bo-tong-quan/tfrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:20:23.190+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Tfrc.md","permalink":"/nao-bo-tong-quan/tfrc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:20:23.190+07:00"}
 ---
 
 # TFRC (Total Fingerprint Ridge Count)

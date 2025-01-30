@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Giới thiệu - Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#gioi-thieu"],"permalink":"/publish/books/tu-duy-nhu-sherlock-holmes/gioi-thieu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:30:07.516+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Giới thiệu - Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#gioi-thieu"],"dg-path":"Books/Tư duy như Sherlock Holmes/Giới thiệu.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/gioi-thieu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:30:07.516+07:00"}
 ---
 
 # 📝 Giới thiệu - Tư Duy Như Sherlock Holmes

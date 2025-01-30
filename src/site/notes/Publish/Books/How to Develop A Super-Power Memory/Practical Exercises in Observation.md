@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Overview of Observation","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương1","permalink":"/publish/books/how-to-develop-a-super-power-memory/practical-exercises-in-observation/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:26:59.351+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Overview of Observation","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương1","dg-path":"Books/How to Develop A Super-Power Memory/Practical Exercises in Observation.md","permalink":"/books/how-to-develop-a-super-power-memory/practical-exercises-in-observation/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:26:59.351+07:00"}
 ---
 
 ### Practical Exercises in Observation

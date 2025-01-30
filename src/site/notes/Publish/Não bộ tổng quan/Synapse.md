@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/publish/nao-bo-tong-quan/synapse/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:20:15.259+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Synapse.md","permalink":"/nao-bo-tong-quan/synapse/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:20:15.259+07:00"}
 ---
 
 # Synapse (Khớp thần kinh)
