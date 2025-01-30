@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"Chương":null,"Tác giả":"[[TungLy/1. Projects/Books/Thông Tin Sách/Daniel Smith\|Daniel Smith]]","Người dịch":"[[Nguyễn Hương - Người dịch]]","NXB":"[[NXB Kim Đồng]]","permalink":"/tung-ly/1-projects/books/tu-duy-nhu-sherlock-holmes/tu-duy-nhu-sherlock-holmes/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T08:03:01.532+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"Chương":null,"Tác giả":"[[TungLy/1. Projects/Books/Thông Tin Sách/Daniel Smith\|Daniel Smith]]","Người dịch":"[[Nguyễn Hương - Người dịch]]","NXB":"[[NXB Kim Đồng]]","permalink":"/tung-ly/1-projects/books/tu-duy-nhu-sherlock-holmes/tu-duy-nhu-sherlock-holmes/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:23:27.491+07:00"}
 ---
 
 # 🕵️‍♂️ Tư Duy Như Sherlock Holmes
@@ -18,5 +18,4 @@ Cuốn sách hướng dẫn cách rèn luyện tư duy sắc bén như **Sherloc
 - 💬 **[[TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Trích Dẫn\|Trích Dẫn]]** - Những câu nói đáng nhớ từ sách.  
 
 ## 🔗 Liên Kết Nội Bộ  
-- 📂 [[TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tóm Tắt\|Tóm Tắt]] - Tổng hợp nội dung từng chương.  
-- 📖 [[Chương 01\|Chương 01]] - Phân tích chương đầu tiên.  
+- 📂 [[TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tóm Tắt\|Tóm Tắt]] - Tổng hợp nội dung từng chương.   

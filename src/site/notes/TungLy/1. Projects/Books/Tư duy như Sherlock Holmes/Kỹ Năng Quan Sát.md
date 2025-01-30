@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Kỹ Năng Quan Sát","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#quan-sat"],"permalink":"/tung-ly/1-projects/books/tu-duy-nhu-sherlock-holmes/ky-nang-quan-sat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:21:06.546+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kỹ Năng Quan Sát","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#quan-sat"],"permalink":"/tung-ly/1-projects/books/tu-duy-nhu-sherlock-holmes/ky-nang-quan-sat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:26:29.456+07:00"}
 ---
 
 # 👁 Kỹ Năng Quan Sát
@@ -24,6 +24,3 @@
 > 	Một số hành động có ý nghĩa khác nhau tại các khu vực khác nhau
 > 
 
-## 🔗 Liên Kết  
-- [[TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes\|Tư Duy Như Sherlock Holmes]] - Phương pháp này áp dụng nhiều trong sách.  
-- [[TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Nguyên Tắc Suy Luận\|Nguyên Tắc Suy Luận]] - Quan sát tốt giúp suy luận chính xác hơn.  
