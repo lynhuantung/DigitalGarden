@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-25T07:25:33.596+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:39:13.192+07:00"}
 ---
 
 # Getting started
 ---
 - [Node Link Mobile](https://m-nodelink.netlify.app/)
 - [[Publish/Simple-Page\|Simple-Page]]
+- [[TungLy/1. Projects/Books/0. Books\|Sách]]
 ## 01 Bắt đầu
 
 - [[Publish/Các ghi chú\|Danh sách các ghi chú]] 
