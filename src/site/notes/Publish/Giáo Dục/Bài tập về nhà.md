@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-show-local-graph":"false","dg-home-link":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-hide-links":false,"dg-path":"Giáo Dục/Bài tập về nhà.md","permalink":"/giao-duc/bai-tap-ve-nha/","dgHomeLink":"false","dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","noteIcon":"","updated":"2025-01-25T09:28:14.894+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-show-local-graph":"false","dg-home-link":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-hide-links":false,"dg-path":"Giáo Dục/Bài tập về nhà.md","permalink":"/giao-duc/bai-tap-ve-nha/","dgHomeLink":"false","dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","noteIcon":"","updated":"2025-01-25T09:31:51.673+07:00"}
 ---
 
 
@@ -28,11 +28,8 @@
    > "Once upon a time, there was a small village..."
 2. Câu hỏi: "What is the main idea of the story?"
 
-> [!TIP] Xem video hướng dẫn
-> <iframe width="560" height="315" src="https://www.youtube.com/watch?v=VUK_ccAM_oo" allowfullscreen></iframe>
 
 
-![](https://www.youtube.com/watch?v=VUK_ccAM_oo)
 
 
 
