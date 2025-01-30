@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"Chương":null,"Tác giả":"[[Publish/Books/Thông Tin Sách/Daniel Smith\|Daniel Smith]]","Người dịch":"[[Nguyễn Hương - Người dịch]]","NXB":"[[NXB Kim Đồng]]","permalink":"/publish/books/tu-duy-nhu-sherlock-holmes/tu-duy-nhu-sherlock-holmes/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:08:24.453+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"Chương":null,"Tác giả":"Daniel Smith","Người dịch":"Nguyễn Hương - Người dịch","NXB":"NXB Kim Đồng","permalink":"/publish/books/tu-duy-nhu-sherlock-holmes/tu-duy-nhu-sherlock-holmes/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T14:20:05.300+07:00"}
 ---
 
 # 🕵️‍♂️ Tư Duy Như Sherlock Holmes
 ---
 ![Pasted image 20250128175825.png|400](/img/user/src/Pasted%20image%2020250128175825.png)
 
-📖 **Tác giả:** [[Daniel Smith]]  
-📆 **Năm xuất bản:** [[Publish/Books/Thông Tin Sách/2022 - Năm xuất bản\|2022 - Năm xuất bản]]  
+📖 **Tác giả:** Daniel Smith  
+📆 **Năm xuất bản:** 2022 - Năm xuất bản  
 📌 **Chủ đề:** Tư duy logic, quan sát, phân tích  
 
 ## 📌 Nội dung chính
