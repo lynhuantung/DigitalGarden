@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T14:11:49.171+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"Related":"[[zet","dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T14:44:08.176+07:00"}
 ---
 
 # **Chương 3: Sáng Tạo Các Điểm Tư Duy Cấp Cao Hơn**
@@ -25,7 +25,7 @@ Chương này bao gồm **4 phần chính**:
 📌 **Khái niệm:**
 
 - Bộ não sinh học của con người hoạt động theo **mạng lưới thần kinh**, trong đó **các nơ-ron kết nối với nhau** để tạo ra suy nghĩ và ý tưởng.
-- Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**.
+- Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**. [[Publish/Ghi chú mạng lưới/lan truyền kích hoạt\|lan truyền kích hoạt]]
 
 📌 **Cách thực hiện:**  
 ✅ **Tạo mạng lưới ý tưởng** thay vì ghi chú rời rạc:
@@ -38,6 +38,7 @@ Chương này bao gồm **4 phần chính**:
     ├── 🔀 Phương pháp Mind Mapping
     ├── 💡 Nguyên tắc First Principles Thinking
     ├── 🤯 Lối tư duy đảo ngược ([[Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Tư duy ngược\|Tư duy ngược]])
+
 
 - Điều này giúp bạn **dễ dàng truy xuất thông tin** khi cần và kích thích sự sáng tạo từ các mối liên kết.
 
