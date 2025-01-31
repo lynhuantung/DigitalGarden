@@ -15,6 +15,7 @@
 | Publish                                   | Simple-Page                                                                  |
 | Books                                     | 0. Books                                                                     |
 | Books/How to Develop A Super-Power Memory | 0.Super-Power Memory                                                         |
+| Books/How to Develop A Super-Power Memory | Cấu trúc sách                                                                |
 | Books/How to Develop A Super-Power Memory | Chapter 1 - How Keen Is Your Observation                                     |
 | Books/How to Develop A Super-Power Memory | Chapter 10 - Remembering Playing Cards                                       |
 | Books/How to Develop A Super-Power Memory | Chapter 11 - Remembering Long Digit Numbers                                  |
