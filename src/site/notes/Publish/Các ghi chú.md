@@ -20,7 +20,9 @@
 | Books/Building a Second Brain             | 4 Vận dụng - Express                                                         |
 | Books/Building a Second Brain             | Building a Second Brain - Thiết lập bộ não thứ hai                           |
 | Books/Building a Second Brain             | Cấu trúc sách building second brain                                          |
+| Books/Building a Second Brain             | Cơ chế hoạt động                                                             |
 | Books/Building a Second Brain             | Giới thiệu Building a Second Brain                                           |
+| Books/Building a Second Brain             | Nguồn gốc và Khái niệm                                                       |
 | Books/Building a Second Brain             | Rút ra kết luận Building a Second Brain                                      |
 | Books/Building a Second Brain             | Tóm tắt Building a Second Brain                                              |
 | Books/Building a Second Brain             | Trích dẫn Building a Second Brain                                            |

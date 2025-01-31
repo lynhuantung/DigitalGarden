@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/Building a Second Brain - Thiết lập bộ não thứ hai.md","permalink":"/books/building-a-second-brain/building-a-second-brain-thiet-lap-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T09:47:08.681+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"Related":"[[The PARA Method]]","dg-path":"Books/Building a Second Brain/Building a Second Brain - Thiết lập bộ não thứ hai.md","permalink":"/books/building-a-second-brain/building-a-second-brain-thiet-lap-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T12:09:27.524+07:00"}
 ---
 
 ## Building a Second Brain - Thiết lập bộ não thứ hai
@@ -18,10 +18,10 @@
 
 **Phương pháp CODE:**
 
-* **Capture (Thu nạp):**  Ghi lại những thông tin quan trọng, ý tưởng và cảm hứng.
-* **Organize (Sắp xếp):** Tổ chức thông tin một cách có hệ thống để dễ dàng truy cập.
-* **Distill (Chắt lọc):**  Rút ra những ý tưởng cốt lõi và loại bỏ thông tin không cần thiết.
-* **Express (Vận dụng):** Sử dụng thông tin và kiến thức để tạo ra kết quả thực tế.
+* **[[Publish/Books/Building a Second Brain/1 Thu nạp - Capture\|1 Thu nạp - Capture]]:**  Ghi lại những thông tin quan trọng, ý tưởng và cảm hứng.
+* **[[Publish/Books/Building a Second Brain/2 Sắp xếp - Organize\|2 Sắp xếp - Organize]]:** Tổ chức thông tin một cách có hệ thống để dễ dàng truy cập.
+* **[[Publish/Books/Building a Second Brain/3 Chắt lọc - Distill\|3 Chắt lọc - Distill]]:**  Rút ra những ý tưởng cốt lõi và loại bỏ thông tin không cần thiết.
+* **[[Publish/Books/Building a Second Brain/4 Vận dụng - Express\|4 Vận dụng - Express]]:** Sử dụng thông tin và kiến thức để tạo ra kết quả thực tế.
 
 **Lợi ích:**
 

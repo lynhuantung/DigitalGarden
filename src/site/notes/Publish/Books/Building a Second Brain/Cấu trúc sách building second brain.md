@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Cấu trúc sách","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/Cấu trúc sách building second brain.md","permalink":"/books/building-a-second-brain/cau-truc-sach-building-second-brain/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T10:39:11.193+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Cấu trúc sách","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/Cấu trúc sách building second brain.md","permalink":"/books/building-a-second-brain/cau-truc-sach-building-second-brain/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T12:12:45.119+07:00"}
 ---
 
 
@@ -18,8 +18,8 @@ Building a Second Brain là một phương pháp giúp bạn lưu trữ, tổ ch
 ├── 🎯 [[Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain\|Ứng dụng Building a Second Brain]] → Cách áp dụng phương pháp Building a Second Brain vào thực tế  
 ├── 💬 [[Publish/Books/Building a Second Brain/Trích dẫn Building a Second Brain\|Trích dẫn Building a Second Brain]] → Những câu nói hay trong sách  
 ### 📖 Nội dung chính:  
-│── 🧠 [[Nguồn gốc & Khái niệm\|Nguồn gốc & Khái niệm]] → Tìm hiểu về nguồn gốc, khái niệm và lợi ích của "bộ não thứ hai"  
-│── ⚙️ [[Cơ chế hoạt động\|Cơ chế hoạt động]] → Hiểu rõ cách thức hoạt động của "bộ não thứ hai" và cách nó hỗ trợ tư duy  
+│── 🧠 [[Publish/Books/Building a Second Brain/Nguồn gốc và Khái niệm\|Nguồn gốc và Khái niệm]] → Tìm hiểu về nguồn gốc, khái niệm và lợi ích của "bộ não thứ hai"  
+│── ⚙️ [[Publish/Books/Building a Second Brain/Cơ chế hoạt động\|Cơ chế hoạt động]] → Hiểu rõ cách thức hoạt động của "bộ não thứ hai" và cách nó hỗ trợ tư duy  
 │── 🔄 Quy trình CODE  
 	│── 📥 [[Publish/Books/Building a Second Brain/1 Thu nạp - Capture\|1 Thu nạp - Capture]] → Các kỹ thuật thu thập và lưu trữ thông tin hiệu quả  
 	├── 🗂️ [[Publish/Books/Building a Second Brain/2 Sắp xếp - Organize\|2 Sắp xếp - Organize]] → Phương pháp tổ chức thông tin một cách có hệ thống  
