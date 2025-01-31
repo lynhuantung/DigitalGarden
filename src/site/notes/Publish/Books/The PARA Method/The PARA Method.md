@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"The PARA Method - Phương pháp tổ chức thông tin trong công việc","date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/The PARA Method/The PARA Method.md","permalink":"/books/the-para-method/the-para-method/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T07:49:33.929+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"The PARA Method - Phương pháp tổ chức thông tin trong công việc","date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/The PARA Method/The PARA Method.md","permalink":"/books/the-para-method/the-para-method/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T08:26:44.384+07:00"}
 ---
 
 
 # The PARA Method
 ---
-![Pasted image 20250131074747.png](/img/user/src/Pasted%20image%2020250131074747.png)
+![Pasted image 20250131082627.png|400](/img/user/src/Pasted%20image%2020250131082627.png)
 📖 **Tác giả:** Tiago Forte
 📆 **Năm xuất bản:** 2023 - Năm xuất bản  
 📌 **Chủ đề:** Đổi mới tư duy

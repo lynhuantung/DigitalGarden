@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/The PARA Method/Cấu trúc sách.md","permalink":"/books/the-para-method/cau-truc-sach/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T07:31:50.234+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/The PARA Method/Cấu trúc sách.md","permalink":"/books/the-para-method/cau-truc-sach/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T08:26:59.628+07:00"}
 ---
 
 
-![Pasted image 20250131073030.png](/img/user/src/Pasted%20image%2020250131073030.png)
+![Pasted image 20250131082627.png|400](/img/user/src/Pasted%20image%2020250131082627.png)
 **/Sách/The PARA Method/**  
 ├── 📖 [[Publish/Books/The PARA Method/The PARA Method\|The PARA Method]] → Tổng quan về sách  
 ├── 📝 [[Publish/Books/The PARA Method/Tóm Tắt\|Tóm Tắt]] → Tóm tắt nội dung từng chương  
