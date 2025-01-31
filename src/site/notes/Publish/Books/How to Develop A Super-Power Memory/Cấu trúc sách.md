@@ -6,10 +6,10 @@
 ---
 /Sách/How to Develop A Super-Power Memory/
 ├── 📖 [[How to Develop A Super-Power Memory\|How to Develop A Super-Power Memory]] → Tổng quan về sách
-├── 📝 [[Publish/Books/Tư duy như Sherlock Holmes/Tóm Tắt\|Tóm Tắt]] → Tóm tắt nội dung từng chương
-├── 📝 [[Publish/Books/Tư duy như Sherlock Holmes/Giới thiệu\|Giới thiệu]] → Giới thiệu nội dung sách
-├── 🎯 [[Publish/Books/Tư duy như Sherlock Holmes/Ứng Dụng\|Ứng Dụng]] → Cách áp dụng các kỹ thuật ghi nhớ vào thực tế
-├── 💬 [[Publish/Books/Tư duy như Sherlock Holmes/Trích Dẫn\|Trích Dẫn]] → Những câu nói hay trong sách
+├── 📝 [[Publish/Books/The PARA Method/Tóm Tắt\|Tóm Tắt]] → Tóm tắt nội dung từng chương
+├── 📝 [[Publish/Books/The PARA Method/Giới thiệu\|Giới thiệu]] → Giới thiệu nội dung sách
+├── 🎯 [[Publish/Books/The PARA Method/Ứng Dụng\|Ứng Dụng]] → Cách áp dụng các kỹ thuật ghi nhớ vào thực tế
+├── 💬 [[Publish/Books/The PARA Method/Trích Dẫn\|Trích Dẫn]] → Những câu nói hay trong sách
 ├── 📖 **Nội dung chính:**
 │   ├── 📖 [[Kỹ thuật liên kết\|Kỹ thuật liên kết]] → Kỹ thuật ghi nhớ bằng cách liên kết các hình ảnh hài hước
 │   ├── 📖 [[Hệ thống Peg\|Hệ thống Peg]] → Kỹ thuật ghi nhớ dựa trên việc liên kết các từ khóa với các con số

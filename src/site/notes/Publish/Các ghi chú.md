@@ -55,6 +55,17 @@
 | Books/How to Develop A Super-Power Memory | Practical Exercises in Observation                                           |
 | Books/How to Develop A Super-Power Memory | Review sách - How to Develop A Super-Power Memory                            |
 | Books/How to Develop A Super-Power Memory | Summary Groups                                                               |
+| Books/The PARA Method                     | Archives (Lưu trữ)                                                           |
+| Books/The PARA Method                     | Areas (Lĩnh vực)                                                             |
+| Books/The PARA Method                     | Cấu trúc sách                                                                |
+| Books/The PARA Method                     | Giới thiệu                                                                   |
+| Books/The PARA Method                     | Projects (Dự án)                                                             |
+| Books/The PARA Method                     | Resources (Tài nguyên)                                                       |
+| Books/The PARA Method                     | Rút ra kết luận                                                              |
+| Books/The PARA Method                     | The PARA Method                                                              |
+| Books/The PARA Method                     | Tóm Tắt                                                                      |
+| Books/The PARA Method                     | Trích Dẫn                                                                    |
+| Books/The PARA Method                     | Ứng Dụng                                                                     |
 | Books/Thông Tin Sách                      | 0.Thông tin sách                                                             |
 | Books/Thông Tin Sách                      | 1. Người dịch                                                                |
 | Books/Thông Tin Sách                      | 2.Nhà xuất bản                                                               |
@@ -64,7 +75,7 @@
 | Books/Thông Tin Sách                      | Daniel Smith                                                                 |
 | Books/Thông Tin Sách                      | Nguyễn Hương - Người dịch                                                    |
 | Books/Thông Tin Sách                      | NXB Kim Đồng                                                                 |
-| Books/Tư duy như Sherlock Holmes          | Cấu trúc thư mục                                                             |
+| Books/Tư duy như Sherlock Holmes          | Cấu trúc sách                                                                |
 | Books/Tư duy như Sherlock Holmes          | Giới thiệu                                                                   |
 | Books/Tư duy như Sherlock Holmes          | Kỹ Năng Quan Sát                                                             |
 | Books/Tư duy như Sherlock Holmes          | Nguyên Tắc Suy Luận                                                          |
