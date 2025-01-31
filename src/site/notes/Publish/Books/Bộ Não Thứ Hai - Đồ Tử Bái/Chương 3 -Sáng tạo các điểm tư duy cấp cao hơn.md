@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"Related":"[[Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kỹ thuật Zettelkasten\|Kỹ thuật Zettelkasten]]","dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T15:00:16.484+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T15:03:28.053+07:00"}
 ---
 
 # **Chương 3: Sáng Tạo Các Điểm Tư Duy Cấp Cao Hơn**
@@ -28,7 +28,7 @@ Chương này bao gồm **4 phần chính**:
 - Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**. [[Publish/Ghi chú mạng lưới/lan truyền kích hoạt\|lan truyền kích hoạt]]
 
 📌 **Cách thực hiện:**  
-✅ **Tạo mạng lưới ý tưởng** ([[Kỹ thuật Zettelkasten]]) thay vì ghi chú rời rạc:
+✅ **Tạo mạng lưới ý tưởng** ([[Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kỹ thuật Zettelkasten\|Kỹ thuật Zettelkasten]]) thay vì ghi chú rời rạc:
 
 - Thay vì viết một ghi chú độc lập, hãy kết nối nó với các ý tưởng liên quan.
 - Ví dụ, nếu bạn đang nghiên cứu về **Tư duy sáng tạo**, ghi chú có thể được kết nối như sau:
