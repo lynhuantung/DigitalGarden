@@ -14,6 +14,24 @@
 | Publish                                   | Notes                                                                        |
 | Publish                                   | Simple-Page                                                                  |
 | Books                                     | 0. Books                                                                     |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Bộ não thứ hai                                                               |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Cấu trúc sách Bộ Não Thứ Hai                                                 |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Chương 2 - Xây dựng bộ nhớ kỹ thuật số                                       |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn                               |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Chương 4 - Hiểu lầm, trở ngại và phương pháp luận                            |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi               |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Giới thiệu                                                                   |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Hạn chế của bộ não sinh học                                                  |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Internet không phải là bộ não thứ hai                                        |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Kết luận                                                                     |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Kỹ thuật SCAMPER                                                             |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Những lợi ích khi xây dựng bộ não thứ hai                                    |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Những quan điểm sai lầm về bộ não thứ hai                                    |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Những vấn đề liên quan đến trí nhớ con người                                 |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Tầm quan trọng của trí nhớ kỹ thuật số                                       |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Tóm tắt                                                                      |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Tư duy ngược                                                                 |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Ứng dụng thực tế                                                             |
 | Books/Building a Second Brain             | 1 Thu nạp - Capture                                                          |
 | Books/Building a Second Brain             | 2 Sắp xếp - Organize                                                         |
 | Books/Building a Second Brain             | 3 Chắt lọc - Distill                                                         |
@@ -86,6 +104,7 @@
 | Books/Thông Tin Sách                      | 3.Tác giả                                                                    |
 | Books/Thông Tin Sách                      | 4.Năm xuất bản                                                               |
 | Books/Thông Tin Sách                      | Daniel Smith                                                                 |
+| Books/Thông Tin Sách                      | Đồ Tử Bái                                                                    |
 | Books/Thông Tin Sách                      | Nguyễn Hương - Người dịch                                                    |
 | Books/Thông Tin Sách                      | NXB Kim Đồng                                                                 |
 | Books/Thông Tin Sách                      | Tiago Forte                                                                  |
