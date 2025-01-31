@@ -14,6 +14,17 @@
 | Publish                                   | Notes                                                                        |
 | Publish                                   | Simple-Page                                                                  |
 | Books                                     | 0. Books                                                                     |
+| Books/Building a Second Brain             | 1 Thu nạp - Capture                                                          |
+| Books/Building a Second Brain             | 2 Sắp xếp - Organize                                                         |
+| Books/Building a Second Brain             | 3 Chắt lọc - Distill                                                         |
+| Books/Building a Second Brain             | 4 Vận dụng - Express                                                         |
+| Books/Building a Second Brain             | Building a Second Brain - Thiết lập bộ não thứ hai                           |
+| Books/Building a Second Brain             | Cấu trúc sách building second brain                                          |
+| Books/Building a Second Brain             | Giới thiệu Building a Second Brain                                           |
+| Books/Building a Second Brain             | Rút ra kết luận Building a Second Brain                                      |
+| Books/Building a Second Brain             | Tóm tắt Building a Second Brain                                              |
+| Books/Building a Second Brain             | Trích dẫn Building a Second Brain                                            |
+| Books/Building a Second Brain             | Ứng dụng Building a Second Brain                                             |
 | Books/How to Develop A Super-Power Memory | 0.Super-Power Memory                                                         |
 | Books/How to Develop A Super-Power Memory | Cấu trúc sách                                                                |
 | Books/How to Develop A Super-Power Memory | Chapter 1 - How Keen Is Your Observation                                     |
@@ -55,12 +66,12 @@
 | Books/How to Develop A Super-Power Memory | Practical Exercises in Observation                                           |
 | Books/How to Develop A Super-Power Memory | Review sách - How to Develop A Super-Power Memory                            |
 | Books/How to Develop A Super-Power Memory | Summary Groups                                                               |
-| Books/The PARA Method                     | Archives (Lưu trữ)                                                           |
-| Books/The PARA Method                     | Areas (Lĩnh vực)                                                             |
+| Books/The PARA Method                     | Archives - Lưu trữ                                                           |
+| Books/The PARA Method                     | Areas - Lĩnh vực                                                             |
 | Books/The PARA Method                     | Cấu trúc sách                                                                |
 | Books/The PARA Method                     | Giới thiệu                                                                   |
-| Books/The PARA Method                     | Projects (Dự án)                                                             |
-| Books/The PARA Method                     | Resources (Tài nguyên)                                                       |
+| Books/The PARA Method                     | Projects - Dự án                                                             |
+| Books/The PARA Method                     | Resources - Tài nguyên                                                       |
 | Books/The PARA Method                     | Rút ra kết luận                                                              |
 | Books/The PARA Method                     | The PARA Method                                                              |
 | Books/The PARA Method                     | Tóm Tắt                                                                      |
@@ -75,6 +86,7 @@
 | Books/Thông Tin Sách                      | Daniel Smith                                                                 |
 | Books/Thông Tin Sách                      | Nguyễn Hương - Người dịch                                                    |
 | Books/Thông Tin Sách                      | NXB Kim Đồng                                                                 |
+| Books/Thông Tin Sách                      | Tiago Forte                                                                  |
 | Books/Tư duy như Sherlock Holmes          | Cấu trúc sách                                                                |
 | Books/Tư duy như Sherlock Holmes          | Giới thiệu                                                                   |
 | Books/Tư duy như Sherlock Holmes          | Kỹ Năng Quan Sát                                                             |

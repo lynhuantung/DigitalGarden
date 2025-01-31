@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Giới thiệu The PARA Method","date":"2025-01-31","tags":["book-intro","books/the-para-method"],"dg-path":"Books/The PARA Method/Giới thiệu.md","permalink":"/books/the-para-method/gioi-thieu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T08:25:01.905+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Giới thiệu The PARA Method","date":"2025-01-31","tags":["book-intro","books/the-para-method"],"dg-path":"Books/The PARA Method/Giới thiệu.md","permalink":"/books/the-para-method/gioi-thieu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T08:49:26.247+07:00"}
 ---
 
 ## Phương pháp PARA: Tổ chức thông tin, nâng cao hiệu quả làm việc
 ---
+Cuộc sống hiện đại đòi hỏi chúng ta phải xử lý rất nhiều thông tin. Nhưng chúng ta chưa bao giờ được dạy cách quản lý những thông tin này một cách hiệu quả để có thể tận dụng triệt để mỗi khi cần.
+Trong cuốn sách này, Tiago Forte sẽ phác thảo một hệ thống bốn bước đơn giản và trực quan giúp chúng ta sắp xếp tất cả các thông tin tràn ngập trong bộ não thành 4 loại - Dự án, Lĩnh vực, Tài nguyên, Lưu trữ, gọi tắt là phương pháp PARA - cho phép chúng ta quản lý các cam kết của mình trong khi đạt được các mục tiêu và ước mơ đề ra. PARA là phương pháp có thể được thực hiện chỉ trong vài giây nhưng có khả năng biến đổi quỹ đạo công việc và cuộc sống của bạn bằng sức mạnh công nghệ.
 
 **Giới thiệu về The PARA Method**
 

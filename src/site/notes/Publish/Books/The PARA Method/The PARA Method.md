@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"The PARA Method - Phương pháp tổ chức thông tin trong công việc","date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/The PARA Method/The PARA Method.md","permalink":"/books/the-para-method/the-para-method/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T08:26:44.384+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"The PARA Method - Phương pháp tổ chức thông tin trong công việc","date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/The PARA Method/The PARA Method.md","permalink":"/books/the-para-method/the-para-method/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T10:24:01.190+07:00"}
 ---
 
 
 # The PARA Method
 ---
 ![Pasted image 20250131082627.png|400](/img/user/src/Pasted%20image%2020250131082627.png)
-📖 **Tác giả:** Tiago Forte
+📖 **Tác giả:** [[Publish/Books/Thông Tin Sách/Tiago Forte\|Tiago Forte]]
 📆 **Năm xuất bản:** 2023 - Năm xuất bản  
 📌 **Chủ đề:** Đổi mới tư duy
 
@@ -43,8 +43,8 @@ Cuốn sách "The PARA Method" không chỉ cung cấp hướng dẫn chi tiết
 
 ---
 ## Nội dung chính:
-- 📂 [[Publish/Books/The PARA Method/Projects (Dự án)\|Projects (Dự án)]]
-- 🗂️ [[Publish/Books/The PARA Method/Areas (Lĩnh vực)\|Areas (Lĩnh vực)]]
-- 🔍 [[Publish/Books/The PARA Method/Resources (Tài nguyên)\|Resources (Tài nguyên)]]
-- 🏆 [[Publish/Books/The PARA Method/Archives (Lưu trữ)\|Archives (Lưu trữ)]]
+- 📂 [[Publish/Books/The PARA Method/Projects - Dự án\|Projects - Dự án]]
+- 🗂️ [[Publish/Books/The PARA Method/Areas - Lĩnh vực\|Areas - Lĩnh vực]]
+- 🔍 [[Publish/Books/The PARA Method/Resources - Tài nguyên\|Resources - Tài nguyên]]
+- 🏆 [[Publish/Books/The PARA Method/Archives - Lưu trữ\|Archives - Lưu trữ]]
 ---
