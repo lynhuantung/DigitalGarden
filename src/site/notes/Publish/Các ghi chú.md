@@ -52,6 +52,7 @@
 | Books/How to Develop A Super-Power Memory | Overview of Observation                                                      |
 | Books/How to Develop A Super-Power Memory | Peg System                                                                   |
 | Books/How to Develop A Super-Power Memory | Practical Exercises in Observation                                           |
+| Books/How to Develop A Super-Power Memory | Review sách - How to Develop A Super-Power Memory                            |
 | Books/How to Develop A Super-Power Memory | Summary Groups                                                               |
 | Books/Thông Tin Sách                      | 0.Thông tin sách                                                             |
 | Books/Thông Tin Sách                      | 1. Người dịch                                                                |
