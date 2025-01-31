@@ -23,9 +23,9 @@
 | Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Giới thiệu                                                                   |
 | Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Hạn chế của bộ não sinh học                                                  |
 | Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Internet không phải là bộ não thứ hai                                        |
-| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Kết luận                                                                     |
 | Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Kỹ thuật SCAMPER                                                             |
 | Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Kỹ thuật Zettelkasten                                                        |
+| Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Lời kết                                                                      |
 | Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Những lợi ích khi xây dựng bộ não thứ hai                                    |
 | Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Những quan điểm sai lầm về bộ não thứ hai                                    |
 | Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Những vấn đề liên quan đến trí nhớ con người                                 |

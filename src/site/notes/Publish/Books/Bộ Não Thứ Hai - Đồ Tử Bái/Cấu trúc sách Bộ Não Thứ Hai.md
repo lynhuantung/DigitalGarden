@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Cấu trúc sách","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Cấu trúc sách Bộ Não Thứ Hai.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/cau-truc-sach-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T14:17:28.606+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Cấu trúc sách","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Cấu trúc sách Bộ Não Thứ Hai.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/cau-truc-sach-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T22:47:32.384+07:00"}
 ---
 
-
 # Cấu trúc sách
+---
 ![Pasted image 20250131134318.png|500](/img/user/src/Pasted%20image%2020250131134318.png)
 /Sách/Bộ não thứ hai/
 ├── 📖 [[Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Bộ não thứ hai\|Bộ não thứ hai]] → Tổng quan về sách
@@ -21,4 +21,4 @@
 ├── 🚀 **[[Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn\|Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn]]**	
 ├── ⚡ **[[Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 4 - Hiểu lầm, trở ngại và phương pháp luận\|Chương 4 - Hiểu lầm, trở ngại và phương pháp luận]]**	
 ├── 🏛️ **[[Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi\|Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi]]**	
-├── 🎯 [[Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kết luận\|Kết luận]] → Những giá trị và bài học rút ra từ việc xây dựng bộ não thứ hai.
+├── 🎯 [[Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Lời kết\|Lời kết]] → Những giá trị và bài học rút ra từ việc xây dựng bộ não thứ hai.
