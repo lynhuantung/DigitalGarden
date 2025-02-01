@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/0 - Học Tiếng Anh.md","permalink":"/local-graph-view/0-hoc-tieng-anh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T08:21:44.965+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Local graph view/0 - Học Tiếng Anh.md","permalink":"/local-graph-view/0-hoc-tieng-anh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T08:36:12.403+07:00"}
 ---
 
 # Học Tiếng Anh
 Việc học tiếng Anh là một hành trình dài và cần sự kiên trì. Có nhiều phương pháp học khác nhau giúp cải thiện từng kỹ năng cụ thể.
+
 
 ## Các phương pháp phổ biến:
 - [[Publish/Local graph view/Ngữ pháp\|Ngữ pháp]]
@@ -16,7 +17,7 @@ Việc học tiếng Anh là một hành trình dài và cần sự kiên trì. 
 
 ## Câu hỏi khám phá
 ---
-![Pasted image 20250201082144.png](/img/user/src/Pasted%20image%2020250201082144.png)
+![Pasted image 20250201083611.png](/img/user/src/Pasted%20image%2020250201083611.png)
 ### 🔍 **Câu hỏi về làm rõ khái niệm (Clarification Questions)**
 
 1. **Ngữ pháp** có vai trò gì trong việc học tiếng Anh? Nó giúp gì trong **giao tiếp phản xạ** và **viết luận**?
