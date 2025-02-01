@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:39:13.192+07:00"}
+{"dg-publish":true,"dg-home":true,"dg-path":"Getting started.md","permalink":"/getting-started/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T07:50:35.362+07:00"}
 ---
 
 # Getting started
 ---
 - [Node Link Mobile](https://m-nodelink.netlify.app/)
 - [[Publish/Simple-Page\|Simple-Page]]
+- [Học tiếng anh](obsidian://open?vault=obs-Personal&file=Publish%2FLocal%20graph%20view%2FH%E1%BB%8Dc%20Ti%E1%BA%BFng%20Anh) -->Thể hiện local graph view giúp tư duy rộng
 - [[Publish/Books/0. Books\|Sách]]
+
+
 ## 01 Bắt đầu
 
 - [[Publish/Các ghi chú\|Danh sách các ghi chú]] 

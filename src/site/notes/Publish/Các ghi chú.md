@@ -148,6 +148,13 @@
 | Khoa hoc than kinh                        | Độ-Dẻo-synapse                                                               |
 | Khoa hoc than kinh                        | Hình-thành-nơron                                                             |
 | Khoa hoc than kinh                        | Khoa-hoc-than-kinh-index                                                     |
+| Local graph view                          | 0 - Học Tiếng Anh                                                            |
+| Local graph view                          | Giao tiếp phản xạ                                                            |
+| Local graph view                          | Học từ vựng qua phim                                                         |
+| Local graph view                          | Nghe Podcast                                                                 |
+| Local graph view                          | Ngữ pháp                                                                     |
+| Local graph view                          | Tư duy bằng tiếng Anh                                                        |
+| Local graph view                          | Viết luận                                                                    |
 | Não bộ tổng quan                          | AFRC                                                                         |
 | Não bộ tổng quan                          | Năm Thùy Não                                                                 |
 | Não bộ tổng quan                          | Não bộ tổng quan                                                             |
