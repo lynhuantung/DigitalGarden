@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-path":"Feature/Thiết lập digital garden.md","permalink":"/feature/thiet-lap-digital-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T09:09:28.288+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Feature/Thiết lập digital garden.md","permalink":"/feature/thiet-lap-digital-garden/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T09:23:33.177+07:00"}
 ---
 
 # Thiết lập digital garden
