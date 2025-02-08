@@ -8,7 +8,9 @@
 ## Danh sách các ghi chú
 | Thư Mục                                   | Tên File                                                                     |
 | ----------------------------------------- | ---------------------------------------------------------------------------- |
-| Publish                                   | Getting started                                                              |
+| Publish                                   | ⏳ Quản Lý Thời Gian                                                          |
+| Publish                                   | Bộ não số                                                                    |
+| Publish                                   | Home                                                                         |
 | Books                                     | 0. Books                                                                     |
 | Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Bộ não thứ hai                                                               |
 | Books/Bộ Não Thứ Hai - Đồ Tử Bái          | Cấu trúc sách Bộ Não Thứ Hai                                                 |

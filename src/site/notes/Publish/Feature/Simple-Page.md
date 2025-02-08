@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-show-local-graph":"false","dg-home-link":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-path":"Feature/Simple-Page.md","permalink":"/feature/simple-page/","dgHomeLink":"false","dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","noteIcon":"","updated":"2025-02-01T09:06:17.828+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-show-local-graph":"false","dg-home-link":"false","dg-show-backlinks":"false","dg-show-toc":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-enable-search":"false","dg-link-preview":"false","dg-show-tags":"false","dg-pass-frontmatter":"false","dg-path":"Feature/Simple-Page.md","permalink":"/feature/simple-page/","dgHomeLink":"false","dgPassFrontmatter":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgEnableSearch":"false","dgShowToc":"false","dgLinkPreview":"false","dgShowTags":"false","noteIcon":"","updated":"2025-02-09T06:45:01.576+07:00"}
 ---
 
 
-[[Publish/Getting started\|AllFeature]]
+[[Publish/Home\|AllFeature]]
 
 
 Một trang mà đồ thị cục bộ, tìm kiếm, liên kết ngược, cây tệp, liên kết trang chủ và bảng nội dung bị vô hiệu hóa.
