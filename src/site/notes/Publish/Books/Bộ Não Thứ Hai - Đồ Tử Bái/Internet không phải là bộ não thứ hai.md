@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Internet không phải là bộ não thứ hai","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Internet không phải là bộ não thứ hai.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/internet-khong-phai-la-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T13:48:38.493+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Internet không phải là bộ não thứ hai","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Internet không phải là bộ não thứ hai.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/internet-khong-phai-la-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-01-31T13:48:38.493+07:00"}
 ---
 
 # Internet không phải là bộ não thứ hai

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/The PARA Method/Cấu trúc sách.md","permalink":"/books/the-para-method/cau-truc-sach/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T10:24:01.170+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/The PARA Method/Cấu trúc sách.md","permalink":"/books/the-para-method/cau-truc-sach/","dgPassFrontmatter":true,"updated":"2025-01-31T10:24:01.170+07:00"}
 ---
 
 

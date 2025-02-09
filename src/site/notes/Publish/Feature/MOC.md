@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Feature/MOC.md","permalink":"/feature/moc/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-01T09:10:59.560+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Feature/MOC.md","permalink":"/feature/moc/","dgPassFrontmatter":true,"updated":"2025-02-01T09:10:59.560+07:00"}
 ---
 
 - [Node Link Mobile](https://m-nodelink.netlify.app/)

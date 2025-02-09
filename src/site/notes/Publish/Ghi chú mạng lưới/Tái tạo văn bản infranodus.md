@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Tái tạo văn bản infranodus.md","permalink":"/ghi-chu-mang-luoi/tai-tao-van-ban-infranodus/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:16:42.206+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Tái tạo văn bản infranodus.md","permalink":"/ghi-chu-mang-luoi/tai-tao-van-ban-infranodus/","dgPassFrontmatter":true,"updated":"2025-01-12T15:16:42.206+07:00"}
 ---
 
 # Tái tạo văn bản infranodus

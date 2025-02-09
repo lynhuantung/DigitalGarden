@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/2 Sắp xếp - Organize.md","permalink":"/books/building-a-second-brain/2-sap-xep-organize/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T10:36:34.101+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/2 Sắp xếp - Organize.md","permalink":"/books/building-a-second-brain/2-sap-xep-organize/","dgPassFrontmatter":true,"updated":"2025-01-31T10:36:34.101+07:00"}
 ---
 
 # 🗂️ Sắp xếp (Organize)

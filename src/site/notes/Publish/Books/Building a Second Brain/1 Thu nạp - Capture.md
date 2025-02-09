@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/1 Thu nạp - Capture.md","permalink":"/books/building-a-second-brain/1-thu-nap-capture/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T10:36:29.524+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/1 Thu nạp - Capture.md","permalink":"/books/building-a-second-brain/1-thu-nap-capture/","dgPassFrontmatter":true,"updated":"2025-01-31T10:36:29.524+07:00"}
 ---
 
 

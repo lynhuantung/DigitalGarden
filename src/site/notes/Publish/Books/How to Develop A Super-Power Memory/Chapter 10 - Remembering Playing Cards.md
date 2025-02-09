@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Kỹ thuật nhớ quân bài","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương10","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 10 - Remembering Playing Cards.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-10-remembering-playing-cards/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T00:03:53.482+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kỹ thuật nhớ quân bài","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương10","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 10 - Remembering Playing Cards.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-10-remembering-playing-cards/","dgPassFrontmatter":true,"updated":"2025-01-31T00:03:53.482+07:00"}
 ---
 
 # Kỹ thuật nhớ quân bài

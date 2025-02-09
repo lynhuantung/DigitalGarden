@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Review sách - How to Develop A Super-Power Memory","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Review","dg-path":"Books/How to Develop A Super-Power Memory/Review sách - How to Develop A Super-Power Memory.md","permalink":"/books/how-to-develop-a-super-power-memory/review-sach-how-to-develop-a-super-power-memory/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T07:09:59.396+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Review sách - How to Develop A Super-Power Memory","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Review","dg-path":"Books/How to Develop A Super-Power Memory/Review sách - How to Develop A Super-Power Memory.md","permalink":"/books/how-to-develop-a-super-power-memory/review-sach-how-to-develop-a-super-power-memory/","dgPassFrontmatter":true,"updated":"2025-01-31T07:09:59.396+07:00"}
 ---
 
 # How to Develop A Super-Power Memory

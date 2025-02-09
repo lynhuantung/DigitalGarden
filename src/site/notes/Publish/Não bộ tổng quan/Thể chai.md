@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Thể chai.md","permalink":"/nao-bo-tong-quan/the-chai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:20:30.483+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Thể chai.md","permalink":"/nao-bo-tong-quan/the-chai/","dgPassFrontmatter":true,"updated":"2025-01-12T15:20:30.483+07:00"}
 ---
 
 # Thể Chai (Corpus Callosum)

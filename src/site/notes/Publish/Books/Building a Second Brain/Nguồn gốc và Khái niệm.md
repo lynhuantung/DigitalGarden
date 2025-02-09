@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Nguồn gốc và Khái niệm","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/Nguồn gốc và Khái niệm.md","permalink":"/books/building-a-second-brain/nguon-goc-va-khai-niem/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T12:15:39.907+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Nguồn gốc và Khái niệm","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/Nguồn gốc và Khái niệm.md","permalink":"/books/building-a-second-brain/nguon-goc-va-khai-niem/","dgPassFrontmatter":true,"updated":"2025-01-31T12:15:39.907+07:00"}
 ---
 
 # 🧠 Nguồn gốc & Khái niệm "Bộ não thứ hai"

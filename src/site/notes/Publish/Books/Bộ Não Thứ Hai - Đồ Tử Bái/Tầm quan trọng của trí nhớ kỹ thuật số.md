@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Tầm quan trọng của trí nhớ kỹ thuật số","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Tầm quan trọng của trí nhớ kỹ thuật số.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/tam-quan-trong-cua-tri-nho-ky-thuat-so/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T13:52:53.405+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Tầm quan trọng của trí nhớ kỹ thuật số","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Tầm quan trọng của trí nhớ kỹ thuật số.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/tam-quan-trong-cua-tri-nho-ky-thuat-so/","dgPassFrontmatter":true,"updated":"2025-01-31T13:52:53.405+07:00"}
 ---
 
 # Tầm quan trọng của trí nhớ kỹ thuật số

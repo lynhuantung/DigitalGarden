@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Giới thiệu The PARA Method","date":"2025-01-31","tags":["book-intro","books/the-para-method"],"dg-path":"Books/The PARA Method/Giới thiệu.md","permalink":"/books/the-para-method/gioi-thieu/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T08:49:26.247+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Giới thiệu The PARA Method","date":"2025-01-31","tags":["book-intro","books/the-para-method"],"dg-path":"Books/The PARA Method/Giới thiệu.md","permalink":"/books/the-para-method/gioi-thieu/","dgPassFrontmatter":true,"updated":"2025-01-31T08:49:26.247+07:00"}
 ---
 
 ## Phương pháp PARA: Tổ chức thông tin, nâng cao hiệu quả làm việc

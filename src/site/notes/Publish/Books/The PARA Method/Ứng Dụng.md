@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Ứng Dụng The PARA Method","date":"2025-01-31","tags":["book-application","books/the-para-method"],"dg-path":"Books/The PARA Method/Ứng Dụng.md","permalink":"/books/the-para-method/ung-dung/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T08:11:06.590+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Ứng Dụng The PARA Method","date":"2025-01-31","tags":["book-application","books/the-para-method"],"dg-path":"Books/The PARA Method/Ứng Dụng.md","permalink":"/books/the-para-method/ung-dung/","dgPassFrontmatter":true,"updated":"2025-01-31T08:11:06.590+07:00"}
 ---
 
 

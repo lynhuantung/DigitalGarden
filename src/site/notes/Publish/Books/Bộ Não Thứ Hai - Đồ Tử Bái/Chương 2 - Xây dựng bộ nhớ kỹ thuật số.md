@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Giới thiệu","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 2 - Xây dựng bộ nhớ kỹ thuật số.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/chuong-2-xay-dung-bo-nho-ky-thuat-so/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-02-08T07:19:19.586+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Giới thiệu","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 2 - Xây dựng bộ nhớ kỹ thuật số.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/chuong-2-xay-dung-bo-nho-ky-thuat-so/","dgPassFrontmatter":true,"updated":"2025-02-08T07:19:19.586+07:00"}
 ---
 
 # **📖 Chương 2: Xây dựng bộ nhớ kỹ thuật số**

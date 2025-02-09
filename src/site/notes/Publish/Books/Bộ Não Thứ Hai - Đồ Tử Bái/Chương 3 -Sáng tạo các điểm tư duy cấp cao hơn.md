@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T15:03:28.053+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"updated":"2025-01-31T15:03:28.053+07:00"}
 ---
 
 # **Chương 3: Sáng Tạo Các Điểm Tư Duy Cấp Cao Hơn**

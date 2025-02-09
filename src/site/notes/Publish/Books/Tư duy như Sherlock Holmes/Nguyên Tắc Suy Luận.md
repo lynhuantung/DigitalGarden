@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Nguyên Tắc Suy Luận","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#suy-luan"],"dg-path":"Books/Tư duy như Sherlock Holmes/Nguyên Tắc Suy Luận.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/nguyen-tac-suy-luan/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:03:05.051+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Nguyên Tắc Suy Luận","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#suy-luan"],"dg-path":"Books/Tư duy như Sherlock Holmes/Nguyên Tắc Suy Luận.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/nguyen-tac-suy-luan/","dgPassFrontmatter":true,"updated":"2025-01-30T09:03:05.051+07:00"}
 ---
 
 # 🔍 Nguyên Tắc Suy Luận Của Sherlock Holmes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Kết luận","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Lời kết.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/loi-ket/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T14:40:44.568+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kết luận","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Lời kết.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/loi-ket/","dgPassFrontmatter":true,"updated":"2025-01-31T14:40:44.568+07:00"}
 ---
 
 # **Hành Trình Khám Phá "Bộ Não Thứ Hai" – Cánh Cửa Dẫn Tới Trí Tuệ Vượt Trội**

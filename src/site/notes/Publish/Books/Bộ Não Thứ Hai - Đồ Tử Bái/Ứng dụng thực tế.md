@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Ứng dụng thực tế","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Ứng dụng thực tế.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/ung-dung-thuc-te/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T13:53:57.871+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Ứng dụng thực tế","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Ứng dụng thực tế.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/ung-dung-thuc-te/","dgPassFrontmatter":true,"updated":"2025-01-31T13:53:57.871+07:00"}
 ---
 
 # Ứng dụng thực tế của "Bộ não thứ hai"

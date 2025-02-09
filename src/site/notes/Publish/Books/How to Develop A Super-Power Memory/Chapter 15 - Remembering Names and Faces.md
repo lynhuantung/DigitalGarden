@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Ghi nhớ tên và khuôn mặt","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương15","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 15 - Remembering Names and Faces.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-15-remembering-names-and-faces/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T00:10:34.873+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Ghi nhớ tên và khuôn mặt","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương15","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 15 - Remembering Names and Faces.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-15-remembering-names-and-faces/","dgPassFrontmatter":true,"updated":"2025-01-31T00:10:34.873+07:00"}
 ---
 
 # Ghi nhớ tên và khuôn mặt

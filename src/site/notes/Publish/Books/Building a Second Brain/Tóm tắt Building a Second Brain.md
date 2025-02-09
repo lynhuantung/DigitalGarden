@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Tóm tắt Building a Second Brain","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/Tóm tắt Building a Second Brain.md","permalink":"/books/building-a-second-brain/tom-tat-building-a-second-brain/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T09:36:35.985+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Tóm tắt Building a Second Brain","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/Tóm tắt Building a Second Brain.md","permalink":"/books/building-a-second-brain/tom-tat-building-a-second-brain/","dgPassFrontmatter":true,"updated":"2025-01-31T09:36:35.985+07:00"}
 ---
 
 ## Tóm tắt Building a Second Brain

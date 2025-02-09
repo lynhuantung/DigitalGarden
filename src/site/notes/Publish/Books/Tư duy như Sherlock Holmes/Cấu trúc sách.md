@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"dg-path":"Books/Tư duy như Sherlock Holmes/Cấu trúc sách.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/cau-truc-sach/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T09:34:53.533+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"dg-path":"Books/Tư duy như Sherlock Holmes/Cấu trúc sách.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/cau-truc-sach/","dgPassFrontmatter":true,"updated":"2025-01-31T09:34:53.533+07:00"}
 ---
 
 # Cấu trúc sách

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Khoa hoc than kinh/Củng-cố-nơron.md","permalink":"/khoa-hoc-than-kinh/cung-co-noron/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:18:34.145+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Khoa hoc than kinh/Củng-cố-nơron.md","permalink":"/khoa-hoc-than-kinh/cung-co-noron/","dgPassFrontmatter":true,"updated":"2025-01-12T15:18:34.145+07:00"}
 ---
 
 # Củng Cố Nơron

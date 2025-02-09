@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/3 Chắt lọc - Distill.md","permalink":"/books/building-a-second-brain/3-chat-loc-distill/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T10:36:38.303+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/3 Chắt lọc - Distill.md","permalink":"/books/building-a-second-brain/3-chat-loc-distill/","dgPassFrontmatter":true,"updated":"2025-01-31T10:36:38.303+07:00"}
 ---
 
 # ✨ Chắt lọc (Distill)

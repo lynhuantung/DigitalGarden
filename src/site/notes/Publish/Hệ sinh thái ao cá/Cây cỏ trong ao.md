@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Hệ sinh thái ao cá/Cây cỏ trong ao.md","permalink":"/he-sinh-thai-ao-ca/cay-co-trong-ao/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:18:07.133+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Hệ sinh thái ao cá/Cây cỏ trong ao.md","permalink":"/he-sinh-thai-ao-ca/cay-co-trong-ao/","dgPassFrontmatter":true,"updated":"2025-01-12T15:18:07.133+07:00"}
 ---
 
 # Cây cỏ trong ao

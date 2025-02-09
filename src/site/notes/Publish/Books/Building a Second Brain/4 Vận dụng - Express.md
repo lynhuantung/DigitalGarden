@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/4 Vận dụng - Express.md","permalink":"/books/building-a-second-brain/4-van-dung-express/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T10:35:42.304+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/4 Vận dụng - Express.md","permalink":"/books/building-a-second-brain/4-van-dung-express/","dgPassFrontmatter":true,"updated":"2025-01-31T10:35:42.304+07:00"}
 ---
 
 # 🚀 Vận dụng (Express)

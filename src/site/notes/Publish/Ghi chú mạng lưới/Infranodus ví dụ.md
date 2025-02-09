@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus ví dụ.md","permalink":"/ghi-chu-mang-luoi/infranodus-vi-du/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:14:55.808+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Infranodus ví dụ.md","permalink":"/ghi-chu-mang-luoi/infranodus-vi-du/","dgPassFrontmatter":true,"updated":"2025-01-12T15:14:55.808+07:00"}
 ---
 
 # Infranodus ví dụ

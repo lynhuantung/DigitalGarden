@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Phương pháp ghi nhớ các cuộc hẹn và lịch trình","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương23","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 23 - Remembering Appointments and Schedules.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-23-remembering-appointments-and-schedules/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T00:21:05.921+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Phương pháp ghi nhớ các cuộc hẹn và lịch trình","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương23","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 23 - Remembering Appointments and Schedules.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-23-remembering-appointments-and-schedules/","dgPassFrontmatter":true,"updated":"2025-01-31T00:21:05.921+07:00"}
 ---
 
 # Phương pháp ghi nhớ các cuộc hẹn và lịch trình

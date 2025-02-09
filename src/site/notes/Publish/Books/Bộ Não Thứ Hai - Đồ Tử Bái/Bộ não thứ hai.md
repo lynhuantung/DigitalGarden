@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Bộ não thứ hai","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"Related":null,"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Bộ não thứ hai.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T22:43:07.604+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Bộ não thứ hai","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"Related":null,"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Bộ não thứ hai.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-01-31T22:43:07.604+07:00"}
 ---
 
 # Bộ não thứ 2

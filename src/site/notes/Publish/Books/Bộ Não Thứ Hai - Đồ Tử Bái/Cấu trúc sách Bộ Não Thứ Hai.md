@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Cấu trúc sách","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Cấu trúc sách Bộ Não Thứ Hai.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/cau-truc-sach-bo-nao-thu-hai/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T22:47:32.384+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Cấu trúc sách","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Cấu trúc sách Bộ Não Thứ Hai.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/cau-truc-sach-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-01-31T22:47:32.384+07:00"}
 ---
 
 # Cấu trúc sách

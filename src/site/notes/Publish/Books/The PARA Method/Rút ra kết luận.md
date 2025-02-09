@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Rút ra kết luận - The PARA Method","date":"2025-01-31","tags":["book-summary","books/the-para-method"],"dg-path":"Books/The PARA Method/Rút ra kết luận.md","permalink":"/books/the-para-method/rut-ra-ket-luan/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T08:06:35.909+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Rút ra kết luận - The PARA Method","date":"2025-01-31","tags":["book-summary","books/the-para-method"],"dg-path":"Books/The PARA Method/Rút ra kết luận.md","permalink":"/books/the-para-method/rut-ra-ket-luan/","dgPassFrontmatter":true,"updated":"2025-01-31T08:06:35.909+07:00"}
 ---
 
 ## Rút ra kết luận từ phương pháp PARA (dựa trên sách The PARA Method)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Giới thiệu Building a Second Brain","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/Giới thiệu Building a Second Brain.md","permalink":"/books/building-a-second-brain/gioi-thieu-building-a-second-brain/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T09:35:55.194+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Giới thiệu Building a Second Brain","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/Building a Second Brain/Giới thiệu Building a Second Brain.md","permalink":"/books/building-a-second-brain/gioi-thieu-building-a-second-brain/","dgPassFrontmatter":true,"updated":"2025-01-31T09:35:55.194+07:00"}
 ---
 
 ## Giới thiệu Building a Second Brain

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Kỹ Năng Quan Sát","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#quan-sat"],"dg-path":"Books/Tư duy như Sherlock Holmes/Kỹ Năng Quan Sát.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/ky-nang-quan-sat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T18:20:04.546+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kỹ Năng Quan Sát","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#quan-sat"],"dg-path":"Books/Tư duy như Sherlock Holmes/Kỹ Năng Quan Sát.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/ky-nang-quan-sat/","dgPassFrontmatter":true,"updated":"2025-01-30T18:20:04.546+07:00"}
 ---
 
 # 👁 Kỹ Năng Quan Sát

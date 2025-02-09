@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Sự quan tâm và khả năng ghi nhớ","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương4","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 4 - Interest in Memory.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-4-interest-in-memory/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T23:55:42.943+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Sự quan tâm và khả năng ghi nhớ","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương4","dg-path":"Books/How to Develop A Super-Power Memory/Chapter 4 - Interest in Memory.md","permalink":"/books/how-to-develop-a-super-power-memory/chapter-4-interest-in-memory/","dgPassFrontmatter":true,"updated":"2025-01-30T23:55:42.943+07:00"}
 ---
 
 ### Sự quan tâm và khả năng ghi nhớ

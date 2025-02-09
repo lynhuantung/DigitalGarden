@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Kỹ thuật SCAMPER","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kỹ thuật SCAMPER.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/ky-thuat-scamper/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T14:08:15.700+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kỹ thuật SCAMPER","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kỹ thuật SCAMPER.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/ky-thuat-scamper/","dgPassFrontmatter":true,"updated":"2025-01-31T14:08:15.700+07:00"}
 ---
 
 ## Kỹ thuật SCAMPER: Công Cụ Sáng Tạo Mạnh Mẽ

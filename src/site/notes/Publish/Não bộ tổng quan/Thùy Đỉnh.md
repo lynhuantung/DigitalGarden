@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Thùy Đỉnh.md","permalink":"/nao-bo-tong-quan/thuy-dinh/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-12T15:20:45.036+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Thùy Đỉnh.md","permalink":"/nao-bo-tong-quan/thuy-dinh/","dgPassFrontmatter":true,"updated":"2025-01-12T15:20:45.036+07:00"}
 ---
 
 # Thuỳ Đỉnh (Parietal Lobe)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Archives (Lưu trữ) - The PARA Method","date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/The PARA Method/Archives - Lưu trữ.md","permalink":"/books/the-para-method/archives-luu-tru/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T08:17:25.130+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Archives (Lưu trữ) - The PARA Method","date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/The PARA Method/Archives - Lưu trữ.md","permalink":"/books/the-para-method/archives-luu-tru/","dgPassFrontmatter":true,"updated":"2025-01-31T08:17:25.130+07:00"}
 ---
 
 

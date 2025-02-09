@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Tóm Tắt - Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#tom-tat"],"dg-path":"Books/Tư duy như Sherlock Holmes/Tóm Tắt.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/tom-tat/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-30T09:28:55.420+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Tóm Tắt - Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#tom-tat"],"dg-path":"Books/Tư duy như Sherlock Holmes/Tóm Tắt.md","permalink":"/books/tu-duy-nhu-sherlock-holmes/tom-tat/","dgPassFrontmatter":true,"updated":"2025-01-30T09:28:55.420+07:00"}
 ---
 
 # 📝 Tóm Tắt - Tư Duy Như Sherlock Holmes

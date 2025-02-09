@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Kỹ thuật Zettelkasten","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kỹ thuật Zettelkasten.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/ky-thuat-zettelkasten/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T14:46:02.883+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kỹ thuật Zettelkasten","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kỹ thuật Zettelkasten.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/ky-thuat-zettelkasten/","dgPassFrontmatter":true,"updated":"2025-01-31T14:46:02.883+07:00"}
 ---
 
 ## **Kỹ thuật ghi chú Zettelkasten – Hệ thống giúp bạn tư duy sâu sắc và sáng tạo hơn**

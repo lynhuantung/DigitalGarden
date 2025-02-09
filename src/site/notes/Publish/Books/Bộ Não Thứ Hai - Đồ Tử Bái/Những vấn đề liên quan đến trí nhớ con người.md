@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Những vấn đề liên quan đến trí nhớ con người","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Những vấn đề liên quan đến trí nhớ con người.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/nhung-van-de-lien-quan-den-tri-nho-con-nguoi/","dgPassFrontmatter":true,"noteIcon":"","updated":"2025-01-31T13:51:54.706+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Những vấn đề liên quan đến trí nhớ con người","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/Bộ Não Thứ Hai - Đồ Tử Bái/Những vấn đề liên quan đến trí nhớ con người.md","permalink":"/books/bo-nao-thu-hai-do-tu-bai/nhung-van-de-lien-quan-den-tri-nho-con-nguoi/","dgPassFrontmatter":true,"updated":"2025-01-31T13:51:54.706+07:00"}
 ---
 
 # Những vấn đề liên quan đến trí nhớ con người

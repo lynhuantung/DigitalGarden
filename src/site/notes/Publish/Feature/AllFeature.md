@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-show-local-graph":"true","dg-home-link":"true","dg-show-backlinks":"true","dg-show-toc":"true","dg-show-inline-title":"true","dg-show-file-tree":"true","dg-enable-search":"true","dg-link-preview":"true","dg-show-tags":"true","dg-pass-frontmatter":"true","dg-path":"Feature/AllFeature.md","permalink":"/feature/all-feature/","dgHomeLink":"true","dgPassFrontmatter":true,"dgShowBacklinks":"true","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","dgEnableSearch":"true","dgShowToc":"true","dgLinkPreview":"true","dgShowTags":"true","noteIcon":"","updated":"2025-01-25T08:26:23.137+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-show-local-graph":"true","dg-home-link":"true","dg-show-backlinks":"true","dg-show-toc":"true","dg-show-inline-title":"true","dg-show-file-tree":"true","dg-enable-search":"true","dg-link-preview":"true","dg-show-tags":"true","dg-pass-frontmatter":"true","dg-path":"Feature/AllFeature.md","permalink":"/feature/all-feature/","dgHomeLink":"true","dgPassFrontmatter":true,"dgShowBacklinks":"true","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","dgEnableSearch":"true","dgShowToc":"true","dgLinkPreview":"true","dgShowTags":"true","updated":"2025-01-25T08:26:23.137+07:00"}
 ---
 
 
