@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"aliases":["MOC"],"Mô tả":"Tổng hợp các ý tưởng từ các quyển sách","title":"Tổng hợp các ý tưởng từ các quyển sách","dg-path":"Books/0a - MOC.md","permalink":"/books/0a-moc/","dgPassFrontmatter":true,"updated":"2025-02-16T09:21:13.671+07:00"}
+{"dg-publish":true,"dg-home":false,"aliases":["MOC"],"Mô tả":"Tổng hợp các ý tưởng từ các quyển sách","title":null,"dg-path":"Books/0a - MOC.md","permalink":"/books/0a-moc/","dgPassFrontmatter":true,"updated":"2025-02-16T22:58:25.259+07:00"}
 ---
 
 # 📍 Mốc - Tổng hợp tư tưởng từ sách  
@@ -10,13 +10,13 @@
 
 ## 🕵️‍♂️ 2. Phương pháp tư duy logic  
 - 📖 [[Publish/Books/01 -  Tư duy như Sherlock Holmes/4 - Nguyên Tắc Suy Luận\|4 - Nguyên Tắc Suy Luận]]] 
-- 📖 [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn\|Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn]]
+- 📖 [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn\|3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn]]
 
 ## 🏗 3. Hệ thống hóa kiến thức và ghi chú hiệu quả  
-- 📖 [[Publish/Books/03 - Building a Second Brain/Building a Second Brain - Thiết lập bộ não thứ hai\|Building a Second Brain - Thiết lập bộ não thứ hai]]
+- 📖 [[Publish/Books/03 - Building a Second Brain/5 - Building a Second Brain - Thiết lập bộ não thứ hai\|5 - Building a Second Brain - Thiết lập bộ não thứ hai]]
 
 ## 🚀 4. Ứng dụng AI và công nghệ vào tư duy  
-- 📖 [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/Chương 2 - Xây dựng bộ nhớ kỹ thuật số\|Chương 2 - Xây dựng bộ nhớ kỹ thuật số]]
+- 📖 [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số\|2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số]]
 
 
 ---

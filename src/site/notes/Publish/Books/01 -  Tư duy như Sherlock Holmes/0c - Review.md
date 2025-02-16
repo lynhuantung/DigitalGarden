@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Review","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#review"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0c - Review.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0c-review/","dgPassFrontmatter":true,"updated":"2025-02-16T08:47:52.647+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Review","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#review"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0c - Review.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0c-review/","dgPassFrontmatter":true,"updated":"2025-02-16T22:51:02.925+07:00"}
 ---
 
-# 📝 Đánh giá sách **"Tư duy như Sherlock Holmes"**  
+# 📝 Đánh giá sách **"Tư duy như Sherlock Holmes"**  ![Pasted image 20250128175825.png|300](/img/user/src/Pasted%20image%2020250128175825.png)
 
 ## 📌 Tóm tắt nội dung  
 Cuốn sách này hướng dẫn cách rèn luyện tư duy quan sát và suy luận như Sherlock Holmes. Nó tập trung vào:  

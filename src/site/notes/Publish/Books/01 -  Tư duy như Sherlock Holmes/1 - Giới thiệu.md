@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Giới thiệu - Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#gioi-thieu"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/1 - Giới thiệu.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/1-gioi-thieu/","dgPassFrontmatter":true,"updated":"2025-01-30T09:30:07.516+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Giới thiệu - Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#gioi-thieu"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/1 - Giới thiệu.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/1-gioi-thieu/","dgPassFrontmatter":true,"updated":"2025-02-16T22:35:37.693+07:00"}
 ---
 
 # 📝 Giới thiệu - Tư Duy Như Sherlock Holmes
@@ -11,3 +11,6 @@
 - Đề tài được nói đến gồm: <span style="background:rgba(240, 200, 0, 0.2)">cung điện ký, manh mối phi ngôn ngữ, phát hiện nói dối, trực giác, sức tập trung, kỹ năng lắng nghe, cảnh giác, quan sát mọi ngườ</span>i, sàng lọc thông tin và nhiều đề tài khác.
 
 - Sau khi đọc sách bạn sẽ có cách nhìn hoàn toàn khác mới về sự vật, từ chiếc cúc áo, gấu quần cho đến vết xước trên mũi giày!
+
+
+[[Publish/Books/01 -  Tư duy như Sherlock Holmes/2 - Tư Duy Như Sherlock Holmes\|2 - Tư Duy Như Sherlock Holmes]]

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Trích dẫn","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#trich-dan"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0b - Trích Dẫn.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0b-trich-dan/","dgPassFrontmatter":true,"updated":"2025-01-30T09:08:42.607+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Trích dẫn","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#trich-dan"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0b - Trích Dẫn.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0b-trich-dan/","dgPassFrontmatter":true,"updated":"2025-02-16T22:50:57.176+07:00"}
 ---
 
 # Trích dẫn
 ---
-
+![Pasted image 20250128175825.png|300](/img/user/src/Pasted%20image%2020250128175825.png)
 > [!quote] 
 > Anh nhìn, nhưng anh không quan sát
 > -- Sherlock Holmes--

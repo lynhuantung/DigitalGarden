@@ -24,6 +24,7 @@
 | Books/00 - Thông Tin Sách                      | NXB Kim Đồng                                                                 |
 | Books/00 - Thông Tin Sách                      | Tiago Forte                                                                  |
 | Books/01 -  Tư duy như Sherlock Holmes         | 0a - Index - Tư duy như Sherlock Holmes                                      |
+| Books/01 -  Tư duy như Sherlock Holmes         | 0a1 - Moc                                                                    |
 | Books/01 -  Tư duy như Sherlock Holmes         | 0b - Trích Dẫn                                                               |
 | Books/01 -  Tư duy như Sherlock Holmes         | 0c - Review                                                                  |
 | Books/01 -  Tư duy như Sherlock Holmes         | 0d -Ứng Dụng                                                                 |
@@ -32,40 +33,41 @@
 | Books/01 -  Tư duy như Sherlock Holmes         | 3 - Kỹ Năng Quan Sát                                                         |
 | Books/01 -  Tư duy như Sherlock Holmes         | 4 - Nguyên Tắc Suy Luận                                                      |
 | Books/01 -  Tư duy như Sherlock Holmes         | 5 - Rút ra kết luận                                                          |
+| Books/01 -  Tư duy như Sherlock Holmes         | 5a - Diễn giải 10 bước tư duy như Sherlock Holmes                            |
 | Books/01 -  Tư duy như Sherlock Holmes         | 6 - Thu thập dữ liệu                                                         |
 | Books/01 -  Tư duy như Sherlock Holmes         | 7 - Tóm Tắt                                                                  |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Bộ não thứ hai                                                               |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Cấu trúc sách Bộ Não Thứ Hai                                                 |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Chương 2 - Xây dựng bộ nhớ kỹ thuật số                                       |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn                               |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Chương 4 - Hiểu lầm, trở ngại và phương pháp luận                            |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi               |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Giới thiệu                                                                   |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Hạn chế của bộ não sinh học                                                  |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Internet không phải là bộ não thứ hai                                        |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Kỹ thuật SCAMPER                                                             |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Kỹ thuật Zettelkasten                                                        |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Lời kết                                                                      |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Những lợi ích khi xây dựng bộ não thứ hai                                    |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Những quan điểm sai lầm về bộ não thứ hai                                    |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Những vấn đề liên quan đến trí nhớ con người                                 |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Tầm quan trọng của trí nhớ kỹ thuật số                                       |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Tóm tắt                                                                      |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Tư duy ngược                                                                 |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | Ứng dụng thực tế                                                             |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a - Index - Bộ Não Thứ Hai                                                  |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a1 - Giới thiệu                                                             |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2 - Tóm tắt                                                                |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2a - Hạn chế của bộ não sinh học                                           |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2b - Internet không phải là bộ não thứ hai                                 |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2c - Những lợi ích khi xây dựng bộ não thứ hai                             |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2d - Những quan điểm sai lầm về bộ não thứ hai                             |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2e - Những vấn đề liên quan đến trí nhớ con người                          |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 1 - Bộ não thứ hai                                                           |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 10 - Ứng dụng thực tế                                                        |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 11 - Lời kết                                                                 |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số                                   |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn                           |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận                        |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 5 - Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi           |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 6 - Kỹ thuật SCAMPER                                                         |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 7 - Kỹ thuật Zettelkasten                                                    |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 8 - Tầm quan trọng của trí nhớ kỹ thuật số                                   |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 9 - Tư duy ngược                                                             |
+| Books/03 - Building a Second Brain             | 0 - Index - Cấu trúc sách building second brain                              |
+| Books/03 - Building a Second Brain             | 0a - Giới thiệu Building a Second Brain                                      |
+| Books/03 - Building a Second Brain             | 0a1 - Trích dẫn Building a Second Brain                                      |
+| Books/03 - Building a Second Brain             | 0b - Nguồn gốc và Khái niệm                                                  |
+| Books/03 - Building a Second Brain             | 0d - Tóm tắt Building a Second Brain                                         |
 | Books/03 - Building a Second Brain             | 1 Thu nạp - Capture                                                          |
 | Books/03 - Building a Second Brain             | 2 Sắp xếp - Organize                                                         |
 | Books/03 - Building a Second Brain             | 3 Chắt lọc - Distill                                                         |
 | Books/03 - Building a Second Brain             | 4 Vận dụng - Express                                                         |
-| Books/03 - Building a Second Brain             | Building a Second Brain - Thiết lập bộ não thứ hai                           |
-| Books/03 - Building a Second Brain             | Cấu trúc sách building second brain                                          |
-| Books/03 - Building a Second Brain             | Cơ chế hoạt động                                                             |
-| Books/03 - Building a Second Brain             | Giới thiệu Building a Second Brain                                           |
-| Books/03 - Building a Second Brain             | Nguồn gốc và Khái niệm                                                       |
-| Books/03 - Building a Second Brain             | Rút ra kết luận Building a Second Brain                                      |
-| Books/03 - Building a Second Brain             | Tóm tắt Building a Second Brain                                              |
-| Books/03 - Building a Second Brain             | Trích dẫn Building a Second Brain                                            |
-| Books/03 - Building a Second Brain             | Ứng dụng Building a Second Brain                                             |
+| Books/03 - Building a Second Brain             | 5 - Building a Second Brain - Thiết lập bộ não thứ hai                       |
+| Books/03 - Building a Second Brain             | 6 - Cơ chế hoạt động                                                         |
+| Books/03 - Building a Second Brain             | 7 - Rút ra kết luận Building a Second Brain                                  |
+| Books/03 - Building a Second Brain             | 8 - Ứng dụng Building a Second Brain                                         |
 | Books/04 - How to Develop A Super-Power Memory | 0.Super-Power Memory                                                         |
 | Books/04 - How to Develop A Super-Power Memory | Cấu trúc sách                                                                |
 | Books/04 - How to Develop A Super-Power Memory | Chapter 1 - How Keen Is Your Observation                                     |
@@ -107,17 +109,17 @@
 | Books/04 - How to Develop A Super-Power Memory | Practical Exercises in Observation                                           |
 | Books/04 - How to Develop A Super-Power Memory | Review sách - How to Develop A Super-Power Memory                            |
 | Books/04 - How to Develop A Super-Power Memory | Summary Groups                                                               |
-| Books/05 - The PARA Method                     | Archives - Lưu trữ                                                           |
-| Books/05 - The PARA Method                     | Areas - Lĩnh vực                                                             |
-| Books/05 - The PARA Method                     | Cấu trúc sách                                                                |
-| Books/05 - The PARA Method                     | Giới thiệu                                                                   |
-| Books/05 - The PARA Method                     | Projects - Dự án                                                             |
-| Books/05 - The PARA Method                     | Resources - Tài nguyên                                                       |
-| Books/05 - The PARA Method                     | Rút ra kết luận                                                              |
-| Books/05 - The PARA Method                     | The PARA Method                                                              |
-| Books/05 - The PARA Method                     | Tóm Tắt                                                                      |
-| Books/05 - The PARA Method                     | Trích Dẫn                                                                    |
-| Books/05 - The PARA Method                     | Ứng Dụng                                                                     |
+| Books/05 - The PARA Method                     | 0 - Index - Cấu trúc sách                                                    |
+| Books/05 - The PARA Method                     | 0a- Giới thiệu                                                               |
+| Books/05 - The PARA Method                     | 0b - Tóm Tắt                                                                 |
+| Books/05 - The PARA Method                     | 0d - Trích Dẫn                                                               |
+| Books/05 - The PARA Method                     | 1 - The PARA Method                                                          |
+| Books/05 - The PARA Method                     | 2 - Projects - Dự án                                                         |
+| Books/05 - The PARA Method                     | 3 - Areas - Lĩnh vực                                                         |
+| Books/05 - The PARA Method                     | 4 - Resources - Tài nguyên                                                   |
+| Books/05 - The PARA Method                     | 5 - Archives - Lưu trữ                                                       |
+| Books/05 - The PARA Method                     | 6 - Rút ra kết luận                                                          |
+| Books/05 - The PARA Method                     | 7 - Ứng Dụng                                                                 |
 | Feature                                        | AllFeature                                                                   |
 | Feature                                        | Các ghi chú                                                                  |
 | Feature                                        | MOC                                                                          |

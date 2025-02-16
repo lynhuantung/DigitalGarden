@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Rút ra kết luận","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#tom-tat"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/5 - Rút ra kết luận.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/5-rut-ra-ket-luan/","dgPassFrontmatter":true,"updated":"2025-01-30T08:03:08.992+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Rút ra kết luận","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#tom-tat"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/5 - Rút ra kết luận.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/5-rut-ra-ket-luan/","dgPassFrontmatter":true,"updated":"2025-02-16T22:48:04.283+07:00"}
 ---
 
 
@@ -23,3 +23,6 @@
 10. Loại trừ cái không thể
 	- Một giả thuyết không khớp với dữ kiện thực tế phải bị loại bỏ.
 
+
+
+[[Publish/Books/01 -  Tư duy như Sherlock Holmes/5a - Diễn giải 10 bước tư duy như Sherlock Holmes\|5a - Diễn giải 10 bước tư duy như Sherlock Holmes]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/1 Thu nạp - Capture.md","permalink":"/books/03-building-a-second-brain/1-thu-nap-capture/","dgPassFrontmatter":true,"updated":"2025-01-31T10:36:29.524+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/1 Thu nạp - Capture.md","permalink":"/books/03-building-a-second-brain/1-thu-nap-capture/","dgPassFrontmatter":true,"updated":"2025-02-16T23:00:29.889+07:00"}
 ---
 
 
@@ -28,10 +28,10 @@ Thu nạp (Capture) là bước đầu tiên trong phương pháp CODE (Capture 
 | Ghi chú tay | Apple Notes, Google Keep |
 
 ## 🏷️ Phân loại thông tin theo PARA
-📂 **[[Publish/Books/05 - The PARA Method/Projects - Dự án\|Projects - Dự án]]**: Thông tin liên quan đến các dự án đang làm.  
-📂 **[[Publish/Books/05 - The PARA Method/Areas - Lĩnh vực\|Areas - Lĩnh vực]]**: Những lĩnh vực quan trọng trong cuộc sống và công việc.  
-📂 **[[Publish/Books/05 - The PARA Method/Resources - Tài nguyên\|Resources - Tài nguyên]] **: Tài liệu tham khảo hữu ích.  
-📂 **[[Publish/Books/05 - The PARA Method/Archives - Lưu trữ\|Archives - Lưu trữ]]**: Những thông tin không còn cần thiết nhưng có thể dùng sau.
+📂 **[[Publish/Books/05 - The PARA Method/2 - Projects - Dự án\|2 - Projects - Dự án]]**: Thông tin liên quan đến các dự án đang làm.  
+📂 **[[Publish/Books/05 - The PARA Method/3 - Areas - Lĩnh vực\|3 - Areas - Lĩnh vực]]**: Những lĩnh vực quan trọng trong cuộc sống và công việc.  
+📂 **[[Publish/Books/05 - The PARA Method/4 - Resources - Tài nguyên\|4 - Resources - Tài nguyên]] **: Tài liệu tham khảo hữu ích.  
+📂 **[[Publish/Books/05 - The PARA Method/5 - Archives - Lưu trữ\|5 - Archives - Lưu trữ]]**: Những thông tin không còn cần thiết nhưng có thể dùng sau.
 
 ## ✨ Ví dụ thực tế
 📖 Khi đọc sách, bạn tóm tắt ý chính vào **Obsidian** thay vì chỉ lưu ảnh chụp trang sách.  
