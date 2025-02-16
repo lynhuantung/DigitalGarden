@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-home":true,"title":null,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-09T07:19:57.212+07:00"}
+{"dg-publish":true,"dg-home":true,"title":null,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2025-02-16T09:06:41.705+07:00"}
 ---
 
 # Liên kết
 ---
 - [Node Link Mobile](https://m-nodelink.netlify.app/)
 - [[Publish/Feature/MOC\|MOC]]
-- [[Publish/Books/0. Books\|Sách]]
+- [[Publish/Books/0 - Books\|Sách]]
 
 
 # 🚀 Getting Started

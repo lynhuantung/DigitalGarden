@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"mô tả":"Trung Khu Thần Kinh (Central Hub) để điều phối và kiểm soát toàn bộ hệ thống ghi chú, giúp bạn không bị lạc trong đống dữ liệu khổng lồ của mình. 🚀","title":"Bộ não số","dg-path":"Bộ não số.md","permalink":"/bo-nao-so/","dgPassFrontmatter":true,"updated":"2025-02-09T07:18:58.508+07:00"}
+{"dg-publish":true,"dg-home":false,"mô tả":"Trung Khu Thần Kinh (Central Hub) để điều phối và kiểm soát toàn bộ hệ thống ghi chú, giúp bạn không bị lạc trong đống dữ liệu khổng lồ của mình. 🚀","title":"Bộ não số","dg-path":"Bộ não số.md","permalink":"/bo-nao-so/","dgPassFrontmatter":true,"updated":"2025-02-09T08:43:27.731+07:00"}
 ---
 
 ## **1. Tạo Trung Khu Thần Kinh Để Điều Phối 500 Ghi Chú**
@@ -29,7 +29,7 @@ Ví dụ: Nếu 500 ghi chú của bạn thuộc các chủ đề khác nhau, b�
 
 📌 **Hệ Thống Ghi Chú Chính**:
 - [[Publish/Não bộ tổng quan/Não bộ tổng quan\|Não bộ tổng quan]]
-- [[Publish/⏳ Quản Lý Thời Gian\|⏳ Quản Lý Thời Gian]]
+- [[⏳ Quản Lý Thời Gian\|⏳ Quản Lý Thời Gian]]
 - [[💡 Ý Tưởng & Sáng Tạo\|💡 Ý Tưởng & Sáng Tạo]]
 - [[🛠 Công Nghệ & Công Cụ\|🛠 Công Nghệ & Công Cụ]]
 - [[🔗 Kết Nối & Phát Triển Cá Nhân\|🔗 Kết Nối & Phát Triển Cá Nhân]]
