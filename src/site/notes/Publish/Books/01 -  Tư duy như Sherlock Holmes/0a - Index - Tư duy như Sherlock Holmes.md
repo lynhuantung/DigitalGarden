@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"author":null,"published_date":null,"page":null,"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0a - Index - Tư duy như Sherlock Holmes.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0a-index-tu-duy-nhu-sherlock-holmes/","dgPassFrontmatter":true,"updated":"2025-02-16T22:50:43.324+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0a - Index - Tư duy như Sherlock Holmes.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0a-index-tu-duy-nhu-sherlock-holmes/","dgPassFrontmatter":true,"updated":"2025-02-16T23:12:26.680+07:00"}
 ---
 
 # Cấu trúc sách
