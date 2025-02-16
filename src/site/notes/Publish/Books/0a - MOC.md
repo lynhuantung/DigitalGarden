@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"aliases":["MOC"],"Mô tả":"Tổng hợp các ý tưởng từ các quyển sách","dg-path":"Books/0a - MOC.md","permalink":"/books/0a-moc/","dgPassFrontmatter":true,"updated":"2025-02-16T09:12:30.146+07:00"}
+{"dg-publish":true,"dg-home":false,"aliases":["MOC"],"Mô tả":"Tổng hợp các ý tưởng từ các quyển sách","title":"Tổng hợp các ý tưởng từ các quyển sách","dg-path":"Books/0a - MOC.md","permalink":"/books/0a-moc/","dgPassFrontmatter":true,"updated":"2025-02-16T09:21:13.671+07:00"}
 ---
 
 # 📍 Mốc - Tổng hợp tư tưởng từ sách  
