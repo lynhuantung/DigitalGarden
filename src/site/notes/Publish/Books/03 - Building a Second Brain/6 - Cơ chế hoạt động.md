@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/6 - Cơ chế hoạt động.md","permalink":"/books/03-building-a-second-brain/6-co-che-hoat-dong/","dgPassFrontmatter":true,"updated":"2025-02-16T22:58:59.165+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["sach","sach/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/6 - Cơ chế hoạt động.md","permalink":"/books/03-building-a-second-brain/6-co-che-hoat-dong/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:56.343+07:00"}
 ---
 
 # 🧠 Cơ chế hoạt động của "Bộ não thứ hai"

@@ -36,17 +36,18 @@
 | Books/01 -  Tư duy như Sherlock Holmes         | 5a - Diễn giải 10 bước tư duy như Sherlock Holmes                            |
 | Books/01 -  Tư duy như Sherlock Holmes         | 6 - Thu thập dữ liệu                                                         |
 | Books/01 -  Tư duy như Sherlock Holmes         | 7 - Tóm Tắt                                                                  |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a - Index - Bộ Não Thứ Hai                                                  |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a1 - Giới thiệu                                                             |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2 - Tóm tắt                                                                |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2a - Hạn chế của bộ não sinh học                                           |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2b - Internet không phải là bộ não thứ hai                                 |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2c - Những lợi ích khi xây dựng bộ não thứ hai                             |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2d - Những quan điểm sai lầm về bộ não thứ hai                             |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a2e - Những vấn đề liên quan đến trí nhớ con người                          |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | _Ghi chú cá nhân                                                             |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | _Ứng dụng thực tế                                                            |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0 - Bìa sách - Bộ Não Thứ Hai                                                |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0a - Giới thiệu - Bộ Não Thứ Hai                                             |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 0b - Mục lục - Bộ Não Thứ Hai                                                |
 | Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 1 - Bộ não thứ hai                                                           |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 10 - Ứng dụng thực tế                                                        |
-| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 11 - Lời kết                                                                 |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 10 - Lời kết                                                                 |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 1a - Hạn chế của bộ não sinh học                                             |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 1b - Internet không phải là bộ não thứ hai                                   |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 1c - Những lợi ích khi xây dựng bộ não thứ hai                               |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 1d - Những quan điểm sai lầm về bộ não thứ hai                               |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 1e - Những vấn đề liên quan đến trí nhớ con người                            |
 | Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số                                   |
 | Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn                           |
 | Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận                        |

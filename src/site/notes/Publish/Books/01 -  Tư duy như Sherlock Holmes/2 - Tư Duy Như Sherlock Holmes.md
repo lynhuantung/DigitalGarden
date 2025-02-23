@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"Chương":null,"Tác giả":"Daniel Smith","Người dịch":"Nguyễn Hương - Người dịch","NXB":"NXB Kim Đồng","dg-path":"Books/01 -  Tư duy như Sherlock Holmes/2 - Tư Duy Như Sherlock Holmes.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/2-tu-duy-nhu-sherlock-holmes/","dgPassFrontmatter":true,"updated":"2025-02-16T08:51:13.762+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Tư Duy Như Sherlock Holmes","date":"2025-01-28","tags":["sach","sach/tu-duy-nhu-sherlock-holmes"],"Chương":null,"Tác giả":"Daniel Smith","Người dịch":"Nguyễn Hương - Người dịch","NXB":"NXB Kim Đồng","dg-path":"Books/01 -  Tư duy như Sherlock Holmes/2 - Tư Duy Như Sherlock Holmes.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/2-tu-duy-nhu-sherlock-holmes/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:55.723+07:00"}
 ---
 
 # 🕵️‍♂️ Tư Duy Như Sherlock Holmes

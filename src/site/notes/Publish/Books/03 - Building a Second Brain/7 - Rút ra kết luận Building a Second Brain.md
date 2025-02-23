@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Rút ra kết luận Building a Second Brain","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/7 - Rút ra kết luận Building a Second Brain.md","permalink":"/books/03-building-a-second-brain/7-rut-ra-ket-luan-building-a-second-brain/","dgPassFrontmatter":true,"updated":"2025-01-31T10:43:18.601+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Rút ra kết luận Building a Second Brain","date":"2025-01-31","tags":["sach","sach/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/7 - Rút ra kết luận Building a Second Brain.md","permalink":"/books/03-building-a-second-brain/7-rut-ra-ket-luan-building-a-second-brain/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:56.355+07:00"}
 ---
 
 ## Rút ra kết luận Building a Second Brain

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-28","tags":["book","book/How_to_Develop_A_Super_Power_Memory"],"dg-path":"Books/04 - How to Develop A Super-Power Memory/Cấu trúc sách.md","permalink":"/books/04-how-to-develop-a-super-power-memory/cau-truc-sach/","dgPassFrontmatter":true,"updated":"2025-02-16T23:00:44.023+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-28","tags":["sach","sach/How_to_Develop_A_Super_Power_Memory"],"dg-path":"Books/04 - How to Develop A Super-Power Memory/Cấu trúc sách.md","permalink":"/books/04-how-to-develop-a-super-power-memory/cau-truc-sach/","dgPassFrontmatter":true,"updated":"2025-02-23T09:22:11.882+07:00"}
 ---
 
 # Cấu trúc sách
@@ -18,4 +18,4 @@
 │   ├── 🏆 [[Ghi nhớ số và ngày tháng\|Ghi nhớ số và ngày tháng]] → Cách ghi nhớ số điện thoại, số dài, ngày tháng
 │   ├── 🏆 [[Ghi nhớ thông tin trừu tượng\|Ghi nhớ thông tin trừu tượng]] → Cách ghi nhớ thông tin trừu tượng, ngoại ngữ, bài phát biểu, v.v.
 │   ├── 🏆 [[Các bài tập thực hành\|Các bài tập thực hành]] → Các bài tập thực hành để củng cố kỹ năng ghi nhớ
-├── 🎯 [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/11 - Lời kết\|11 - Lời kết]] → Tổng kết các phương pháp ghi nhớ và lời khuyên của tác giả
+├── 🎯 [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/10 - Lời kết\|10 - Lời kết]] → Tổng kết các phương pháp ghi nhớ và lời khuyên của tác giả

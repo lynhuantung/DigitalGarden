@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Tóm Tắt The PARA Method","date":"2025-01-31","tags":["book-summary","books/the-para-method"],"dg-path":"Books/05 - The PARA Method/0b - Tóm Tắt.md","permalink":"/books/05-the-para-method/0b-tom-tat/","dgPassFrontmatter":true,"updated":"2025-01-31T08:06:47.256+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Tóm Tắt The PARA Method","date":"2025-01-31","tags":["book-summary","sach/the-para-method"],"dg-path":"Books/05 - The PARA Method/0b - Tóm Tắt.md","permalink":"/books/05-the-para-method/0b-tom-tat/","dgPassFrontmatter":true,"updated":"2025-02-23T08:12:59.949+07:00"}
 ---
 
 # Tóm Tắt

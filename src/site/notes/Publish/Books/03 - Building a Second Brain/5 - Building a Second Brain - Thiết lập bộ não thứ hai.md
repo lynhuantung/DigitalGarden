@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["book","books/building-second-brain"],"Related":"[[1 - The PARA Method]]","dg-path":"Books/03 - Building a Second Brain/5 - Building a Second Brain - Thiết lập bộ não thứ hai.md","permalink":"/books/03-building-a-second-brain/5-building-a-second-brain-thiet-lap-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-02-16T22:59:54.808+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Building a Second Brain - Thiết lập bộ não thứ hai","date":"2025-01-31","tags":["sach","sach/building-second-brain"],"Related":"[[1 - The PARA Method]]","dg-path":"Books/03 - Building a Second Brain/5 - Building a Second Brain - Thiết lập bộ não thứ hai.md","permalink":"/books/03-building-a-second-brain/5-building-a-second-brain-thiet-lap-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:56.335+07:00"}
 ---
 
 ## Building a Second Brain - Thiết lập bộ não thứ hai

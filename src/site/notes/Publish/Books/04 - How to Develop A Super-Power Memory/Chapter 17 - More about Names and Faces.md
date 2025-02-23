@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Thêm về tên và khuôn mặt","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương17","dg-path":"Books/04 - How to Develop A Super-Power Memory/Chapter 17 - More about Names and Faces.md","permalink":"/books/04-how-to-develop-a-super-power-memory/chapter-17-more-about-names-and-faces/","dgPassFrontmatter":true,"updated":"2025-01-31T00:13:09.245+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Thêm về tên và khuôn mặt","date":"2024-08-31","tags":["#sach","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương17","dg-path":"Books/04 - How to Develop A Super-Power Memory/Chapter 17 - More about Names and Faces.md","permalink":"/books/04-how-to-develop-a-super-power-memory/chapter-17-more-about-names-and-faces/","dgPassFrontmatter":true,"updated":"2025-02-23T08:12:58.784+07:00"}
 ---
 
 # Thêm về tên và khuôn mặt

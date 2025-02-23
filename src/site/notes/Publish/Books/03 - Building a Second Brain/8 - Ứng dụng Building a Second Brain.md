@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Ứng dụng Building a Second Brain","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/8 - Ứng dụng Building a Second Brain.md","permalink":"/books/03-building-a-second-brain/8-ung-dung-building-a-second-brain/","dgPassFrontmatter":true,"updated":"2025-01-31T12:31:11.349+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Ứng dụng Building a Second Brain","date":"2025-01-31","tags":["sach","sach/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/8 - Ứng dụng Building a Second Brain.md","permalink":"/books/03-building-a-second-brain/8-ung-dung-building-a-second-brain/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:56.386+07:00"}
 ---
 
 # 🚀 **1. Kết hợp Second Brain với các phương pháp tư duy nâng cao**

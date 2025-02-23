@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Tư duy ngược","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/9 - Tư duy ngược.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/9-tu-duy-nguoc/","dgPassFrontmatter":true,"updated":"2025-01-31T14:11:40.589+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"9 - Tư duy ngược","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/9 - Tư duy ngược.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/9-tu-duy-nguoc/","dgPassFrontmatter":true,"updated":"2025-02-23T09:14:59.916+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Resources (Tài nguyên) - The PARA Method","date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/05 - The PARA Method/4 - Resources - Tài nguyên.md","permalink":"/books/05-the-para-method/4-resources-tai-nguyen/","dgPassFrontmatter":true,"updated":"2025-01-31T08:17:25.324+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Resources (Tài nguyên) - The PARA Method","date":"2025-01-31","tags":["sach","sach/the-para-method"],"dg-path":"Books/05 - The PARA Method/4 - Resources - Tài nguyên.md","permalink":"/books/05-the-para-method/4-resources-tai-nguyen/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:56.451+07:00"}
 ---
 
 # Resources (Tài nguyên)

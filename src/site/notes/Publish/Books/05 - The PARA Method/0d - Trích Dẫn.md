@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Trích Dẫn The PARA Method","date":"2025-01-31","tags":["book-quotes","books/the-para-method"],"dg-path":"Books/05 - The PARA Method/0d - Trích Dẫn.md","permalink":"/books/05-the-para-method/0d-trich-dan/","dgPassFrontmatter":true,"updated":"2025-01-31T08:55:00.663+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Trích Dẫn The PARA Method","date":"2025-01-31","tags":["book-quotes","sach/the-para-method"],"dg-path":"Books/05 - The PARA Method/0d - Trích Dẫn.md","permalink":"/books/05-the-para-method/0d-trich-dan/","dgPassFrontmatter":true,"updated":"2025-02-23T08:12:59.974+07:00"}
 ---
 
 

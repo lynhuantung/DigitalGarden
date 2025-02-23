@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0a1 - Moc.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0a1-moc/","dgPassFrontmatter":true,"updated":"2025-02-16T23:12:42.294+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2025-01-28","tags":["sach","sach/tu-duy-nhu-sherlock-holmes"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0a1 - Moc.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0a1-moc/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:55.500+07:00"}
 ---
 
 # 📍 Moc - Tư duy như Sherlock Holmes  

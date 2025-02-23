@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Các kỹ thuật nhớ số dài","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương11","dg-path":"Books/04 - How to Develop A Super-Power Memory/Chapter 11 - Remembering Long Digit Numbers.md","permalink":"/books/04-how-to-develop-a-super-power-memory/chapter-11-remembering-long-digit-numbers/","dgPassFrontmatter":true,"updated":"2025-01-31T00:05:39.162+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Các kỹ thuật nhớ số dài","date":"2024-08-31","tags":["#sach","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương11","dg-path":"Books/04 - How to Develop A Super-Power Memory/Chapter 11 - Remembering Long Digit Numbers.md","permalink":"/books/04-how-to-develop-a-super-power-memory/chapter-11-remembering-long-digit-numbers/","dgPassFrontmatter":true,"updated":"2025-02-23T08:12:58.556+07:00"}
 ---
 
 # Các kỹ thuật nhớ số dài

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Kỹ năng ghi nhớ để gây ấn tượng với bạn bè","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương22","dg-path":"Books/04 - How to Develop A Super-Power Memory/Chapter 22 - Amaze Your Friends.md","permalink":"/books/04-how-to-develop-a-super-power-memory/chapter-22-amaze-your-friends/","dgPassFrontmatter":true,"updated":"2025-01-31T00:19:04.641+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Kỹ năng ghi nhớ để gây ấn tượng với bạn bè","date":"2024-08-31","tags":["#sach","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương22","dg-path":"Books/04 - How to Develop A Super-Power Memory/Chapter 22 - Amaze Your Friends.md","permalink":"/books/04-how-to-develop-a-super-power-memory/chapter-22-amaze-your-friends/","dgPassFrontmatter":true,"updated":"2025-02-23T08:12:59.018+07:00"}
 ---
 
 # Kỹ năng ghi nhớ để gây ấn tượng với bạn bè 

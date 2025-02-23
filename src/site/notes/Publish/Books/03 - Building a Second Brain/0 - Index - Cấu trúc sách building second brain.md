@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Cấu trúc sách","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/0 - Index - Cấu trúc sách building second brain.md","permalink":"/books/03-building-a-second-brain/0-index-cau-truc-sach-building-second-brain/","dgPassFrontmatter":true,"updated":"2025-02-16T22:58:59.032+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Cấu trúc sách","date":"2025-01-31","tags":["sach","sach/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/0 - Index - Cấu trúc sách building second brain.md","permalink":"/books/03-building-a-second-brain/0-index-cau-truc-sach-building-second-brain/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:56.220+07:00"}
 ---
 
 

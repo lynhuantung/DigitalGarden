@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Diễn giải 10 bước tư duy như Sherlock Holmes","date":"2025-02-16","tags":["book","books/tu-duy-nhu-sherlock-holmes","#dien-giai"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/5a - Diễn giải 10 bước tư duy như Sherlock Holmes.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/5a-dien-giai-10-buoc-tu-duy-nhu-sherlock-holmes/","dgPassFrontmatter":true,"updated":"2025-02-16T22:49:11.961+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Diễn giải 10 bước tư duy như Sherlock Holmes","date":"2025-02-16","tags":["sach","sach/tu-duy-nhu-sherlock-holmes","#dien-giai"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/5a - Diễn giải 10 bước tư duy như Sherlock Holmes.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/5a-dien-giai-10-buoc-tu-duy-nhu-sherlock-holmes/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:55.792+07:00"}
 ---
 
 ### **1. Trạng thái tinh thần tốt**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Trích dẫn Building a Second Brain","date":"2025-01-31","tags":["book","books/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/0a1 - Trích dẫn Building a Second Brain.md","permalink":"/books/03-building-a-second-brain/0a1-trich-dan-building-a-second-brain/","dgPassFrontmatter":true,"updated":"2025-01-31T09:46:33.429+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Trích dẫn Building a Second Brain","date":"2025-01-31","tags":["sach","sach/building-second-brain"],"dg-path":"Books/03 - Building a Second Brain/0a1 - Trích dẫn Building a Second Brain.md","permalink":"/books/03-building-a-second-brain/0a1-trich-dan-building-a-second-brain/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:56.239+07:00"}
 ---
 
 

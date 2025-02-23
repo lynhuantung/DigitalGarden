@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Review","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#review"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0c - Review.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0c-review/","dgPassFrontmatter":true,"updated":"2025-02-16T22:51:02.925+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Review","date":"2025-01-28","tags":["sach","sach/tu-duy-nhu-sherlock-holmes","#review"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0c - Review.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0c-review/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:55.601+07:00"}
 ---
 
 # 📝 Đánh giá sách **"Tư duy như Sherlock Holmes"**  ![Pasted image 20250128175825.png|300](/img/user/src/Pasted%20image%2020250128175825.png)

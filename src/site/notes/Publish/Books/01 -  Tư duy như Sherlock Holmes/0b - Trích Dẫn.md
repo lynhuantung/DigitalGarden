@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Trích dẫn","date":"2025-01-28","tags":["book","books/tu-duy-nhu-sherlock-holmes","#trich-dan"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0b - Trích Dẫn.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0b-trich-dan/","dgPassFrontmatter":true,"updated":"2025-02-16T22:50:57.176+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Trích dẫn","date":"2025-01-28","tags":["sach","sach/tu-duy-nhu-sherlock-holmes","#trich-dan"],"dg-path":"Books/01 -  Tư duy như Sherlock Holmes/0b - Trích Dẫn.md","permalink":"/books/01-tu-duy-nhu-sherlock-holmes/0b-trich-dan/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:55.524+07:00"}
 ---
 
 # Trích dẫn

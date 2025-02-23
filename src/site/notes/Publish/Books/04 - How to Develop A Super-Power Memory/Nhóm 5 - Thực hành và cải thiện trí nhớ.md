@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Group":"Group5","dg-path":"Books/04 - How to Develop A Super-Power Memory/Nhóm 5 - Thực hành và cải thiện trí nhớ.md","permalink":"/books/04-how-to-develop-a-super-power-memory/nhom-5-thuc-hanh-va-cai-thien-tri-nho/","dgPassFrontmatter":true,"updated":"2025-01-30T14:26:50.523+07:00"}
+{"dg-publish":true,"dg-home":false,"title":null,"date":"2024-08-31","tags":["#sach","#memory","#How_to_Develop_A_Super_Power_Memory"],"Group":"Group5","dg-path":"Books/04 - How to Develop A Super-Power Memory/Nhóm 5 - Thực hành và cải thiện trí nhớ.md","permalink":"/books/04-how-to-develop-a-super-power-memory/nhom-5-thuc-hanh-va-cai-thien-tri-nho/","dgPassFrontmatter":true,"updated":"2025-02-23T08:12:59.769+07:00"}
 ---
 
 

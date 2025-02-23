@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Thói quen là trí nhớ","date":"2024-08-31","tags":["#books","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương2","dg-path":"Books/04 - How to Develop A Super-Power Memory/Chapter 2 - Habit Is Memory.md","permalink":"/books/04-how-to-develop-a-super-power-memory/chapter-2-habit-is-memory/","dgPassFrontmatter":true,"updated":"2025-01-30T23:47:59.890+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Thói quen là trí nhớ","date":"2024-08-31","tags":["#sach","#memory","#How_to_Develop_A_Super_Power_Memory"],"Chương":"Chương2","dg-path":"Books/04 - How to Develop A Super-Power Memory/Chapter 2 - Habit Is Memory.md","permalink":"/books/04-how-to-develop-a-super-power-memory/chapter-2-habit-is-memory/","dgPassFrontmatter":true,"updated":"2025-02-23T08:12:58.907+07:00"}
 ---
 
 ### Thói quen là trí nhớ

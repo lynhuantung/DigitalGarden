@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"The PARA Method - Phương pháp tổ chức thông tin trong công việc","date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/05 - The PARA Method/1 - The PARA Method.md","permalink":"/books/05-the-para-method/1-the-para-method/","dgPassFrontmatter":true,"updated":"2025-02-16T23:00:30.954+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"The PARA Method - Phương pháp tổ chức thông tin trong công việc","date":"2025-01-31","tags":["sach","sach/the-para-method"],"dg-path":"Books/05 - The PARA Method/1 - The PARA Method.md","permalink":"/books/05-the-para-method/1-the-para-method/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:56.421+07:00"}
 ---
 
 

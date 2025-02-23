@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Giới thiệu","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/5 - Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/5-chuong-5-di-san-ca-nhan-va-truyen-thua-gia-toc-dang-thay-doi/","dgPassFrontmatter":true,"updated":"2025-01-31T14:17:03.019+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"5 - Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/5 - Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/5-chuong-5-di-san-ca-nhan-va-truyen-thua-gia-toc-dang-thay-doi/","dgPassFrontmatter":true,"updated":"2025-02-23T09:14:39.257+07:00"}
 ---
 
 # **Chương 5: Di Sản Cá Nhân và Truyền Thừa Gia Tộc Đang Thay Đổi**

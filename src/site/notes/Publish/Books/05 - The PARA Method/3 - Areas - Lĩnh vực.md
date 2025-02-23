@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Areas (Lĩnh vực) - The PARA Method","date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/05 - The PARA Method/3 - Areas - Lĩnh vực.md","permalink":"/books/05-the-para-method/3-areas-linh-vuc/","dgPassFrontmatter":true,"updated":"2025-01-31T08:17:25.209+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Areas (Lĩnh vực) - The PARA Method","date":"2025-01-31","tags":["sach","sach/the-para-method"],"dg-path":"Books/05 - The PARA Method/3 - Areas - Lĩnh vực.md","permalink":"/books/05-the-para-method/3-areas-linh-vuc/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:56.439+07:00"}
 ---
 
 # Areas (Lĩnh vực)

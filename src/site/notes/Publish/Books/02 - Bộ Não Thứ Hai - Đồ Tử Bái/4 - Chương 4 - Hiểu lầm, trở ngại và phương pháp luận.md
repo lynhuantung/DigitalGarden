@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Hiểu lầm, trở ngại và phương pháp luận","date":"2025-01-31","tags":["book","books/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/4-chuong-4-hieu-lam-tro-ngai-va-phuong-phap-luan/","dgPassFrontmatter":true,"updated":"2025-01-31T14:14:32.998+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/4-chuong-4-hieu-lam-tro-ngai-va-phuong-phap-luan/","dgPassFrontmatter":true,"updated":"2025-02-23T09:14:32.147+07:00"}
 ---
 
 # **Chương 4: Hiểu Lầm, Trở Ngại Và Phương Pháp Luận – Cách Xây Dựng Bộ Não Thứ Hai Một Cách Hiệu Quả**

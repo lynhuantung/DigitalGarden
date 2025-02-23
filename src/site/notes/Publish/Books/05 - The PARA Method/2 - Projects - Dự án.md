@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"Projects (Dự án) - The PARA Method","date":"2025-01-31","tags":["book","books/the-para-method"],"dg-path":"Books/05 - The PARA Method/2 - Projects - Dự án.md","permalink":"/books/05-the-para-method/2-projects-du-an/","dgPassFrontmatter":true,"updated":"2025-02-16T23:00:30.988+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"Projects (Dự án) - The PARA Method","date":"2025-01-31","tags":["sach","sach/the-para-method"],"dg-path":"Books/05 - The PARA Method/2 - Projects - Dự án.md","permalink":"/books/05-the-para-method/2-projects-du-an/","dgPassFrontmatter":true,"updated":"2025-02-23T08:13:56.427+07:00"}
 ---
 
 
