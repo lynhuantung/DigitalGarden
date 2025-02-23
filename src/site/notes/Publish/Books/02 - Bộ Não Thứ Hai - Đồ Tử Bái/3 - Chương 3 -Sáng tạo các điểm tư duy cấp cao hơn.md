@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/3-chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"updated":"2025-02-23T13:53:11.143+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/3-chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"updated":"2025-02-23T14:28:19.919+07:00"}
 ---
 
 # **Chương 3: Sáng Tạo Các Điểm Tư Duy Cấp Cao Hơn**
@@ -14,9 +14,12 @@ Tác giả hướng dẫn cách sử dụng bộ não thứ hai để **tạo ra
 Chương này bao gồm **4 phần chính**:
 
 1. **Xây dựng lược đồ mạng bộ não**
+{ #a8ce57}
+
 2. **Quan sát, khám phá và kết nối mới**
 3. **Kết hợp não bộ với máy tính, tạo ra những ý tưởng mới**
 4. **Mô phỏng quyết định và tư duy phản biện**
+5. Viết lại, thích ứng và liên văn bản: tạo ra các tế bào não mới
 
 ---
 
@@ -26,6 +29,7 @@ Chương này bao gồm **4 phần chính**:
 
 - Bộ não sinh học của con người hoạt động theo **mạng lưới thần kinh**, trong đó **các nơ-ron kết nối với nhau** để tạo ra suy nghĩ và ý tưởng.
 - Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**. [[Publish/Ghi chú mạng lưới/lan truyền kích hoạt\|lan truyền kích hoạt]]
+- Như chúng ta đã đề cập trước đó, các khối thông tin được kết nối và liên kết với nhau thông qua các thẻ. Các thẻ là khớp thần kinh của các noron trong bộ não thứ hai. Giống như một cái móc, chúng liên kết các khối thông tin khác, các khối thông tin có cùng thẻ sẽ được tự động phân loại và hội tụ để tạo thành một vùng phản xạ(tức là xác định một trang)
 
 📌 **Cách thực hiện:**  
 ✅ **Tạo mạng lưới ý tưởng** ([[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/7 - Kỹ thuật Zettelkasten\|7 - Kỹ thuật Zettelkasten]]) thay vì ghi chú rời rạc:
@@ -55,6 +59,8 @@ Chương này bao gồm **4 phần chính**:
     ```
     
 - **Sử dụng Graph View** để trực quan hóa cách ghi chú kết nối với nhau.
+- 
+
 
 ---
 
