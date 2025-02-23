@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"0c - Ghi chú cá nhân","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/_Ghi chú cá nhân.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/ghi-chu-ca-nhan/","dgPassFrontmatter":true,"updated":"2025-02-23T09:21:13.938+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"0c - Ghi chú cá nhân","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/_Ghi chú cá nhân.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/ghi-chu-ca-nhan/","dgPassFrontmatter":true,"updated":"2025-02-23T14:12:11.826+07:00"}
 ---
 
-# Tóm tắt
+# Ghi chú cá nhân
 ---
 Cuốn sách "Bộ não thứ hai: Tương lai của sự kết hợp giữa não bộ và công nghệ" của tác giả Đồ Tử Bái khám phá tiềm năng của việc sử dụng công nghệ để nâng cao khả năng nhận thức của con người. Tác giả lập luận rằng bộ não của con người, được gọi là "bộ não thứ nhất", có những hạn chế trong việc xử lý lượng thông tin ngày càng tăng trong thời đại kỹ thuật số. Ông đề xuất một giải pháp là tạo ra một "bộ não thứ hai", là bộ nhớ kỹ thuật số bên ngoài, để hỗ trợ và tăng cường khả năng tư duy.
 
