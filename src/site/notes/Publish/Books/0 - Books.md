@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"aliases":["Mục lục"],"Mô tả":"Liệt kê danh sách sách đã đọc.","title":null,"dg-path":"Books/0 - Books.md","permalink":"/books/0-books/","dgPassFrontmatter":true,"updated":"2025-02-23T09:25:53.497+07:00"}
+{"dg-publish":true,"dg-home":false,"aliases":["Mục lục"],"Mô tả":"Liệt kê danh sách sách đã đọc.","title":null,"tags":["sach"],"dg-path":"Books/0 - Books.md","permalink":"/books/0-books/","dgPassFrontmatter":true,"updated":"2025-02-23T14:01:36.333+07:00"}
 ---
 
 - how to develop a super power memory : [[Publish/Books/04 - How to Develop A Super-Power Memory/0.Super-Power Memory\|How to develop a super power memory]]
