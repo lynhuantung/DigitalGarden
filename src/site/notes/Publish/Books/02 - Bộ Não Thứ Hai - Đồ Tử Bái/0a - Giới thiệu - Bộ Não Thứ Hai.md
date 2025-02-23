@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"0a - Giới thiệu - Bộ Não Thứ Hai","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/0a - Giới thiệu - Bộ Não Thứ Hai.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/0a-gioi-thieu-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-02-23T09:21:26.227+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"0a - Giới thiệu - Bộ Não Thứ Hai","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/0a - Giới thiệu - Bộ Não Thứ Hai.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/0a-gioi-thieu-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-02-23T09:31:40.962+07:00"}
 ---
 
 ## **📖 CẤU TRÚC SÁCH "BỘ NÃO THỨ HAI"**
@@ -118,3 +118,5 @@
 - **Mỗi người cần cá nhân hóa bộ não thứ hai để phù hợp với nhu cầu riêng của mình.**
 - **Hãy bắt đầu hành trình xây dựng bộ não thứ hai ngay hôm nay! 🚀**
 
+---
+Trang tiếp theo: [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/0b - Mục lục - Bộ Não Thứ Hai\|0b - Mục lục - Bộ Não Thứ Hai]]

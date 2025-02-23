@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"0 - Bìa sách - Bộ Não Thứ Hai","date":"2025-01-31","tags":["sach/bo-nao-thu-hai"],"mô tả":"Hình ảnh bìa, tiêu đề, tác giả, giới thiệu ngắn","dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/0 - Bìa sách - Bộ Não Thứ Hai.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/0-bia-sach-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-02-23T09:21:21.732+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"0 - Bìa sách - Bộ Não Thứ Hai","date":"2025-01-31","tags":["sach/bo-nao-thu-hai"],"mô tả":"Hình ảnh bìa, tiêu đề, tác giả, giới thiệu ngắn","dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/0 - Bìa sách - Bộ Não Thứ Hai.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/0-bia-sach-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-02-23T09:31:05.865+07:00"}
 ---
 
 ## **📖 Bìa sách - Bộ Não Thứ Hai
@@ -14,3 +14,7 @@ Cuốn sách "Bộ não thứ hai: Tương lai của sự kết hợp giữa nã
 Cuốn sách đi sâu vào cách xây dựng và sử dụng "bộ não thứ hai", bao gồm lựa chọn công cụ, phương pháp tổ chức thông tin và các kỹ thuật để kết hợp nó với quy trình tư duy tự nhiên. Tác giả cũng thảo luận về những hiểu lầm và thách thức liên quan đến việc áp dụng công nghệ vào việc nâng cao khả năng nhận thức.
 
 Cuốn sách kết thúc bằng việc xem xét tác động của "bộ não thứ hai" đối với di sản cá nhân và sự kế thừa trong gia đình, đồng thời đưa ra những suy nghĩ về tương lai của sự tích hợp giữa con người và công nghệ.
+
+
+---
+Trang tiếp theo: [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/0a - Giới thiệu - Bộ Não Thứ Hai\|0a - Giới thiệu - Bộ Não Thứ Hai]]

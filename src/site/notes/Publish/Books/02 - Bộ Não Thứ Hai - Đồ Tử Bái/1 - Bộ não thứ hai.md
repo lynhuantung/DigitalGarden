@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"1 - Bộ não thứ hai","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"Related":null,"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1 - Bộ não thứ hai.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/1-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-02-23T09:13:40.598+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"1 - Bộ não thứ hai","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"Related":null,"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1 - Bộ não thứ hai.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/1-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-02-23T09:33:11.165+07:00"}
 ---
 
 # Bộ não thứ 2
@@ -23,3 +23,12 @@ Internet di động và vũ trụ ảo đang phát triển nhanh chóng. Những
 
 - Sự hợp nhất giữa não bộ và công nghệ đang tiến triển nhanh chóng, với nhiều ứng dụng đầy hứa hẹn trong y tế, giáo dục và các lĩnh vực khác.
 - Khi công nghệ tiếp tục phát triển, bộ não thứ hai có khả năng cách mạng hóa cách chúng ta sống, làm việc và tương tác với thế giới xung quanh.
+
+---
+Trang tiếp: 
+- [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1a - Hạn chế của bộ não sinh học\|1a - Hạn chế của bộ não sinh học]]
+- [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1b - Internet không phải là bộ não thứ hai\|1b - Internet không phải là bộ não thứ hai]]
+- [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1c - Những lợi ích khi xây dựng bộ não thứ hai\|1c - Những lợi ích khi xây dựng bộ não thứ hai]]
+- [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1c - Những lợi ích khi xây dựng bộ não thứ hai\|1c - Những lợi ích khi xây dựng bộ não thứ hai]]
+- [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1d - Những quan điểm sai lầm về bộ não thứ hai\|1d - Những quan điểm sai lầm về bộ não thứ hai]]
+- [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1e - Những vấn đề liên quan đến trí nhớ con người\|1e - Những vấn đề liên quan đến trí nhớ con người]]
