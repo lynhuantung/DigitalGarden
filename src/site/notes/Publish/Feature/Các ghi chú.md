@@ -50,6 +50,7 @@
 | Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 1e - Những vấn đề liên quan đến trí nhớ con người                            |
 | Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số                                   |
 | Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn                           |
+| Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 3a - Thuyết sáu cấp độ cách biệt                                             |
 | Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận                        |
 | Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 5 - Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi           |
 | Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái          | 6 - Kỹ thuật SCAMPER                                                         |
