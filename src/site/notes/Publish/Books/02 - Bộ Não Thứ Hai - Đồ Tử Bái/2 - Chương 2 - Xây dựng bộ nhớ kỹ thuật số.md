@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/2-chuong-2-xay-dung-bo-nho-ky-thuat-so/","dgPassFrontmatter":true,"updated":"2025-02-23T09:14:22.059+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/2-chuong-2-xay-dung-bo-nho-ky-thuat-so/","dgPassFrontmatter":true,"updated":"2025-02-23T13:52:50.984+07:00"}
 ---
 
 # **📖 Chương 2: Xây dựng bộ nhớ kỹ thuật số**
@@ -171,3 +171,8 @@ Nhật ký giúp bạn **phát triển liên tục** và tận dụng bộ não 
 ---
 
 💡 **Tóm lại, Chương 2 hướng dẫn cách tạo ra bộ não thứ hai với khối – thẻ – trang, giúp tăng khả năng ghi nhớ, tư duy và sáng tạo! 🚀**
+
+
+---
+Trang tiếp theo:
+[[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn\|3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn]]

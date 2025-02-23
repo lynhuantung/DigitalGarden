@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/3-chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"updated":"2025-02-23T09:14:27.780+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/3-chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"updated":"2025-02-23T13:53:11.143+07:00"}
 ---
 
 # **Chương 3: Sáng Tạo Các Điểm Tư Duy Cấp Cao Hơn**
@@ -149,3 +149,7 @@ Chương này bao gồm **4 phần chính**:
 
 💡 **Tóm lại, chương này hướng dẫn bạn cách dùng bộ não thứ hai để sáng tạo ý tưởng mới, kết nối thông tin, mô phỏng quyết định và nâng cao tư duy phản biện. Nếu áp dụng tốt, bạn sẽ không chỉ ghi nhớ mà còn có thể “tư duy như một thiên tài”! 🚀**
 
+
+---
+Trang tiếp theo:
+[[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận\|4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"0b - Mục lục - Bộ Não Thứ Hai","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/0b - Mục lục - Bộ Não Thứ Hai.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/0b-muc-luc-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-02-23T09:25:19.419+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"0b - Mục lục - Bộ Não Thứ Hai","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/0b - Mục lục - Bộ Não Thứ Hai.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/0b-muc-luc-bo-nao-thu-hai/","dgPassFrontmatter":true,"updated":"2025-02-23T13:50:45.686+07:00"}
 ---
 
 # Mục lục
@@ -22,3 +22,9 @@
 ├── ⚡ **[[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận\|4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận]]**	
 ├── 🏛️ **[[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/5 - Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi\|5 - Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi]]**	
 ├── 🎯 [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/10 - Lời kết\|10 - Lời kết]] → Những giá trị và bài học rút ra từ việc xây dựng bộ não thứ hai.
+
+
+
+
+---
+Trang tiếp theo: [[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1 - Bộ não thứ hai\|1 - Bộ não thứ hai]]
