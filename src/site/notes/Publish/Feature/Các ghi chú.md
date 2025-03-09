@@ -108,6 +108,7 @@
 | Books/04 - How to Develop A Super-Power Memory | Nhóm 5 - Thực hành và cải thiện trí nhớ                                      |
 | Books/04 - How to Develop A Super-Power Memory | Overview of Observation                                                      |
 | Books/04 - How to Develop A Super-Power Memory | Peg System                                                                   |
+| Books/04 - How to Develop A Super-Power Memory | Phương pháp ghi nhớ                                                          |
 | Books/04 - How to Develop A Super-Power Memory | Practical Exercises in Observation                                           |
 | Books/04 - How to Develop A Super-Power Memory | Review sách - How to Develop A Super-Power Memory                            |
 | Books/04 - How to Develop A Super-Power Memory | Summary Groups                                                               |

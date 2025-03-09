@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"dg-home":false,"aliases":["MOC"],"Mô tả":"Tổng hợp các ý tưởng từ các quyển sách","title":null,"dg-path":"Books/0a - MOC.md","permalink":"/books/0a-moc/","dgPassFrontmatter":true,"updated":"2025-02-16T22:58:25.259+07:00"}
+{"dg-publish":true,"dg-home":false,"aliases":["MOC"],"Mô tả":"Tổng hợp các ý tưởng từ các quyển sách","title":null,"dg-path":"Books/0a - MOC.md","permalink":"/books/0a-moc/","dgPassFrontmatter":true,"updated":"2025-03-02T07:42:57.415+07:00"}
 ---
 
 # 📍 Mốc - Tổng hợp tư tưởng từ sách  
 
 ## 🧠 1. Kỹ thuật tối ưu trí nhớ  
-- 📖 [[04 - How to Develop A Super-Power Memory/0b - Mốc - Trí nhớ siêu phàm\|04 - How to Develop A Super-Power Memory/0b - Mốc - Trí nhớ siêu phàm]]
 - 📖 [[Publish/Books/01 -  Tư duy như Sherlock Holmes/3 - Kỹ Năng Quan Sát#🔍 2. Rèn luyện trí nhớ quan sát\|3 - Kỹ Năng Quan Sát#🔍 2. Rèn luyện trí nhớ quan sát]]
 
 ## 🕵️‍♂️ 2. Phương pháp tư duy logic  
