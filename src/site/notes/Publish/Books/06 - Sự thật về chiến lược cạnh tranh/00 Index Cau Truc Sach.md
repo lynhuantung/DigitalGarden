@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"0 - Index - Cấu trúc sách","date":"2025-03-09","tags":["sach","sach/su-that-ve-chien-luoc-canh-tranh"],"dg-path":"Books/06 - Sự thật về chiến lược cạnh tranh/00 Index Cau Truc Sach.md","permalink":"/books/06-su-that-ve-chien-luoc-canh-tranh/00-index-cau-truc-sach/","dgPassFrontmatter":true,"updated":"2025-03-09T10:51:50.873+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"0 - Index - Cấu trúc sách","date":"2025-03-09","tags":["sach","sach/su-that-ve-chien-luoc-canh-tranh"],"dg-path":"Books/06 - Sự thật về chiến lược cạnh tranh/00 Index Cau Truc Sach.md","permalink":"/books/06-su-that-ve-chien-luoc-canh-tranh/00-index-cau-truc-sach/","dgPassFrontmatter":true,"updated":"2025-03-09T10:54:07.244+07:00"}
 ---
 
-
+![Pasted image 20250309105405.png](/img/user/src/Pasted%20image%2020250309105405.png)
 # Cấu trúc sách
 
 1. [[Publish/Books/06 - Sự thật về chiến lược cạnh tranh/01 - Giới thiệu\|01 - Giới thiệu]]
