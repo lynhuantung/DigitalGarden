@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"title":"0 - Index - Cấu trúc sách","date":"2025-03-09","tags":["sach","sach/su-that-ve-chien-luoc-canh-tranh","gardenEntry"],"dg-path":"Books/06 - Sự thật về chiến lược cạnh tranh/00 Index Cau Truc Sach.md","permalink":"/books/06-su-that-ve-chien-luoc-canh-tranh/00-index-cau-truc-sach/","dgPassFrontmatter":true,"updated":"2025-03-09T10:38:05.362+07:00"}
+{"dg-publish":true,"dg-home":true,"title":"0 - Index - Cấu trúc sách","date":"2025-03-09","tags":["sach","sach/su-that-ve-chien-luoc-canh-tranh","gardenEntry","gardenEntry"],"dg-path":"Books/06 - Sự thật về chiến lược cạnh tranh/00 Index Cau Truc Sach.md","permalink":"/books/06-su-that-ve-chien-luoc-canh-tranh/00-index-cau-truc-sach/","dgPassFrontmatter":true,"updated":"2025-03-09T10:38:05.362+07:00"}
 ---
 
 
