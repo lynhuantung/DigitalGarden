@@ -123,6 +123,19 @@
 | Books/05 - The PARA Method                     | 5 - Archives - Lưu trữ                                                       |
 | Books/05 - The PARA Method                     | 6 - Rút ra kết luận                                                          |
 | Books/05 - The PARA Method                     | 7 - Ứng Dụng                                                                 |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 00 Index Cau Truc Sach                                                       |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 01 - Giới thiệu                                                              |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 02 - Cạnh tranh nội bộ                                                       |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 03 - Đối thủ mới gia nhập                                                    |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 04 - Nhà cung cấp                                                            |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 05 - Khách hàng                                                              |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 06 - Sản phẩm thay thế                                                       |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 07 - So sánh mô hình 5 lực lượng với các mô hình khác                        |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 07a - Phân tích SWOT                                                         |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 07b - Phân tích PESTEL                                                       |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 08 - Kết luận                                                                |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 09 - Ứng dụng                                                                |
+| Books/06 - Sự thật về chiến lược cạnh tranh    | 0a - Highlight                                                               |
 | Feature                                        | AllFeature                                                                   |
 | Feature                                        | Các ghi chú                                                                  |
 | Feature                                        | MOC                                                                          |
