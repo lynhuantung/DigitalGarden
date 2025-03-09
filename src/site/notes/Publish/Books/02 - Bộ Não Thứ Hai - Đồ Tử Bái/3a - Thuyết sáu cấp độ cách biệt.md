@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"3a - Thuyết sáu cấp độ cách biệt","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3a - Thuyết sáu cấp độ cách biệt.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/3a-thuyet-sau-cap-do-cach-biet/","dgPassFrontmatter":true,"updated":"2025-02-23T15:30:38.360+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"3a - Thuyết sáu cấp độ cách biệt","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3a - Thuyết sáu cấp độ cách biệt.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/3a-thuyet-sau-cap-do-cach-biet/","dgPassFrontmatter":true,"updated":"2025-03-09T08:17:52.606+07:00"}
 ---
 
 
 ## Ý tưởng chính của thuyết sáu cấp độ cách biệt là:  
-Mọi người trên thế giới chỉ cần qua tối đa 6 người trung gian (cấp độ) là có thể kết nối với nhau. Nghĩa là, dù bạn đang ở đâu, bạn chỉ cần "nhảy" qua 6 người bạn – hoặc người quen của người quen – là có thể gặp được bất cứ ai!
+Bất kỳ ai trên thế giới này cũng có thể được kết nối với bất kỳ người nào khác chỉ thông qua 6 mối quan hệ trung gian. Nghĩa là, dù bạn đang ở đâu, bạn chỉ cần "nhảy" qua 6 người bạn – hoặc người quen của người quen – là có thể gặp được bất cứ ai!
 
 ---
-
+![Pasted image 20250309081648.png](/img/user/src/Pasted%20image%2020250309081648.png)
 **Giải thích qua ví dụ:**
 
 - **Bậc 1:** Em có một người bạn thân, gọi là An.
