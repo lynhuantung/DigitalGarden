@@ -6,9 +6,9 @@
 ---
 
 
-[[Publish/Khoa hoc than kinh/Độ-Dẻo-synapse\|Độ-Dẻo-synapse]] là nơi hai nơ-ron tiếp xúc, truyền tín hiệu hóa - điện. Đây là cầu nối quan trọng cho khả năng học hỏi, nhớ và tư duy.
+[[Publish/Não bộ tổng quan/Khoa hoc than kinh/Độ-Dẻo-synapse\|Độ-Dẻo-synapse]] là nơi hai nơ-ron tiếp xúc, truyền tín hiệu hóa - điện. Đây là cầu nối quan trọng cho khả năng học hỏi, nhớ và tư duy.
 
 - Số lượng Synapse thay đổi theo trải nghiệm, tuổi tác.
-- Tăng cường synapse ⇒ Nâng cao [[Publish/Não bộ tổng quan/AFRC\|AFRC]].
+- Tăng cường synapse ⇒ Nâng cao [[AFRC\|AFRC]].
 - "Cắt tỉa synapse" diễn ra trong suốt [[Publish/Não bộ tổng quan/Quá trình phát triển não\|Quá trình phát triển não]], giúp tối ưu hóa não bộ.
 

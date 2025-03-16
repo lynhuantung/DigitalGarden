@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/lemmatization.md","permalink":"/ghi-chu-mang-luoi/lemmatization/","dgPassFrontmatter":true,"updated":"2025-01-12T15:15:46.539+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/lemmatization.md","permalink":"/ghi-chu-mang-luoi/lemmatization/","dgPassFrontmatter":true,"updated":"2025-03-16T09:34:18.827+07:00"}
 ---
 
 # Lemmatization
@@ -22,3 +22,6 @@ Lemmatization thường được thực hiện bằng cách sử dụng các cô
  * Học máy: Sử dụng các mô hình học máy để dự đoán dạng gốc của từ dựa trên ngữ cảnh
 Lưu ý: Lemmatization có thể phức tạp hơn stemming (một kỹ thuật khác cũng nhằm đưa từ về dạng gốc), vì lemmatization đòi hỏi hiểu biết về ngữ nghĩa và ngữ pháp của ngôn ngữ.
 Nếu bạn muốn tìm hiểu thêm về lemmatization hoặc các kỹ thuật NLP khác, đừng ngần ngại đặt câu hỏi nhé!
+
+
+Lemmatization đưa từ về dạng gốc giúp khám phá mạng lưới [[Publish/Ghi chú mạng lưới/InfraNodus\|InfraNodus]] dễ dàng.

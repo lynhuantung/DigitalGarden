@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md","permalink":"/ghi-chu-mang-luoi/ung-dung-secondbrain-vao-obsidian/","dgPassFrontmatter":true,"updated":"2025-01-12T15:17:05.777+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md","permalink":"/ghi-chu-mang-luoi/ung-dung-secondbrain-vao-obsidian/","dgPassFrontmatter":true,"updated":"2025-03-16T09:50:44.510+07:00"}
 ---
 
+dựa vào nội dung bên dưới, hãy giúp đặt tên tiêu đề đúng:
 # Ứng dụng secondbrain vào obsidian
 ---
+Bộ não thứ hai" là một cách gọi cho hệ thống ghi chú và quản lý thông tin cá nhân, giúp bạn lưu trữ, sắp xếp và sử dụng lại kiến thức một cách hiệu quả. Obsidian là một ứng dụng rất tốt để xây dựng "bộ não thứ hai" này
 
 ### Ứng Dụng Các Phương Pháp Vào Obsidian
 
@@ -49,9 +51,8 @@
 
 Áp dụng các phương pháp này vào Obsidian sẽ giúp bạn xây dựng bộ não thứ hai hiệu quả hơn, giúp bạn ghi nhớ thông tin, sáng tạo và quản lý công việc tốt hơn. Bạn có thể bắt đầu từ từ và điều chỉnh theo cách làm việc của mình để đạt được hiệu quả cao nhất. 
 
-
-
-
-
-
- 
+# Liên kết:
+[[Publish/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian\|Ứng dụng secondbrain vào obsidian]]
+[[Publish/Ghi chú mạng lưới/Não bộ thiên tài\|Não bộ thiên tài]]
+[[Publish/Ghi chú mạng lưới/0. Thuyết Lan Truyền Kích Hoạt\|0. Thuyết Lan Truyền Kích Hoạt]]
+[[Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn\|3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn]]

@@ -8,5 +8,5 @@
 Chịu trách nhiệm tư duy cấp cao, ra quyết định, kiểm soát hành vi, lập kế hoạch.
 
 - Phát triển mạnh trong giai đoạn thiếu niên và trưởng thành (xem [[Publish/Não bộ tổng quan/Quá trình phát triển não\|Quá trình phát triển não]]).
-- Liên quan đến sự chín muồi của [[Publish/Não bộ tổng quan/AFRC\|AFRC]] khi phải tích hợp thông tin từ các thuỳ khác.
+- Liên quan đến sự chín muồi của [[AFRC\|AFRC]] khi phải tích hợp thông tin từ các thuỳ khác.
 

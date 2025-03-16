@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Năm Thùy Não.md","permalink":"/nao-bo-tong-quan/nam-thuy-nao/","dgPassFrontmatter":true,"updated":"2025-01-12T15:19:28.020+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Não bộ tổng quan/Năm Thùy Não.md","permalink":"/nao-bo-tong-quan/nam-thuy-nao/","dgPassFrontmatter":true,"updated":"2025-03-16T09:16:48.218+07:00"}
 ---
 
 # Năm Thùy Não
@@ -13,5 +13,4 @@ Vỏ não người chia làm 5 thuỳ chính, mỗi thuỳ đảm nhận chức 
 - [[Publish/Não bộ tổng quan/Thùy thái dương\|Thùy thái dương]] (Temporal): Ngôn ngữ, trí nhớ, xử lý âm thanh.
 - [[Publish/Não bộ tổng quan/Thùy chẩm\|Thùy Chẩm]] (Occipital): Thị giác.
 
-Sự phối hợp nhịp nhàng giữa các thuỳ não góp phần nâng cao [[Publish/Não bộ tổng quan/AFRC\|AFRC]].
 

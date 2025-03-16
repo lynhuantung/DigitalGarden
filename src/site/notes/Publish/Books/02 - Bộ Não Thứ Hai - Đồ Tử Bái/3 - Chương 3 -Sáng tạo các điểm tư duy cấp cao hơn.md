@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"title":"3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/3-chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"updated":"2025-02-23T16:20:40.303+07:00"}
+{"dg-publish":true,"dg-home":false,"title":"3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn","date":"2025-01-31","tags":["sach","sach/bo-nao-thu-hai"],"dg-path":"Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md","permalink":"/books/02-bo-nao-thu-hai-do-tu-bai/3-chuong-3-sang-tao-cac-diem-tu-duy-cap-cao-hon/","dgPassFrontmatter":true,"updated":"2025-03-16T09:50:44.365+07:00"}
 ---
 
 # **Chương 3: Sáng Tạo Các Điểm Tư Duy Cấp Cao Hơn**
@@ -28,7 +28,7 @@ Chương này bao gồm **4 phần chính**:
 📌 **Khái niệm:**
 
 - Bộ não sinh học của con người hoạt động theo **mạng lưới thần kinh**, trong đó **các nơ-ron kết nối với nhau** để tạo ra suy nghĩ và ý tưởng.
-- Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**. [[Publish/Ghi chú mạng lưới/lan truyền kích hoạt\|lan truyền kích hoạt]]
+- Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**. [[Publish/Ghi chú mạng lưới/0. Thuyết Lan Truyền Kích Hoạt\|0. Thuyết Lan Truyền Kích Hoạt]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Như chúng ta đã đề cập trước đó, các khối thông tin được kết nối và liên kết với nhau thông qua các thẻ. Các thẻ là khớp thần kinh của các noron trong bộ não thứ hai. Giống như một cái móc, chúng liên kết các khối thông tin khác, các khối thông tin có cùng thẻ sẽ được tự động phân loại và hội tụ để tạo thành một vùng phản xạ(tức là xác định một trang)</span>
 
 📌 **Cách thực hiện:**  

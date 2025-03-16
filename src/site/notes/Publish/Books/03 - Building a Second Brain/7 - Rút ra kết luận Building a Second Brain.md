@@ -11,6 +11,6 @@ Sau khi đọc "Building a Second Brain", mình rút ra được những kết l
 * **Phương pháp CODE cung cấp một quy trình rõ ràng và dễ thực hiện để xây dựng và sử dụng "bộ não thứ hai".**
 * **Việc ứng dụng "Building a Second Brain" là một quá trình cá nhân hóa.** Mỗi người cần tìm ra cách thức phù hợp với nhu cầu và mục tiêu của riêng mình.
 * **"Building a Second Brain" không chỉ là một phương pháp tổ chức thông tin, mà còn là một cách để chúng ta sống một cuộc sống trọn vẹn hơn.** Nó giúp chúng ta học hỏi, phát triển và thể hiện bản thân một cách tốt nhất.
-* [[Publish/Ghi chú mạng lưới/Xây dựng bộ não thứ hai\|Xây dựng bộ não thứ hai]]  : 10 phương pháp xây dựng bộ não thứ 2
+* [[Xây dựng bộ não thứ hai\|Xây dựng bộ não thứ hai]]  : 10 phương pháp xây dựng bộ não thứ 2
 
 Mình tin rằng "Building a Second Brain" là một cuốn sách có giá trị cho bất kỳ ai muốn nâng cao hiệu quả làm việc, học tập và tận hưởng cuộc sống.
