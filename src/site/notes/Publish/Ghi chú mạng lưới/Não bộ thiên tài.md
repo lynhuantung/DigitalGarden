@@ -33,4 +33,4 @@ Tóm lại, mối liên hệ giữa não bộ thiên tài, thuyết lan truyền
 
 # Liên kết
 [[Publish/Ghi chú mạng lưới/Xây dựng bộ não thứ hai\|Xây dựng bộ não thứ hai]]
-[[Publish/Ghi chú mạng lưới/Infranodus và graph view\|Infranodus và graph view]]
+[[Infranodus và graph view\|Infranodus và graph view]]

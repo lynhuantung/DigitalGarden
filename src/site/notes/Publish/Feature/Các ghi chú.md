@@ -142,22 +142,16 @@
 | Feature                                        | Notes                                                                        |
 | Feature                                        | Simple-Page                                                                  |
 | Feature                                        | Thiết lập digital garden                                                     |
-| Ghi chú mạng lưới                              | Infranidus ví dụ                                                             |
 | Ghi chú mạng lưới                              | InfraNodus                                                                   |
-| Ghi chú mạng lưới                              | Infranodus - cơ chế                                                          |
-| Ghi chú mạng lưới                              | Infranodus và graph view                                                     |
-| Ghi chú mạng lưới                              | Infranodus ví dụ                                                             |
-| Ghi chú mạng lưới                              | InfraNodus-cont                                                              |
-| Ghi chú mạng lưới                              | Infranodus-cont2                                                             |
 | Ghi chú mạng lưới                              | lan truyền kích hoạt                                                         |
 | Ghi chú mạng lưới                              | lemmatization                                                                |
 | Ghi chú mạng lưới                              | Leonardo da Vinci                                                            |
 | Ghi chú mạng lưới                              | Não bộ thiên tài                                                             |
 | Ghi chú mạng lưới                              | Ngưỡng kích hoạt                                                             |
 | Ghi chú mạng lưới                              | Spread activation theory                                                     |
-| Ghi chú mạng lưới                              | Tái tạo văn bản infranodus                                                   |
 | Ghi chú mạng lưới                              | Tư duy sâu                                                                   |
 | Ghi chú mạng lưới                              | Ứng dụng secondbrain vào obsidian                                            |
+| Ghi chú mạng lưới                              | ví dụ Infranodus                                                             |
 | Ghi chú mạng lưới                              | Xây dựng bộ não thứ hai                                                      |
 | Giáo Dục                                       | Bài tập về nhà                                                               |
 | Giáo Dục                                       | Bài tập về nhà 1                                                             |

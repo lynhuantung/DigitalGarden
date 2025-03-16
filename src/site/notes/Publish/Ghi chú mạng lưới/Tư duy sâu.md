@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Tư duy sâu.md","permalink":"/ghi-chu-mang-luoi/tu-duy-sau/","dgPassFrontmatter":true,"updated":"2025-01-12T15:16:54.665+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/Tư duy sâu.md","permalink":"/ghi-chu-mang-luoi/tu-duy-sau/","dgPassFrontmatter":true,"updated":"2025-03-16T09:10:46.326+07:00"}
 ---
 
 # Tư duy sâu
@@ -76,7 +76,7 @@ summary: Ghi chú về vai trò của trái cây trong việc cung cấp vitamin
 
 ---
 
-#### **5. Tư duy nguyên bản từ  [[Publish/Ghi chú mạng lưới/Infranodus và graph view\|Infranodus và graph view]]**
+#### **5. Tư duy nguyên bản từ  [[Publish/Ghi chú mạng lưới/InfraNodus#^961668\|So sánh Infranodus và graph view]]**
 
 - **Kỹ thuật áp dụng:**
     
