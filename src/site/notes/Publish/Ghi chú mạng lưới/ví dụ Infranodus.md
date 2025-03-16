@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/ví dụ Infranodus.md","permalink":"/ghi-chu-mang-luoi/vi-du-infranodus/","dgPassFrontmatter":true,"updated":"2025-03-16T09:02:44.036+07:00"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Ghi chú mạng lưới/ví dụ Infranodus.md","permalink":"/ghi-chu-mang-luoi/vi-du-infranodus/","dgPassFrontmatter":true,"updated":"2025-03-16T10:34:53.854+07:00"}
 ---
 
 Sử dụng một tình huống đơn giản và quen thuộc: phân tích một bài viết ngắn về "Thói quen buổi sáng". Tôi sẽ trình bày từng bước để bạn thấy rõ cách công cụ này trích xuất từ khóa, xây dựng mạng lưới, tìm lỗ hổng và gợi ý mở rộng.
@@ -12,7 +12,7 @@ Sử dụng một tình huống đơn giản và quen thuộc: phân tích một
 "Mỗi sáng, tôi thường dậy sớm để tập thể dục và uống một cốc nước chanh. Tập thể dục giúp tôi cảm thấy tràn đầy năng lượng cho cả ngày. Nước chanh hỗ trợ tiêu hóa và cung cấp vitamin C. Sau đó, tôi ăn sáng nhẹ với bánh mì và đọc sách để bắt đầu ngày mới một cách tích cực."
 
 #### **Bước 1: Trích xuất từ khóa**
-InfraNodus quét văn bản và chọn ra các từ khóa quan trọng dựa trên tần suất và ý nghĩa:
+InfraNodus quét văn bản và chọn ra các từ khóa quan trọng (từ khóa sẽ [[Publish/Ghi chú mạng lưới/Đưa về từ gốc\|Đưa về từ gốc]]) dựa trên tần suất và ý nghĩa:
 - Dậy sớm , Tập thể dục, Nước chanh, Năng lượng, Tiêu hóa, Vitamin C, Ăn sáng, Bánh mì,  Đọc sách, Tích cực
 
 #### **Bước 2: Xây dựng mạng lưới từ khóa**
@@ -92,4 +92,5 @@ Nhận xét về sự khác biệt giữa **trước** và **sau** như sau:
 
 
 ---
-InfraNodus giúp bạn thấy rõ cách các ý tưởng liên kết với nhau và bổ sung những gì còn thiếu để câu chuyện trở nên trọn vẹn hơn.
+InfraNodus giúp bạn thấy rõ cách các ý tưởng liên kết với nhau và bổ sung những gì còn thiếu để câu chuyện trở nên trọn vẹn hơn. Xem thêm ví dụ [[Publish/Ghi chú mạng lưới/Quả Táo/1.Quả Táo\|1.Quả Táo]]
+

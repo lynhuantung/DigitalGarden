@@ -143,15 +143,22 @@
 | Feature                                        | Simple-Page                                                                  |
 | Feature                                        | Thiết lập digital garden                                                     |
 | Ghi chú mạng lưới                              | 0. Thuyết Lan Truyền Kích Hoạt                                               |
+| Ghi chú mạng lưới                              | Đưa về từ gốc                                                                |
 | Ghi chú mạng lưới                              | InfraNodus                                                                   |
 | Ghi chú mạng lưới                              | lan truyền kích hoạt                                                         |
-| Ghi chú mạng lưới                              | lemmatization                                                                |
 | Ghi chú mạng lưới                              | Leonardo da Vinci                                                            |
 | Ghi chú mạng lưới                              | Não bộ thiên tài                                                             |
 | Ghi chú mạng lưới                              | Ngưỡng kích hoạt                                                             |
 | Ghi chú mạng lưới                              | Tư duy sâu                                                                   |
 | Ghi chú mạng lưới                              | Ứng dụng secondbrain vào obsidian                                            |
 | Ghi chú mạng lưới                              | ví dụ Infranodus                                                             |
+| Ghi chú mạng lưới/Quả Táo                      | 1.Quả Táo                                                                    |
+| Ghi chú mạng lưới/Quả Táo                      | Các Giống Táo                                                                |
+| Ghi chú mạng lưới/Quả Táo                      | Công Thức Món Ăn Từ Táo                                                      |
+| Ghi chú mạng lưới/Quả Táo                      | Dinh Dưỡng Của Quả Táo                                                       |
+| Ghi chú mạng lưới/Quả Táo                      | Táo Trong Công Nghệ                                                          |
+| Ghi chú mạng lưới/Quả Táo                      | Táo Trong Thần Thoại                                                         |
+| Ghi chú mạng lưới/Quả Táo                      | Táo Và Sức Khỏe                                                              |
 | Hệ sinh thái ao cá                             | 0. Hệ sinh thái ao cá                                                        |
 | Hệ sinh thái ao cá                             | Ánh sáng mặt trời                                                            |
 | Hệ sinh thái ao cá                             | Cá trong ao                                                                  |
@@ -180,12 +187,5 @@
 | Não bộ tổng quan/Khoa hoc than kinh            | Độ-Dẻo-synapse                                                               |
 | Não bộ tổng quan/Khoa hoc than kinh            | Hình-thành-nơron                                                             |
 | Não bộ tổng quan/Khoa hoc than kinh            | Khoa-hoc-than-kinh-index                                                     |
-| Quả Táo                                        | 1.Quả Táo                                                                    |
-| Quả Táo                                        | Các Giống Táo                                                                |
-| Quả Táo                                        | Công Thức Món Ăn Từ Táo                                                      |
-| Quả Táo                                        | Dinh Dưỡng Của Quả Táo                                                       |
-| Quả Táo                                        | Táo Trong Công Nghệ                                                          |
-| Quả Táo                                        | Táo Trong Thần Thoại                                                         |
-| Quả Táo                                        | Táo Và Sức Khỏe                                                              |
 
 { .block-language-dataview}
